@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T07:41:26.974913",
+  "generated_at": "2025-10-18T08:12:24.877135",
   "organization_health": {
     "total_members": 16,
     "active_contributors": 18,
@@ -7,7 +7,7 @@
     "established_members": 7
   },
   "collaboration_metrics": {
-    "total_collaborations": 76,
+    "total_collaborations": 69,
     "cross_repo_contributors": 4,
     "avg_collaborators_per_user": 7.666666666666667
   },
