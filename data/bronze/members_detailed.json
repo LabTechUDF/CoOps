@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-10-30T05:21:13.899292",
+      "extracted_at": "2025-10-31T05:22:15.902239",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -107,9 +107,9 @@
     "public_repos": 27,
     "public_gists": 0,
     "followers": 6,
-    "following": 39,
+    "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
-    "updated_at": "2025-10-08T13:57:40Z"
+    "updated_at": "2025-10-31T05:17:03Z"
   },
   {
     "login": "thiagodiasz",
@@ -174,7 +174,7 @@
     "hireable": null,
     "bio": null,
     "twitter_username": null,
-    "public_repos": 17,
+    "public_repos": 18,
     "public_gists": 0,
     "followers": 1,
     "following": 1,

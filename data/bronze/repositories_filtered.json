@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-10-30T05:21:09.797420",
+      "extracted_at": "2025-10-31T05:22:11.909454",
       "file_path": "data/bronze/repositories_filtered.json",
       "record_count": 15
     }
@@ -1606,16 +1606,16 @@
     "releases_url": "https://api.github.com/repos/LabTechUDF/RAG-TCC/releases{/id}",
     "deployments_url": "https://api.github.com/repos/LabTechUDF/RAG-TCC/deployments",
     "created_at": "2025-07-19T19:24:15Z",
-    "updated_at": "2025-10-30T02:07:02Z",
-    "pushed_at": "2025-10-30T02:06:58Z",
+    "updated_at": "2025-10-31T02:04:38Z",
+    "pushed_at": "2025-10-31T00:07:27Z",
     "git_url": "git://github.com/LabTechUDF/RAG-TCC.git",
     "ssh_url": "git@github.com:LabTechUDF/RAG-TCC.git",
     "clone_url": "https://github.com/LabTechUDF/RAG-TCC.git",
     "svn_url": "https://github.com/LabTechUDF/RAG-TCC",
     "homepage": null,
-    "size": 24348,
-    "stargazers_count": 0,
-    "watchers_count": 0,
+    "size": 24368,
+    "stargazers_count": 1,
+    "watchers_count": 1,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -1623,7 +1623,7 @@
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 0,
+    "forks_count": 1,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -1634,9 +1634,9 @@
     "web_commit_signoff_required": false,
     "topics": [],
     "visibility": "public",
-    "forks": 0,
+    "forks": 1,
     "open_issues": 3,
-    "watchers": 0,
+    "watchers": 1,
     "default_branch": "main",
     "permissions": {
       "admin": false,
