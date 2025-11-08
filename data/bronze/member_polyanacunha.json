@@ -31,9 +31,9 @@
   "followers": 7,
   "following": 2,
   "created_at": "2022-02-01T23:41:40Z",
-  "updated_at": "2025-08-07T20:06:37Z",
+  "updated_at": "2025-11-07T18:47:32Z",
   "_metadata": {
-    "extracted_at": "2025-11-07T05:21:42.237043",
+    "extracted_at": "2025-11-08T05:19:45.995235",
     "file_path": "data/bronze/member_polyanacunha.json"
   }
 }
