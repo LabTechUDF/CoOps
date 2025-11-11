@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-11-10T05:22:53.003535",
+      "extracted_at": "2025-11-11T05:21:56.573144",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -389,7 +389,7 @@
     "followers": 3,
     "following": 2,
     "created_at": "2020-07-27T14:17:02Z",
-    "updated_at": "2025-11-04T01:03:37Z"
+    "updated_at": "2025-11-10T13:16:58Z"
   },
   {
     "login": "whiterabbitholes",
@@ -561,7 +561,7 @@
     "twitter_username": null,
     "public_repos": 17,
     "public_gists": 0,
-    "followers": 7,
+    "followers": 8,
     "following": 9,
     "created_at": "2022-05-05T23:04:02Z",
     "updated_at": "2025-11-07T11:15:28Z"
