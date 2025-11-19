@@ -31,9 +31,9 @@
   "followers": 3,
   "following": 1,
   "created_at": "2023-07-06T23:35:45Z",
-  "updated_at": "2025-11-13T16:39:27Z",
+  "updated_at": "2025-11-19T00:02:41Z",
   "_metadata": {
-    "extracted_at": "2025-11-18T05:22:04.527736",
+    "extracted_at": "2025-11-19T05:22:28.431769",
     "file_path": "data/bronze/member_Lucas-Germano.json"
   }
 }
