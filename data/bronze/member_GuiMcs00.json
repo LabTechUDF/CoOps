@@ -31,9 +31,9 @@
   "followers": 6,
   "following": 42,
   "created_at": "2022-08-23T00:44:38Z",
-  "updated_at": "2025-11-09T18:27:26Z",
+  "updated_at": "2025-11-21T19:06:19Z",
   "_metadata": {
-    "extracted_at": "2025-11-21T05:22:18.448841",
+    "extracted_at": "2025-11-22T05:20:17.362605",
     "file_path": "data/bronze/member_GuiMcs00.json"
   }
 }
