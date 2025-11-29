@@ -26,14 +26,14 @@
   "hireable": null,
   "bio": "🚀 Desenvolvedor Web | Django & DRF\r\n💾 PostgreSQL | ☁️ AWS | 🐳 Docker | ⚙️ DevOps\r\nCriando APIs escaláveis e automatizando processos.",
   "twitter_username": null,
-  "public_repos": 9,
+  "public_repos": 10,
   "public_gists": 0,
   "followers": 9,
   "following": 7,
   "created_at": "2023-03-29T20:02:45Z",
   "updated_at": "2025-11-14T05:03:43Z",
   "_metadata": {
-    "extracted_at": "2025-11-28T05:22:57.424811",
+    "extracted_at": "2025-11-29T05:21:29.866288",
     "file_path": "data/bronze/member_YuriNoriki.json"
   }
 }
