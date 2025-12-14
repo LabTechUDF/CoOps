@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-12-13T05:23:52.119209",
+      "extracted_at": "2025-12-14T05:22:51.383903",
       "file_path": "data/silver/collaboration_edges.json",
       "record_count": 69
     }
@@ -28,28 +28,28 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Gabriel-br07",
-    "target": "danrleypereira",
-    "weight": 2,
-    "repos": [
-      "python-services",
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Gabriel-br07",
-    "target": "josue-oliveiraa",
-    "weight": 2,
-    "repos": [
-      "python-services",
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
     "source": "GuiMcs00",
     "target": "josue-oliveiraa",
+    "weight": 2,
+    "repos": [
+      "python-services",
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
+    "target": "josue-oliveiraa",
+    "weight": 2,
+    "repos": [
+      "python-services",
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
+    "target": "danrleypereira",
     "weight": 2,
     "repos": [
       "python-services",
@@ -68,8 +68,8 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "danrleypereira",
-    "target": "polyanacunha",
+    "source": "josue-oliveiraa",
+    "target": "pedruck",
     "weight": 1,
     "repos": [
       "python-services"
@@ -86,34 +86,7 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "araujow-g",
-    "target": "danrleypereira",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "YuriNoriki",
-    "target": "danrleypereira",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "josue-oliveiraa",
-    "target": "polyanacunha",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "josue-oliveiraa",
+    "source": "GuiMcs00",
     "target": "pedruck",
     "weight": 1,
     "repos": [
@@ -122,17 +95,8 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "araujow-g",
-    "target": "josue-oliveiraa",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "YuriNoriki",
-    "target": "josue-oliveiraa",
+    "source": "Gabriel-br07",
+    "target": "pedruck",
     "weight": 1,
     "repos": [
       "python-services"
@@ -150,16 +114,7 @@
   },
   {
     "source": "araujow-g",
-    "target": "polyanacunha",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Gabriel-br07",
-    "target": "polyanacunha",
+    "target": "pedruck",
     "weight": 1,
     "repos": [
       "python-services"
@@ -168,7 +123,7 @@
   },
   {
     "source": "YuriNoriki",
-    "target": "polyanacunha",
+    "target": "pedruck",
     "weight": 1,
     "repos": [
       "python-services"
@@ -176,7 +131,7 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "GuiMcs00",
+    "source": "josue-oliveiraa",
     "target": "polyanacunha",
     "weight": 1,
     "repos": [
@@ -186,16 +141,7 @@
   },
   {
     "source": "araujow-g",
-    "target": "pedruck",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Gabriel-br07",
-    "target": "pedruck",
+    "target": "josue-oliveiraa",
     "weight": 1,
     "repos": [
       "python-services"
@@ -204,172 +150,118 @@
   },
   {
     "source": "YuriNoriki",
-    "target": "pedruck",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "GuiMcs00",
-    "target": "pedruck",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Gabriel-br07",
-    "target": "araujow-g",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "YuriNoriki",
-    "target": "araujow-g",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "GuiMcs00",
-    "target": "araujow-g",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Gabriel-br07",
-    "target": "YuriNoriki",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "GuiMcs00",
-    "target": "YuriNoriki",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Danilo019",
     "target": "josue-oliveiraa",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "josue-oliveiraa",
-    "target": "thiagodiasz",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Bnicole98",
-    "target": "josue-oliveiraa",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Lucas-Germano",
-    "target": "josue-oliveiraa",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Bappoz",
-    "target": "josue-oliveiraa",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Danilo019",
-    "target": "danrleypereira",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
+      "python-services"
     ],
     "collaboration_type": "same_repository"
   },
   {
     "source": "danrleypereira",
-    "target": "thiagodiasz",
+    "target": "polyanacunha",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "python-services"
     ],
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Bnicole98",
+    "source": "araujow-g",
     "target": "danrleypereira",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "python-services"
     ],
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Lucas-Germano",
+    "source": "YuriNoriki",
     "target": "danrleypereira",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "python-services"
     ],
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Bappoz",
-    "target": "danrleypereira",
+    "source": "GuiMcs00",
+    "target": "polyanacunha",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "python-services"
     ],
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Danilo019",
-    "target": "thiagodiasz",
+    "source": "GuiMcs00",
+    "target": "araujow-g",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "python-services"
     ],
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Bnicole98",
-    "target": "Danilo019",
+    "source": "GuiMcs00",
+    "target": "YuriNoriki",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
+    "target": "polyanacunha",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
+    "target": "araujow-g",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
+    "target": "YuriNoriki",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "araujow-g",
+    "target": "polyanacunha",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "YuriNoriki",
+    "target": "polyanacunha",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "YuriNoriki",
+    "target": "araujow-g",
+    "weight": 1,
+    "repos": [
+      "python-services"
     ],
     "collaboration_type": "same_repository"
   },
@@ -383,8 +275,89 @@
     "collaboration_type": "same_repository"
   },
   {
+    "source": "Lucas-Germano",
+    "target": "josue-oliveiraa",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Lucas-Germano",
+    "target": "danrleypereira",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Lucas-Germano",
+    "target": "thiagodiasz",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Bappoz",
+    "target": "Lucas-Germano",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "GuiMcs00",
+    "target": "Lucas-Germano",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
+    "target": "Lucas-Germano",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Bnicole98",
+    "target": "Lucas-Germano",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
     "source": "Danilo019",
-    "target": "Gabriel-br07",
+    "target": "josue-oliveiraa",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Danilo019",
+    "target": "danrleypereira",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Danilo019",
+    "target": "thiagodiasz",
     "weight": 1,
     "repos": [
       "interfaces-usuario"
@@ -410,7 +383,25 @@
     "collaboration_type": "same_repository"
   },
   {
+    "source": "Danilo019",
+    "target": "Gabriel-br07",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
     "source": "Bnicole98",
+    "target": "Danilo019",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "josue-oliveiraa",
     "target": "thiagodiasz",
     "weight": 1,
     "repos": [
@@ -419,7 +410,25 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Lucas-Germano",
+    "source": "Bappoz",
+    "target": "josue-oliveiraa",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Bnicole98",
+    "target": "josue-oliveiraa",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "danrleypereira",
     "target": "thiagodiasz",
     "weight": 1,
     "repos": [
@@ -428,8 +437,17 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Gabriel-br07",
-    "target": "thiagodiasz",
+    "source": "Bappoz",
+    "target": "danrleypereira",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Bnicole98",
+    "target": "danrleypereira",
     "weight": 1,
     "repos": [
       "interfaces-usuario"
@@ -455,8 +473,8 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Bnicole98",
-    "target": "Lucas-Germano",
+    "source": "Gabriel-br07",
+    "target": "thiagodiasz",
     "weight": 1,
     "repos": [
       "interfaces-usuario"
@@ -465,6 +483,24 @@
   },
   {
     "source": "Bnicole98",
+    "target": "thiagodiasz",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Bappoz",
+    "target": "GuiMcs00",
+    "weight": 1,
+    "repos": [
+      "interfaces-usuario"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Bappoz",
     "target": "Gabriel-br07",
     "weight": 1,
     "repos": [
@@ -491,34 +527,7 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Gabriel-br07",
-    "target": "Lucas-Germano",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Bappoz",
-    "target": "Lucas-Germano",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "GuiMcs00",
-    "target": "Lucas-Germano",
-    "weight": 1,
-    "repos": [
-      "interfaces-usuario"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Bappoz",
+    "source": "Bnicole98",
     "target": "Gabriel-br07",
     "weight": 1,
     "repos": [
@@ -527,17 +536,17 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Bappoz",
-    "target": "GuiMcs00",
+    "source": "MartinsArtur",
+    "target": "leltonborges",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "java-services"
     ],
     "collaboration_type": "same_repository"
   },
   {
     "source": "danrleypereira",
-    "target": "tauisilva",
+    "target": "leltonborges",
     "weight": 1,
     "repos": [
       "java-services"
@@ -555,24 +564,6 @@
   },
   {
     "source": "MartinsArtur",
-    "target": "tauisilva",
-    "weight": 1,
-    "repos": [
-      "java-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "danrleypereira",
-    "target": "leltonborges",
-    "weight": 1,
-    "repos": [
-      "java-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "MartinsArtur",
     "target": "danrleypereira",
     "weight": 1,
     "repos": [
@@ -582,7 +573,7 @@
   },
   {
     "source": "MartinsArtur",
-    "target": "leltonborges",
+    "target": "tauisilva",
     "weight": 1,
     "repos": [
       "java-services"
@@ -591,7 +582,25 @@
   },
   {
     "source": "danrleypereira",
-    "target": "juanpbarros20",
+    "target": "tauisilva",
+    "weight": 1,
+    "repos": [
+      "java-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "danrleypereira",
+    "target": "whiterabbitholes",
+    "weight": 1,
+    "repos": [
+      "entidades"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "GuiMcs00",
+    "target": "whiterabbitholes",
     "weight": 1,
     "repos": [
       "entidades"
@@ -608,7 +617,7 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "GuiMcs00",
+    "source": "danrleypereira",
     "target": "juanpbarros20",
     "weight": 1,
     "repos": [
@@ -617,17 +626,8 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "danrleypereira",
-    "target": "whiterabbitholes",
-    "weight": 1,
-    "repos": [
-      "entidades"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
     "source": "GuiMcs00",
-    "target": "whiterabbitholes",
+    "target": "juanpbarros20",
     "weight": 1,
     "repos": [
       "entidades"
