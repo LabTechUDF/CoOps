@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 55,
   "public_gists": 0,
-  "followers": 46,
+  "followers": 48,
   "following": 34,
   "created_at": "2015-04-20T00:48:52Z",
   "updated_at": "2025-10-08T17:43:56Z",
   "_metadata": {
-    "extracted_at": "2025-12-29T05:30:47.897098",
+    "extracted_at": "2025-12-30T05:26:21.159167",
     "file_path": "data/bronze/member_danrleypereira.json"
   }
 }
