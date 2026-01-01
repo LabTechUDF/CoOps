@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-12-31T05:26:59.592194",
+      "extracted_at": "2026-01-01T05:29:55.558496",
       "file_path": "data/bronze/repositories_raw.json",
       "record_count": 17
     }
@@ -1830,14 +1830,14 @@
     "releases_url": "https://api.github.com/repos/LabTechUDF/CoOps/releases{/id}",
     "deployments_url": "https://api.github.com/repos/LabTechUDF/CoOps/deployments",
     "created_at": "2025-10-18T07:38:34Z",
-    "updated_at": "2025-12-30T05:27:22Z",
-    "pushed_at": "2025-12-30T05:27:18Z",
+    "updated_at": "2025-12-31T05:28:06Z",
+    "pushed_at": "2025-12-31T05:28:03Z",
     "git_url": "git://github.com/LabTechUDF/CoOps.git",
     "ssh_url": "git@github.com:LabTechUDF/CoOps.git",
     "clone_url": "https://github.com/LabTechUDF/CoOps.git",
     "svn_url": "https://github.com/LabTechUDF/CoOps",
     "homepage": null,
-    "size": 13313,
+    "size": 13412,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "TypeScript",
