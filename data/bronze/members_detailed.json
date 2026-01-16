@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-01-15T05:28:40.838883",
+      "extracted_at": "2026-01-16T05:28:02.459607",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -144,7 +144,7 @@
     "followers": 7,
     "following": 6,
     "created_at": "2020-09-03T20:03:13Z",
-    "updated_at": "2026-01-05T15:57:40Z"
+    "updated_at": "2026-01-15T12:55:04Z"
   },
   {
     "login": "Gabriel-br07",
