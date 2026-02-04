@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-03T05:52:20.883296",
+      "extracted_at": "2026-02-04T05:51:17.613257",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -559,7 +559,7 @@
     "hireable": null,
     "bio": "sou uma pessoa amante da tecnológia venho aprimorando meus conhecimento em programação e desenvolvimeno web e estudando para ser um ciêntista da computação.",
     "twitter_username": null,
-    "public_repos": 21,
+    "public_repos": 22,
     "public_gists": 0,
     "followers": 6,
     "following": 9,
