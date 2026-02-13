@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-12T06:05:14.051396",
+      "extracted_at": "2026-02-13T06:01:45.528459",
       "file_path": "data/bronze/issue_events_python-services.json",
       "record_count": 100
     }
@@ -125,7 +125,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/65/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -253,7 +254,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/65/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -1139,7 +1141,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/64/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -1854,7 +1857,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/35/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -2941,7 +2945,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/35/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -3294,7 +3299,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/50/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -3596,7 +3602,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -5094,7 +5101,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -5437,7 +5445,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -6700,7 +6709,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/50/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -6848,7 +6858,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -7897,7 +7908,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -8044,7 +8056,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -10403,7 +10416,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11252,7 +11266,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11585,7 +11600,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11774,7 +11790,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11932,7 +11949,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/34/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12131,7 +12149,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/34/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12289,7 +12308,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12488,7 +12508,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12687,7 +12708,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12845,7 +12867,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/37/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13044,7 +13067,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/37/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13202,7 +13226,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/39/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13401,7 +13426,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/39/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13550,7 +13576,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/41/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13740,7 +13767,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/41/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13888,7 +13916,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/33/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -14077,7 +14106,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/33/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -15043,7 +15073,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"

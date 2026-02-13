@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-12T06:05:16.703786",
+      "extracted_at": "2026-02-13T06:01:48.080678",
       "file_path": "data/bronze/issue_events_all.json",
       "record_count": 210
     }
@@ -125,7 +125,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/65/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -253,7 +254,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/65/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -1139,7 +1141,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/64/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -1854,7 +1857,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/35/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -2941,7 +2945,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/35/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -3294,7 +3299,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/50/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -3596,7 +3602,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -5094,7 +5101,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -5437,7 +5445,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -6700,7 +6709,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/50/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -6848,7 +6858,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -7897,7 +7908,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -8044,7 +8056,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -10403,7 +10416,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11252,7 +11266,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11585,7 +11600,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11774,7 +11790,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -11932,7 +11949,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/34/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12131,7 +12149,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/34/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12289,7 +12308,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12488,7 +12508,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12687,7 +12708,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -12845,7 +12867,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/37/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13044,7 +13067,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/37/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13202,7 +13226,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/39/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13401,7 +13426,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/39/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13550,7 +13576,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/41/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13740,7 +13767,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/41/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -13888,7 +13916,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/33/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -14077,7 +14106,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/33/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -15043,7 +15073,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "python-services"
@@ -17229,7 +17260,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/37/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -17357,7 +17389,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/37/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -17476,7 +17509,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/36/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -17595,7 +17629,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/35/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -17714,7 +17749,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/34/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -17973,7 +18009,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/29/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -18613,7 +18650,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/28/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -18834,7 +18872,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/29/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -18982,7 +19021,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/19/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -19171,7 +19211,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/19/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -19360,7 +19401,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/28/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -21177,7 +21219,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/22/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -21733,7 +21776,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/25/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -21861,7 +21905,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/24/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -21989,7 +22034,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/24/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -23624,7 +23670,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/22/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -23957,7 +24004,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/22/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -25356,7 +25404,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/17/timeline",
       "performed_via_github_app": null,
-      "state_reason": null
+      "state_reason": null,
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -26751,7 +26800,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/12/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -27341,7 +27391,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/12/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -27819,7 +27870,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -28227,7 +28279,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/12/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -28384,7 +28437,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -28685,7 +28739,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/5/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -28832,7 +28887,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -29537,7 +29593,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -29726,7 +29783,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -29944,7 +30002,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -30482,7 +30541,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -30639,7 +30699,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -30758,7 +30819,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -31078,7 +31140,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/5/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
@@ -31542,7 +31605,8 @@
       },
       "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/5/timeline",
       "performed_via_github_app": null,
-      "state_reason": "completed"
+      "state_reason": "completed",
+      "pinned_comment": null
     },
     "performed_via_github_app": null,
     "repo_name": "interfaces-usuario"
