@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-13T06:01:41.180065",
+      "extracted_at": "2026-02-14T05:47:36.047622",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -100,6 +100,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -139,7 +141,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T06:01:40.320864",
+      "extracted_at": "2026-02-14T05:47:34.681971",
       "file_path": "data/bronze/repo_python-services.json"
     }
   },
@@ -237,6 +239,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -276,7 +280,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T06:01:40.536614",
+      "extracted_at": "2026-02-14T05:47:35.020131",
       "file_path": "data/bronze/repo_java-services.json"
     }
   },
@@ -374,6 +378,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -413,7 +419,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T06:01:40.759370",
+      "extracted_at": "2026-02-14T05:47:35.328049",
       "file_path": "data/bronze/repo_interfaces-usuario.json"
     }
   },
@@ -511,6 +517,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -550,7 +558,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T06:01:40.968299",
+      "extracted_at": "2026-02-14T05:47:35.717035",
       "file_path": "data/bronze/repo_entidades.json"
     }
   },
@@ -648,6 +656,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -687,7 +697,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T06:01:41.179638",
+      "extracted_at": "2026-02-14T05:47:36.047214",
       "file_path": "data/bronze/repo_demo-repository.json"
     }
   }
