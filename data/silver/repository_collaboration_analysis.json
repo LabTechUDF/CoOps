@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-14T05:48:13.116533",
+      "extracted_at": "2026-02-15T05:58:30.783296",
       "file_path": "data/silver/repository_collaboration_analysis.json",
       "record_count": 5
     }
@@ -10,13 +10,13 @@
     "repo": "interfaces-usuario",
     "contributor_count": 9,
     "contributors": [
+      "danrleypereira",
+      "Bappoz",
+      "josue-oliveiraa",
       "Danilo019",
       "thiagodiasz",
-      "josue-oliveiraa",
-      "danrleypereira",
-      "Lucas-Germano",
       "Gabriel-br07",
-      "Bappoz",
+      "Lucas-Germano",
       "GuiMcs00",
       "Bnicole98"
     ],
@@ -28,14 +28,14 @@
     "repo": "python-services",
     "contributor_count": 8,
     "contributors": [
-      "josue-oliveiraa",
       "danrleypereira",
-      "Gabriel-br07",
-      "araujow-g",
-      "polyanacunha",
       "YuriNoriki",
+      "araujow-g",
+      "josue-oliveiraa",
       "pedruck",
-      "GuiMcs00"
+      "Gabriel-br07",
+      "GuiMcs00",
+      "polyanacunha"
     ],
     "potential_collaborations": 28,
     "actual_collaborations": 28,
@@ -45,10 +45,10 @@
     "repo": "java-services",
     "contributor_count": 4,
     "contributors": [
+      "tauisilva",
       "MartinsArtur",
-      "leltonborges",
       "danrleypereira",
-      "tauisilva"
+      "leltonborges"
     ],
     "potential_collaborations": 6,
     "actual_collaborations": 6,
@@ -58,10 +58,10 @@
     "repo": "entidades",
     "contributor_count": 4,
     "contributors": [
-      "juanpbarros20",
-      "GuiMcs00",
+      "whiterabbitholes",
       "danrleypereira",
-      "whiterabbitholes"
+      "GuiMcs00",
+      "juanpbarros20"
     ],
     "potential_collaborations": 6,
     "actual_collaborations": 6,
