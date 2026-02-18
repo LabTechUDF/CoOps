@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-17T05:58:37.730360",
+      "extracted_at": "2026-02-18T06:02:54.598819",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -109,7 +109,7 @@
     "followers": 6,
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
-    "updated_at": "2025-11-22T17:35:45Z"
+    "updated_at": "2026-02-17T06:50:41Z"
   },
   {
     "login": "thiagodiasz",
@@ -244,7 +244,7 @@
     "hireable": null,
     "bio": "🚀 Desenvolvedor Web | Django & DRF\r\n💾 PostgreSQL | ☁️ AWS | 🐳 Docker | ⚙️ DevOps\r\nCriando APIs escaláveis e automatizando processos.",
     "twitter_username": null,
-    "public_repos": 10,
+    "public_repos": 11,
     "public_gists": 0,
     "followers": 10,
     "following": 7,
