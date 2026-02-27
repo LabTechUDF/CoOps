@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-26T05:59:05.040092",
+      "extracted_at": "2026-02-27T05:54:17.699578",
       "file_path": "data/bronze/repositories_filtered.json",
       "record_count": 15
     }
@@ -1205,7 +1205,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -1215,7 +1215,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
