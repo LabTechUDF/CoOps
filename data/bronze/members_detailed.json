@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-01T05:53:56.336749",
+      "extracted_at": "2026-03-02T05:54:26.416262",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -74,7 +74,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-01-31T19:57:55Z"
+    "updated_at": "2026-03-02T01:24:21Z"
   },
   {
     "login": "GuiMcs00",
@@ -144,7 +144,7 @@
     "followers": 7,
     "following": 7,
     "created_at": "2020-09-03T20:03:13Z",
-    "updated_at": "2026-02-24T00:51:36Z"
+    "updated_at": "2026-03-01T22:07:26Z"
   },
   {
     "login": "Gabriel-br07",
@@ -389,7 +389,7 @@
     "followers": 4,
     "following": 2,
     "created_at": "2020-07-27T14:17:02Z",
-    "updated_at": "2026-02-23T17:57:20Z"
+    "updated_at": "2026-03-01T14:34:12Z"
   },
   {
     "login": "whiterabbitholes",
