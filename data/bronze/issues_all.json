@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-02T05:54:31.140759",
+      "extracted_at": "2026-03-03T05:52:03.874902",
       "file_path": "data/bronze/issues_all.json",
       "record_count": 46
     }
@@ -3770,7 +3770,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/37/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -3856,7 +3855,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/36/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -3942,7 +3940,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/35/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4028,7 +4025,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/34/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4114,7 +4110,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/29/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4232,7 +4227,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/28/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4318,7 +4312,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/25/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4413,7 +4406,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/24/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4551,7 +4543,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/22/timeline",
     "performed_via_github_app": null,
     "state_reason": "completed",
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4627,7 +4618,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/20/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4765,7 +4755,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/19/timeline",
     "performed_via_github_app": null,
     "state_reason": "completed",
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4841,7 +4830,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/18/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -4927,7 +4915,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/17/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -5003,7 +4990,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/16/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -5109,7 +5095,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/12/timeline",
     "performed_via_github_app": null,
     "state_reason": "completed",
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -5247,7 +5232,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9/timeline",
     "performed_via_github_app": null,
     "state_reason": "completed",
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -5353,7 +5337,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8/timeline",
     "performed_via_github_app": null,
     "state_reason": "completed",
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   },
   {
@@ -5459,7 +5442,6 @@
     "timeline_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/5/timeline",
     "performed_via_github_app": null,
     "state_reason": "completed",
-    "pinned_comment": null,
     "repo_name": "interfaces-usuario"
   }
 ]
