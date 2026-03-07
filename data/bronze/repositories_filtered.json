@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-06T05:47:51.442748",
+      "extracted_at": "2026-03-07T05:38:41.388526",
       "file_path": "data/bronze/repositories_filtered.json",
       "record_count": 15
     }
@@ -1191,7 +1191,7 @@
     "clone_url": "https://github.com/LabTechUDF/research.git",
     "svn_url": "https://github.com/LabTechUDF/research",
     "homepage": null,
-    "size": 210414,
+    "size": 218917,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "Jupyter Notebook",
