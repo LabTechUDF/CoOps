@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 22,
   "public_gists": 0,
-  "followers": 12,
+  "followers": 13,
   "following": 23,
   "created_at": "2018-08-22T11:37:06Z",
   "updated_at": "2026-02-19T20:43:35Z",
   "_metadata": {
-    "extracted_at": "2026-03-10T05:48:26.142505",
+    "extracted_at": "2026-03-11T05:51:38.202691",
     "file_path": "data/bronze/member_tauisilva.json"
   }
 }
