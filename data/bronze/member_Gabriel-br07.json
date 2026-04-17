@@ -26,14 +26,14 @@
   "hireable": null,
   "bio": null,
   "twitter_username": null,
-  "public_repos": 19,
+  "public_repos": 20,
   "public_gists": 0,
   "followers": 1,
   "following": 1,
   "created_at": "2023-01-31T18:33:52Z",
   "updated_at": "2026-04-04T23:22:48Z",
   "_metadata": {
-    "extracted_at": "2026-04-16T06:57:24.318883",
+    "extracted_at": "2026-04-17T06:58:05.447515",
     "file_path": "data/bronze/member_Gabriel-br07.json"
   }
 }
