@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-04-21T06:59:08.550414",
+      "extracted_at": "2026-04-22T06:57:49.458743",
       "file_path": "data/silver/user_collaboration_metrics.json",
       "record_count": 18
     }
@@ -10,23 +10,23 @@
     "user": "danrleypereira",
     "collaborator_count": 17,
     "collaborators": [
-      "Bnicole98",
-      "tauisilva",
-      "araujow-g",
-      "thiagodiasz",
-      "polyanacunha",
-      "YuriNoriki",
-      "josue-oliveiraa",
-      "Danilo019",
-      "Bappoz",
-      "leltonborges",
-      "Gabriel-br07",
-      "juanpbarros20",
-      "MartinsArtur",
-      "Lucas-Germano",
-      "pedruck",
       "GuiMcs00",
-      "whiterabbitholes"
+      "araujow-g",
+      "whiterabbitholes",
+      "Gabriel-br07",
+      "leltonborges",
+      "polyanacunha",
+      "pedruck",
+      "josue-oliveiraa",
+      "thiagodiasz",
+      "tauisilva",
+      "Danilo019",
+      "MartinsArtur",
+      "Bnicole98",
+      "Lucas-Germano",
+      "Bappoz",
+      "juanpbarros20",
+      "YuriNoriki"
     ],
     "repositories_contributed": 5
   },
@@ -34,73 +34,73 @@
     "user": "GuiMcs00",
     "collaborator_count": 14,
     "collaborators": [
-      "Bnicole98",
       "araujow-g",
+      "whiterabbitholes",
+      "Gabriel-br07",
       "polyanacunha",
-      "YuriNoriki",
+      "pedruck",
       "josue-oliveiraa",
+      "thiagodiasz",
+      "danrleypereira",
       "Danilo019",
+      "Bnicole98",
+      "Lucas-Germano",
       "Bappoz",
       "juanpbarros20",
-      "Gabriel-br07",
-      "danrleypereira",
-      "Lucas-Germano",
-      "pedruck",
-      "thiagodiasz",
-      "whiterabbitholes"
+      "YuriNoriki"
     ],
     "repositories_contributed": 3
-  },
-  {
-    "user": "josue-oliveiraa",
-    "collaborator_count": 12,
-    "collaborators": [
-      "Bnicole98",
-      "araujow-g",
-      "thiagodiasz",
-      "polyanacunha",
-      "YuriNoriki",
-      "Danilo019",
-      "Bappoz",
-      "Gabriel-br07",
-      "danrleypereira",
-      "Lucas-Germano",
-      "pedruck",
-      "GuiMcs00"
-    ],
-    "repositories_contributed": 2
   },
   {
     "user": "Gabriel-br07",
     "collaborator_count": 12,
     "collaborators": [
-      "Bnicole98",
+      "GuiMcs00",
       "araujow-g",
-      "thiagodiasz",
       "polyanacunha",
-      "YuriNoriki",
-      "josue-oliveiraa",
-      "Danilo019",
-      "Bappoz",
-      "danrleypereira",
-      "Lucas-Germano",
       "pedruck",
-      "GuiMcs00"
+      "josue-oliveiraa",
+      "thiagodiasz",
+      "danrleypereira",
+      "Danilo019",
+      "Bnicole98",
+      "Lucas-Germano",
+      "Bappoz",
+      "YuriNoriki"
     ],
     "repositories_contributed": 2
   },
   {
-    "user": "Bnicole98",
+    "user": "josue-oliveiraa",
+    "collaborator_count": 12,
+    "collaborators": [
+      "GuiMcs00",
+      "araujow-g",
+      "Gabriel-br07",
+      "polyanacunha",
+      "pedruck",
+      "thiagodiasz",
+      "danrleypereira",
+      "Danilo019",
+      "Bnicole98",
+      "Lucas-Germano",
+      "Bappoz",
+      "YuriNoriki"
+    ],
+    "repositories_contributed": 2
+  },
+  {
+    "user": "thiagodiasz",
     "collaborator_count": 8,
     "collaborators": [
       "GuiMcs00",
-      "josue-oliveiraa",
-      "Danilo019",
-      "Bappoz",
       "Gabriel-br07",
+      "josue-oliveiraa",
       "danrleypereira",
-      "Lucas-Germano",
-      "thiagodiasz"
+      "Danilo019",
+      "Bnicole98",
+      "Bappoz",
+      "Lucas-Germano"
     ],
     "repositories_contributed": 1
   },
@@ -108,14 +108,29 @@
     "user": "Danilo019",
     "collaborator_count": 8,
     "collaborators": [
-      "Bnicole98",
       "GuiMcs00",
-      "josue-oliveiraa",
-      "Bappoz",
       "Gabriel-br07",
+      "thiagodiasz",
+      "josue-oliveiraa",
       "danrleypereira",
-      "Lucas-Germano",
-      "thiagodiasz"
+      "Bnicole98",
+      "Bappoz",
+      "Lucas-Germano"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "Bnicole98",
+    "collaborator_count": 8,
+    "collaborators": [
+      "GuiMcs00",
+      "Gabriel-br07",
+      "thiagodiasz",
+      "josue-oliveiraa",
+      "danrleypereira",
+      "Danilo019",
+      "Bappoz",
+      "Lucas-Germano"
     ],
     "repositories_contributed": 1
   },
@@ -123,14 +138,14 @@
     "user": "Bappoz",
     "collaborator_count": 8,
     "collaborators": [
-      "Bnicole98",
       "GuiMcs00",
-      "josue-oliveiraa",
-      "Danilo019",
       "Gabriel-br07",
+      "thiagodiasz",
+      "josue-oliveiraa",
       "danrleypereira",
-      "Lucas-Germano",
-      "thiagodiasz"
+      "Danilo019",
+      "Bnicole98",
+      "Lucas-Germano"
     ],
     "repositories_contributed": 1
   },
@@ -138,29 +153,14 @@
     "user": "Lucas-Germano",
     "collaborator_count": 8,
     "collaborators": [
-      "Bnicole98",
       "GuiMcs00",
-      "josue-oliveiraa",
-      "Danilo019",
-      "Bappoz",
       "Gabriel-br07",
+      "thiagodiasz",
+      "josue-oliveiraa",
       "danrleypereira",
-      "thiagodiasz"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "thiagodiasz",
-    "collaborator_count": 8,
-    "collaborators": [
+      "Danilo019",
       "Bnicole98",
-      "josue-oliveiraa",
-      "Danilo019",
-      "Bappoz",
-      "Gabriel-br07",
-      "danrleypereira",
-      "Lucas-Germano",
-      "GuiMcs00"
+      "Bappoz"
     ],
     "repositories_contributed": 1
   },
@@ -168,13 +168,13 @@
     "user": "araujow-g",
     "collaborator_count": 7,
     "collaborators": [
-      "polyanacunha",
-      "YuriNoriki",
-      "josue-oliveiraa",
+      "GuiMcs00",
       "Gabriel-br07",
-      "danrleypereira",
+      "polyanacunha",
       "pedruck",
-      "GuiMcs00"
+      "josue-oliveiraa",
+      "danrleypereira",
+      "YuriNoriki"
     ],
     "repositories_contributed": 1
   },
@@ -182,27 +182,13 @@
     "user": "polyanacunha",
     "collaborator_count": 7,
     "collaborators": [
+      "GuiMcs00",
       "araujow-g",
-      "YuriNoriki",
-      "josue-oliveiraa",
       "Gabriel-br07",
-      "danrleypereira",
       "pedruck",
-      "GuiMcs00"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "YuriNoriki",
-    "collaborator_count": 7,
-    "collaborators": [
-      "araujow-g",
-      "polyanacunha",
       "josue-oliveiraa",
-      "Gabriel-br07",
       "danrleypereira",
-      "pedruck",
-      "GuiMcs00"
+      "YuriNoriki"
     ],
     "repositories_contributed": 1
   },
@@ -210,33 +196,27 @@
     "user": "pedruck",
     "collaborator_count": 7,
     "collaborators": [
+      "GuiMcs00",
       "araujow-g",
-      "polyanacunha",
-      "YuriNoriki",
-      "josue-oliveiraa",
       "Gabriel-br07",
+      "polyanacunha",
+      "josue-oliveiraa",
       "danrleypereira",
-      "GuiMcs00"
+      "YuriNoriki"
     ],
     "repositories_contributed": 1
   },
   {
-    "user": "tauisilva",
-    "collaborator_count": 3,
+    "user": "YuriNoriki",
+    "collaborator_count": 7,
     "collaborators": [
-      "leltonborges",
-      "danrleypereira",
-      "MartinsArtur"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "leltonborges",
-    "collaborator_count": 3,
-    "collaborators": [
-      "danrleypereira",
-      "tauisilva",
-      "MartinsArtur"
+      "GuiMcs00",
+      "araujow-g",
+      "Gabriel-br07",
+      "polyanacunha",
+      "pedruck",
+      "josue-oliveiraa",
+      "danrleypereira"
     ],
     "repositories_contributed": 1
   },
@@ -251,12 +231,32 @@
     "repositories_contributed": 1
   },
   {
+    "user": "leltonborges",
+    "collaborator_count": 3,
+    "collaborators": [
+      "danrleypereira",
+      "MartinsArtur",
+      "tauisilva"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "tauisilva",
+    "collaborator_count": 3,
+    "collaborators": [
+      "danrleypereira",
+      "leltonborges",
+      "MartinsArtur"
+    ],
+    "repositories_contributed": 1
+  },
+  {
     "user": "juanpbarros20",
     "collaborator_count": 3,
     "collaborators": [
-      "whiterabbitholes",
+      "danrleypereira",
       "GuiMcs00",
-      "danrleypereira"
+      "whiterabbitholes"
     ],
     "repositories_contributed": 1
   },
@@ -264,9 +264,9 @@
     "user": "whiterabbitholes",
     "collaborator_count": 3,
     "collaborators": [
-      "juanpbarros20",
+      "danrleypereira",
       "GuiMcs00",
-      "danrleypereira"
+      "juanpbarros20"
     ],
     "repositories_contributed": 1
   }
