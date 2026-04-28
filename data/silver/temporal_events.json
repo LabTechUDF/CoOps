@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-04-27T07:35:44.747792",
+      "extracted_at": "2026-04-28T07:32:02.962800",
       "file_path": "data/silver/temporal_events.json",
-      "record_count": 587
+      "record_count": 533
     }
   },
   {
@@ -163,12 +163,6 @@
     "user": "thiagodiasz"
   },
   {
-    "date": "2023-04-17T08:10:01",
-    "type": "pr_created",
-    "repo": "java-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2023-04-17T08:10:02",
     "type": "event_assigned",
     "repo": "java-services",
@@ -183,12 +177,6 @@
   {
     "date": "2023-04-17T08:11:06",
     "type": "event_referenced",
-    "repo": "java-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-17T08:11:07",
-    "type": "pr_closed",
     "repo": "java-services",
     "user": "danrleypereira"
   },
@@ -212,19 +200,7 @@
   },
   {
     "date": "2023-04-17T09:39:18",
-    "type": "pr_created",
-    "repo": "java-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-17T09:39:18",
     "type": "event_assigned",
-    "repo": "java-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-17T09:39:25",
-    "type": "pr_closed",
     "repo": "java-services",
     "user": "danrleypereira"
   },
@@ -387,18 +363,6 @@
   {
     "date": "2023-06-05T19:15:20",
     "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-06-05T19:24:00",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-07-04T21:15:08",
-    "type": "pr_closed",
     "repo": "python-services",
     "user": "danrleypereira"
   },
@@ -679,12 +643,6 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-04-13T07:07:22",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-04-15T02:31:34",
     "type": "commit",
     "repo": "java-services",
@@ -701,18 +659,6 @@
     "type": "commit",
     "repo": "java-services",
     "user": "tauisilva"
-  },
-  {
-    "date": "2024-04-21T14:29:33",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-04-21T17:19:14",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
   },
   {
     "date": "2024-04-24T23:19:18",
@@ -735,12 +681,6 @@
   {
     "date": "2024-04-27T22:21:58",
     "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-04-27T22:56:00",
-    "type": "pr_created",
     "repo": "interfaces-usuario",
     "user": "Bnicole98"
   },
@@ -781,18 +721,6 @@
     "user": "tauisilva"
   },
   {
-    "date": "2024-08-31T23:08:04",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-08-31T23:08:54",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-08-31T23:14:39",
     "type": "commit",
     "repo": "interfaces-usuario",
@@ -829,12 +757,6 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-09-04T22:29:09",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2024-09-14T17:44:08",
     "type": "commit",
     "repo": "interfaces-usuario",
@@ -853,12 +775,6 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-09-16T03:16:00",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-09-16T03:16:02",
     "type": "pr_closed",
     "repo": "python-services",
@@ -871,28 +787,10 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-09-16T03:19:01",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-09-16T03:19:02",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-09-16T03:20:31",
     "type": "commit",
     "repo": "python-services",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-16T03:57:26",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
   },
   {
     "date": "2024-09-16T04:33:40",
@@ -925,20 +823,8 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-09-24T20:46:31",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2024-09-24T21:00:00",
     "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-24T21:00:18",
-    "type": "pr_closed",
     "repo": "python-services",
     "user": "GuiMcs00"
   },
@@ -955,20 +841,8 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-09-25T23:34:17",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2024-09-25T23:46:49",
     "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-25T23:55:36",
-    "type": "pr_closed",
     "repo": "python-services",
     "user": "GuiMcs00"
   },
@@ -997,18 +871,6 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-09-27T05:59:50",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-27T06:02:13",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2024-09-28T23:30:44",
     "type": "issue_created",
     "repo": "python-services",
@@ -1019,36 +881,6 @@
     "type": "issue_created",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2024-10-04T20:51:12",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-04T20:54:28",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-04T21:06:32",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-04T21:56:23",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-05T02:33:43",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2024-10-05T03:58:31",
@@ -1081,22 +913,10 @@
     "user": "josue-oliveiraa"
   },
   {
-    "date": "2024-10-06T15:11:06",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
     "date": "2024-10-06T15:11:24",
     "type": "commit",
     "repo": "interfaces-usuario",
     "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-10-15T01:02:34",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
   },
   {
     "date": "2024-10-15T01:03:11",
@@ -1111,12 +931,6 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-10-15T01:04:53",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2024-10-15T01:11:12",
     "type": "issue_created",
     "repo": "interfaces-usuario",
@@ -1129,52 +943,16 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-10-19T02:51:05",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2024-10-29T00:28:15",
     "type": "issue_created",
     "repo": "python-services",
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-11-02T16:52:30",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-11-02T17:26:37",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-11-02T17:26:50",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-02T17:29:17",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-11-02T17:33:44",
     "type": "commit",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-11-02T17:34:31",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
   },
   {
     "date": "2024-11-02T17:36:51",
@@ -1201,12 +979,6 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-11-04T14:56:30",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2024-11-09T19:33:37",
     "type": "commit",
     "repo": "python-services",
@@ -1217,12 +989,6 @@
     "type": "issue_closed",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-09T19:33:46",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2024-11-09T22:16:30",
@@ -1245,12 +1011,6 @@
   {
     "date": "2024-11-11T00:36:23",
     "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-11T00:40:51",
-    "type": "pr_created",
     "repo": "interfaces-usuario",
     "user": "Lucas-Germano"
   },
@@ -1279,20 +1039,8 @@
     "user": "Lucas-Germano"
   },
   {
-    "date": "2024-11-11T01:37:54",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-11-11T02:44:24",
     "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-11T02:44:30",
-    "type": "pr_closed",
     "repo": "python-services",
     "user": "danrleypereira"
   },
@@ -1357,12 +1105,6 @@
     "user": "josue-oliveiraa"
   },
   {
-    "date": "2024-11-18T03:06:32",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "josue-oliveiraa"
-  },
-  {
     "date": "2024-11-22T04:00:40",
     "type": "issue_created",
     "repo": "python-services",
@@ -1405,20 +1147,8 @@
     "user": "Lucas-Germano"
   },
   {
-    "date": "2024-11-25T03:04:29",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-11-27T16:34:07",
     "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-27T16:39:20",
-    "type": "pr_created",
     "repo": "interfaces-usuario",
     "user": "Lucas-Germano"
   },
@@ -1465,12 +1195,6 @@
     "user": "Lucas-Germano"
   },
   {
-    "date": "2024-12-03T21:39:36",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
     "date": "2024-12-03T23:47:56",
     "type": "commit",
     "repo": "python-services",
@@ -1481,18 +1205,6 @@
     "type": "commit",
     "repo": "python-services",
     "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-12-04T00:10:06",
-    "type": "pr_created",
-    "repo": "java-services",
-    "user": "leltonborges"
-  },
-  {
-    "date": "2024-12-04T00:10:29",
-    "type": "pr_closed",
-    "repo": "java-services",
-    "user": "leltonborges"
   },
   {
     "date": "2024-12-04T00:10:29",
@@ -1539,12 +1251,6 @@
   {
     "date": "2024-12-19T23:47:10",
     "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-12-19T23:47:59",
-    "type": "pr_created",
     "repo": "interfaces-usuario",
     "user": "danrleypereira"
   },
@@ -1631,12 +1337,6 @@
     "type": "issue_closed",
     "repo": "interfaces-usuario",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-17T20:13:57",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
   },
   {
     "date": "2025-03-17T20:13:57",
@@ -1742,12 +1442,6 @@
   },
   {
     "date": "2025-03-22T00:04:39",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-22T00:04:39",
     "type": "commit",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
@@ -1795,18 +1489,6 @@
     "user": "araujow-g"
   },
   {
-    "date": "2025-03-23T18:26:42",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-23T18:27:34",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "josue-oliveiraa"
-  },
-  {
     "date": "2025-03-23T18:47:06",
     "type": "commit",
     "repo": "python-services",
@@ -1829,12 +1511,6 @@
     "type": "issue_closed",
     "repo": "python-services",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-23T22:58:53",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2025-03-23T23:27:36",

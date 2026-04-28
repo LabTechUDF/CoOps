@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-04-27T07:35:44.754132",
+      "extracted_at": "2026-04-28T07:32:02.968392",
       "file_path": "data/silver/cycle_times.json",
-      "record_count": 82
+      "record_count": 55
     }
   },
   {
@@ -369,102 +369,6 @@
   {
     "type": "pr",
     "repo": "python-services",
-    "number": 28,
-    "created_at": "2024-11-25T03:04:29",
-    "closed_at": "2024-12-08T04:28:15",
-    "cycle_time_days": 13.058171296296296
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 25,
-    "created_at": "2024-11-18T03:06:32",
-    "closed_at": "2024-12-03T23:48:47",
-    "cycle_time_days": 15.862673611111111
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 24,
-    "created_at": "2024-11-11T01:37:54",
-    "closed_at": "2024-11-11T02:44:24",
-    "cycle_time_days": 0.04618055555555556
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 23,
-    "created_at": "2024-11-04T14:56:30",
-    "closed_at": "2025-03-23T22:58:49",
-    "cycle_time_days": 139.33494212962964
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 21,
-    "created_at": "2024-10-19T02:51:05",
-    "closed_at": "2024-11-09T19:33:37",
-    "cycle_time_days": 21.696203703703702
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 18,
-    "created_at": "2024-10-05T02:33:43",
-    "closed_at": "2024-10-15T01:03:11",
-    "cycle_time_days": 9.937129629629629
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 17,
-    "created_at": "2024-10-04T21:06:32",
-    "closed_at": "2024-10-04T21:53:36",
-    "cycle_time_days": 0.032685185185185185
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 16,
-    "created_at": "2024-10-04T20:51:12",
-    "closed_at": "2024-10-04T20:54:28",
-    "cycle_time_days": 0.0022685185185185187
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 13,
-    "created_at": "2024-09-27T06:02:13",
-    "closed_at": "2024-10-05T06:08:15",
-    "cycle_time_days": 8.004189814814815
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 11,
-    "created_at": "2024-09-25T23:34:17",
-    "closed_at": "2024-09-26T15:09:05",
-    "cycle_time_days": 0.6491666666666667
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 10,
-    "created_at": "2024-09-24T20:46:31",
-    "closed_at": "2024-09-24T21:00:00",
-    "cycle_time_days": 0.009363425925925926
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 8,
-    "created_at": "2024-09-04T22:29:09",
-    "closed_at": "2024-09-16T03:06:25",
-    "cycle_time_days": 11.192546296296296
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
     "number": 7,
     "created_at": "2024-09-03T18:39:12",
     "closed_at": "2024-09-05T20:17:07",
@@ -473,74 +377,10 @@
   {
     "type": "pr",
     "repo": "python-services",
-    "number": 6,
-    "created_at": "2024-08-31T23:08:54",
-    "closed_at": "2024-09-02T22:07:11",
-    "cycle_time_days": 1.9571412037037037
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 5,
-    "created_at": "2024-08-31T23:08:04",
-    "closed_at": "2024-08-31T23:08:17",
-    "cycle_time_days": 0.00015046296296296297
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 4,
-    "created_at": "2024-04-21T17:19:14",
-    "closed_at": "2024-09-02T22:03:21",
-    "cycle_time_days": 134.19730324074075
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 3,
-    "created_at": "2024-04-13T07:07:22",
-    "closed_at": "2024-04-21T14:29:33",
-    "cycle_time_days": 8.307071759259259
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
-    "number": 2,
-    "created_at": "2023-06-05T19:24:00",
-    "closed_at": "2023-07-04T21:15:08",
-    "cycle_time_days": 29.077175925925925
-  },
-  {
-    "type": "pr",
-    "repo": "python-services",
     "number": 1,
     "created_at": "2023-04-18T04:40:46",
     "closed_at": "2023-04-18T04:42:12",
     "cycle_time_days": 0.0009953703703703704
-  },
-  {
-    "type": "pr",
-    "repo": "java-services",
-    "number": 3,
-    "created_at": "2024-12-04T00:10:06",
-    "closed_at": "2024-12-04T00:10:29",
-    "cycle_time_days": 0.0002662037037037037
-  },
-  {
-    "type": "pr",
-    "repo": "java-services",
-    "number": 2,
-    "created_at": "2023-04-17T09:39:18",
-    "closed_at": "2023-04-17T09:39:25",
-    "cycle_time_days": 8.101851851851852e-05
-  },
-  {
-    "type": "pr",
-    "repo": "java-services",
-    "number": 1,
-    "created_at": "2023-04-17T08:10:01",
-    "closed_at": "2023-04-17T08:11:06",
-    "cycle_time_days": 0.0007523148148148148
   },
   {
     "type": "pr",
@@ -597,62 +437,6 @@
     "created_at": "2025-03-25T01:42:08",
     "closed_at": "2025-03-28T12:06:36",
     "cycle_time_days": 3.4336574074074075
-  },
-  {
-    "type": "pr",
-    "repo": "interfaces-usuario",
-    "number": 11,
-    "created_at": "2024-12-19T23:47:59",
-    "closed_at": "2025-03-22T00:04:39",
-    "cycle_time_days": 92.01157407407408
-  },
-  {
-    "type": "pr",
-    "repo": "interfaces-usuario",
-    "number": 10,
-    "created_at": "2024-11-27T16:39:20",
-    "closed_at": "2024-11-27T21:59:49",
-    "cycle_time_days": 0.22255787037037036
-  },
-  {
-    "type": "pr",
-    "repo": "interfaces-usuario",
-    "number": 7,
-    "created_at": "2024-11-11T00:40:51",
-    "closed_at": "2024-11-11T03:29:45",
-    "cycle_time_days": 0.11729166666666667
-  },
-  {
-    "type": "pr",
-    "repo": "interfaces-usuario",
-    "number": 6,
-    "created_at": "2024-11-02T17:29:17",
-    "closed_at": "2024-11-02T17:33:44",
-    "cycle_time_days": 0.0030902777777777777
-  },
-  {
-    "type": "pr",
-    "repo": "interfaces-usuario",
-    "number": 4,
-    "created_at": "2024-10-06T15:11:06",
-    "closed_at": "2024-10-06T15:11:24",
-    "cycle_time_days": 0.00020833333333333335
-  },
-  {
-    "type": "pr",
-    "repo": "interfaces-usuario",
-    "number": 3,
-    "created_at": "2024-09-16T03:57:26",
-    "closed_at": "2024-09-21T19:12:07",
-    "cycle_time_days": 5.63519675925926
-  },
-  {
-    "type": "pr",
-    "repo": "interfaces-usuario",
-    "number": 2,
-    "created_at": "2024-04-27T22:56:00",
-    "closed_at": "2024-08-31T23:15:21",
-    "cycle_time_days": 126.0134375
   },
   {
     "type": "pr",
