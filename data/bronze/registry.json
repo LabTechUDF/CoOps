@@ -30,7 +30,6 @@
       "data/bronze/issues_python-services.json",
       "data/bronze/prs_python-services.json",
       "data/bronze/issue_events_python-services.json",
-      "data/bronze/prs_java-services.json",
       "data/bronze/issue_events_java-services.json",
       "data/bronze/issues_interfaces-usuario.json",
       "data/bronze/prs_interfaces-usuario.json",
@@ -45,7 +44,7 @@
       "data/bronze/commits_demo-repository.json",
       "data/bronze/commits_all.json"
     ],
-    "updated_at": "2026-04-27T07:35:19.784456",
+    "updated_at": "2026-04-28T07:31:35.732578",
     "layer": "bronze"
   }
 }
