@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-01T07:26:13.722568",
+      "extracted_at": "2026-05-02T07:01:58.193012",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -109,7 +109,7 @@
     "followers": 6,
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
-    "updated_at": "2026-04-10T13:08:28Z"
+    "updated_at": "2026-05-01T15:43:35Z"
   },
   {
     "login": "thiagodiasz",
@@ -389,7 +389,7 @@
     "followers": 4,
     "following": 3,
     "created_at": "2020-07-27T14:17:02Z",
-    "updated_at": "2026-04-30T13:21:34Z"
+    "updated_at": "2026-05-01T13:48:36Z"
   },
   {
     "login": "whiterabbitholes",
