@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-04T07:48:10.282472",
+      "extracted_at": "2026-05-05T07:19:36.295194",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -74,7 +74,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-04-14T20:25:38Z"
+    "updated_at": "2026-05-04T21:10:51Z"
   },
   {
     "login": "GuiMcs00",
@@ -179,7 +179,7 @@
     "followers": 1,
     "following": 1,
     "created_at": "2023-01-31T18:33:52Z",
-    "updated_at": "2026-04-20T03:01:19Z"
+    "updated_at": "2026-05-05T03:43:04Z"
   },
   {
     "login": "Lucas-Germano",
