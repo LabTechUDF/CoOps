@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-06T07:35:55.932019",
+      "extracted_at": "2026-05-07T07:43:03.409075",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -74,7 +74,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-04T21:10:51Z"
+    "updated_at": "2026-05-06T22:18:51Z"
   },
   {
     "login": "GuiMcs00",
