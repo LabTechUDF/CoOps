@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-08T06:52:20.528886",
+      "extracted_at": "2026-05-09T07:08:22.487752",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -74,7 +74,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-06T22:18:51Z"
+    "updated_at": "2026-05-08T19:56:49Z"
   },
   {
     "login": "GuiMcs00",
@@ -559,7 +559,7 @@
     "hireable": null,
     "bio": "sou uma pessoa amante da tecnológia venho aprimorando meus conhecimento em programação e desenvolvimeno web e estudando para ser um ciêntista da computação.",
     "twitter_username": null,
-    "public_repos": 23,
+    "public_repos": 24,
     "public_gists": 0,
     "followers": 6,
     "following": 10,
