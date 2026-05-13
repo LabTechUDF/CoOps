@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-12T07:43:13.547352",
+      "extracted_at": "2026-05-13T07:50:13.565665",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -39,7 +39,7 @@
     "followers": 12,
     "following": 23,
     "created_at": "2018-08-22T11:37:06Z",
-    "updated_at": "2026-03-17T22:11:44Z"
+    "updated_at": "2026-05-12T16:29:25Z"
   },
   {
     "login": "danrleypereira",
@@ -74,7 +74,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-11T14:51:55Z"
+    "updated_at": "2026-05-13T02:57:55Z"
   },
   {
     "login": "GuiMcs00",
