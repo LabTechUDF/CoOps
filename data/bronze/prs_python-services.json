@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-19T08:28:51.729424",
+      "extracted_at": "2026-05-20T08:26:43.413125",
       "file_path": "data/bronze/prs_python-services.json",
       "record_count": 37
     }
@@ -91,6 +91,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -205,6 +206,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -297,6 +299,7 @@
     "closed_at": "2025-04-22T20:38:56Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -431,6 +434,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -523,6 +527,7 @@
     "closed_at": "2025-04-14T17:27:06Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -657,6 +662,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -749,6 +755,7 @@
     "closed_at": "2025-04-07T03:09:32Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -883,6 +890,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1017,6 +1025,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1151,6 +1160,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1285,6 +1295,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1419,6 +1430,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1553,6 +1565,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1687,6 +1700,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1821,6 +1835,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -1955,6 +1970,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2047,6 +2063,7 @@
     "closed_at": "2025-03-23T18:47:06Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2191,6 +2208,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2325,6 +2343,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2417,6 +2436,7 @@
     "closed_at": "2024-12-03T23:48:47Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2551,6 +2571,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2685,6 +2706,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2819,6 +2841,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -2953,6 +2976,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3045,6 +3069,7 @@
     "closed_at": "2024-10-04T21:53:36Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3137,6 +3162,7 @@
     "closed_at": "2024-10-04T20:54:28Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3271,6 +3297,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3405,6 +3432,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3539,6 +3567,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3673,6 +3702,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3807,6 +3837,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -3941,6 +3972,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -4075,6 +4107,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -4209,6 +4242,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -4343,6 +4377,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -4477,6 +4512,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,
@@ -4611,6 +4647,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,

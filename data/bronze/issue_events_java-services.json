@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-19T08:28:53.238606",
+      "extracted_at": "2026-05-20T08:26:44.987126",
       "file_path": "data/bronze/issue_events_java-services.json",
       "record_count": 10
     }
@@ -120,6 +120,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -223,6 +224,7 @@
       "closed_at": "2024-12-04T00:10:29Z",
       "assignee": null,
       "author_association": "NONE",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -368,6 +370,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -512,6 +515,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -656,6 +660,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -842,6 +847,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -987,6 +993,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -1131,6 +1138,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -1275,6 +1283,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
@@ -1461,6 +1470,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,

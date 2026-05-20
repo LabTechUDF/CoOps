@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-19T08:28:53.811322",
+      "extracted_at": "2026-05-20T08:26:45.610882",
       "file_path": "data/bronze/issues_interfaces-usuario.json",
       "record_count": 18
     }
@@ -59,6 +59,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": {
       "id": 19095493,
       "node_id": "IT_kwDOB7ILKs4BI1_F",
@@ -154,6 +155,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -240,6 +242,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -326,6 +329,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -412,6 +416,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -530,6 +535,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -616,6 +622,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -711,6 +718,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -829,6 +837,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -925,6 +934,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1043,6 +1053,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1139,6 +1150,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1225,6 +1237,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1301,6 +1314,7 @@
     "closed_at": null,
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1387,6 +1401,7 @@
     "closed_at": "2025-03-28T12:06:37Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1525,6 +1540,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1631,6 +1647,7 @@
     "closed_at": "2024-12-03T20:07:14Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
@@ -1737,6 +1754,7 @@
     "closed_at": "2024-11-11T03:29:45Z",
     "assignee": null,
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "sub_issues_summary": {
