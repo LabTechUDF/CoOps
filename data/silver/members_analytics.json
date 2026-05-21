@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-20T08:27:11.820889",
+      "extracted_at": "2026-05-21T08:33:32.758185",
       "file_path": "data/silver/members_analytics.json",
       "record_count": 16
     }
@@ -19,9 +19,9 @@
     "following": 23,
     "created_at": "2018-08-22T11:37:06Z",
     "updated_at": "2026-05-19T21:20:25Z",
-    "maturity_score": 64.67913231052641,
+    "maturity_score": 64.67930908266896,
     "status": "established",
-    "account_age_days": 2827
+    "account_age_days": 2828
   },
   {
     "login": "danrleypereira",
@@ -36,9 +36,9 @@
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-05-13T02:57:55Z",
-    "maturity_score": 93.23211971442271,
+    "maturity_score": 93.23224318645691,
     "status": "established",
-    "account_age_days": 4048
+    "account_age_days": 4049
   },
   {
     "login": "GuiMcs00",
@@ -53,9 +53,9 @@
     "following": 41,
     "created_at": "2022-08-23T00:44:38Z",
     "updated_at": "2026-05-17T20:45:21Z",
-    "maturity_score": 52.92559760786742,
+    "maturity_score": 52.92596323859669,
     "status": "established",
-    "account_age_days": 1366
+    "account_age_days": 1367
   },
   {
     "login": "thiagodiasz",
@@ -70,9 +70,9 @@
     "following": 7,
     "created_at": "2020-09-03T20:03:13Z",
     "updated_at": "2026-05-18T23:54:54Z",
-    "maturity_score": 51.64841752575268,
+    "maturity_score": 51.648657276416586,
     "status": "new",
-    "account_age_days": 2084
+    "account_age_days": 2085
   },
   {
     "login": "Gabriel-br07",
@@ -87,9 +87,9 @@
     "following": 1,
     "created_at": "2023-01-31T18:33:52Z",
     "updated_at": "2026-05-09T19:58:46Z",
-    "maturity_score": 26.816543681948733,
+    "maturity_score": 26.816958447629922,
     "status": "established",
-    "account_age_days": 1204
+    "account_age_days": 1205
   },
   {
     "login": "Lucas-Germano",
@@ -104,9 +104,9 @@
     "following": 1,
     "created_at": "2023-07-06T23:35:45Z",
     "updated_at": "2026-05-17T20:17:38Z",
-    "maturity_score": 36.03199726389826,
+    "maturity_score": 36.032473681275896,
     "status": "new",
-    "account_age_days": 1048
+    "account_age_days": 1049
   },
   {
     "login": "YuriNoriki",
@@ -121,9 +121,9 @@
     "following": 7,
     "created_at": "2023-03-29T20:02:45Z",
     "updated_at": "2026-04-07T13:20:10Z",
-    "maturity_score": 58.93551369377117,
+    "maturity_score": 58.93594904425579,
     "status": "established",
-    "account_age_days": 1147
+    "account_age_days": 1148
   },
   {
     "login": "josue-oliveiraa",
@@ -138,9 +138,9 @@
     "following": 0,
     "created_at": "2024-09-28T16:23:32Z",
     "updated_at": "2024-11-20T14:58:03Z",
-    "maturity_score": 29.998190309722222,
+    "maturity_score": 29.99902433827257,
     "status": "new",
-    "account_age_days": 598
+    "account_age_days": 599
   },
   {
     "login": "juanpbarros20",
@@ -155,9 +155,9 @@
     "following": 0,
     "created_at": "2022-03-16T21:35:19Z",
     "updated_at": "2024-07-12T15:26:53Z",
-    "maturity_score": 8.493516343224503,
+    "maturity_score": 8.493843889911616,
     "status": "new",
-    "account_age_days": 1525
+    "account_age_days": 1526
   },
   {
     "login": "Bnicole98",
@@ -172,9 +172,9 @@
     "following": 0,
     "created_at": "2021-09-19T22:06:48Z",
     "updated_at": "2025-12-27T14:25:30Z",
-    "maturity_score": 10.914052672089742,
+    "maturity_score": 10.91434601325392,
     "status": "established",
-    "account_age_days": 1703
+    "account_age_days": 1704
   },
   {
     "login": "pedruck",
@@ -189,9 +189,9 @@
     "following": 3,
     "created_at": "2020-07-27T14:17:02Z",
     "updated_at": "2026-05-01T13:48:36Z",
-    "maturity_score": 42.61072471154229,
+    "maturity_score": 42.61096017187158,
     "status": "new",
-    "account_age_days": 2122
+    "account_age_days": 2123
   },
   {
     "login": "whiterabbitholes",
@@ -206,9 +206,9 @@
     "following": 0,
     "created_at": "2023-03-27T23:46:49Z",
     "updated_at": "2025-09-17T23:51:59Z",
-    "maturity_score": 6.819595476682977,
+    "maturity_score": 6.82003007036527,
     "status": "new",
-    "account_age_days": 1149
+    "account_age_days": 1150
   },
   {
     "login": "araujow-g",
@@ -223,9 +223,9 @@
     "following": 0,
     "created_at": "2022-06-07T01:04:46Z",
     "updated_at": "2025-06-03T22:04:57Z",
-    "maturity_score": 9.012864567410551,
+    "maturity_score": 9.013210707957432,
     "status": "new",
-    "account_age_days": 1443
+    "account_age_days": 1444
   },
   {
     "login": "polyanacunha",
@@ -240,9 +240,9 @@
     "following": 2,
     "created_at": "2022-02-01T23:41:40Z",
     "updated_at": "2026-04-09T02:45:46Z",
-    "maturity_score": 55.4715198549497,
+    "maturity_score": 55.47183842775436,
     "status": "established",
-    "account_age_days": 1568
+    "account_age_days": 1569
   },
   {
     "login": "MartinsArtur",
@@ -257,9 +257,9 @@
     "following": 7,
     "created_at": "2019-09-05T16:11:04Z",
     "updated_at": "2025-12-19T12:34:15Z",
-    "maturity_score": 46.978803592942015,
+    "maturity_score": 46.979007716235316,
     "status": "new",
-    "account_age_days": 2448
+    "account_age_days": 2449
   },
   {
     "login": "Danilo019",
@@ -274,8 +274,8 @@
     "following": 10,
     "created_at": "2022-05-05T23:04:02Z",
     "updated_at": "2026-05-03T11:34:24Z",
-    "maturity_score": 52.34103809775092,
+    "maturity_score": 52.3413767364364,
     "status": "established",
-    "account_age_days": 1475
+    "account_age_days": 1476
   }
 ]
