@@ -31,9 +31,9 @@
   "followers": 10,
   "following": 7,
   "created_at": "2023-03-29T20:02:45Z",
-  "updated_at": "2026-04-07T13:20:10Z",
+  "updated_at": "2026-05-25T20:59:00Z",
   "_metadata": {
-    "extracted_at": "2026-05-25T08:58:07.650033",
+    "extracted_at": "2026-05-26T08:32:48.173919",
     "file_path": "data/bronze/member_YuriNoriki.json"
   }
 }
