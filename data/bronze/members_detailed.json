@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-06-03T09:27:47.669738",
+      "extracted_at": "2026-06-04T08:50:30.574222",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -494,7 +494,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2022-02-01T23:41:40Z",
-    "updated_at": "2026-05-30T01:46:42Z"
+    "updated_at": "2026-06-03T15:45:02Z"
   },
   {
     "login": "MartinsArtur",
