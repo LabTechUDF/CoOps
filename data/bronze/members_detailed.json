@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-01T08:50:11.288317",
+      "extracted_at": "2026-07-02T08:12:18.563500",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -389,7 +389,7 @@
     "followers": 4,
     "following": 3,
     "created_at": "2020-07-27T14:17:02Z",
-    "updated_at": "2026-05-31T12:10:47Z"
+    "updated_at": "2026-07-01T14:39:22Z"
   },
   {
     "login": "whiterabbitholes",
