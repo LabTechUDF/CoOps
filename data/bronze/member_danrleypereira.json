@@ -31,9 +31,9 @@
   "followers": 46,
   "following": 34,
   "created_at": "2015-04-20T00:48:52Z",
-  "updated_at": "2026-05-27T23:11:14Z",
+  "updated_at": "2026-07-02T21:21:13Z",
   "_metadata": {
-    "extracted_at": "2026-07-02T08:12:18.564440",
+    "extracted_at": "2026-07-03T08:10:31.443296",
     "file_path": "data/bronze/member_danrleypereira.json"
   }
 }

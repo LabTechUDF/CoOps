@@ -31,9 +31,9 @@
   "followers": 7,
   "following": 7,
   "created_at": "2020-09-03T20:03:13Z",
-  "updated_at": "2026-06-16T16:31:49Z",
+  "updated_at": "2026-07-02T22:20:35Z",
   "_metadata": {
-    "extracted_at": "2026-07-02T08:12:18.564744",
+    "extracted_at": "2026-07-03T08:10:31.443604",
     "file_path": "data/bronze/member_thiagodiasz.json"
   }
 }

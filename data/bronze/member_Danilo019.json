@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 25,
   "public_gists": 0,
-  "followers": 8,
+  "followers": 7,
   "following": 10,
   "created_at": "2022-05-05T23:04:02Z",
   "updated_at": "2026-06-16T23:53:16Z",
   "_metadata": {
-    "extracted_at": "2026-07-02T08:12:18.566653",
+    "extracted_at": "2026-07-03T08:10:31.445176",
     "file_path": "data/bronze/member_Danilo019.json"
   }
 }
