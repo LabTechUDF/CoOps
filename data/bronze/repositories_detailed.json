@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-21T07:33:05.584481",
+      "extracted_at": "2026-07-22T07:34:36.077727",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -87,7 +87,7 @@
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
@@ -141,7 +141,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:33:04.464306",
+      "extracted_at": "2026-07-22T07:34:34.583026",
       "file_path": "data/bronze/repo_python-services.json"
     }
   },
@@ -226,7 +226,7 @@
     "language": "Java",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
@@ -280,7 +280,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:33:04.722857",
+      "extracted_at": "2026-07-22T07:34:34.962347",
       "file_path": "data/bronze/repo_java-services.json"
     }
   },
@@ -365,7 +365,7 @@
     "language": "JavaScript",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
@@ -419,7 +419,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:33:05.009730",
+      "extracted_at": "2026-07-22T07:34:35.330582",
       "file_path": "data/bronze/repo_interfaces-usuario.json"
     }
   },
@@ -504,7 +504,7 @@
     "language": null,
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
@@ -558,7 +558,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:33:05.303911",
+      "extracted_at": "2026-07-22T07:34:35.724003",
       "file_path": "data/bronze/repo_entidades.json"
     }
   },
@@ -643,7 +643,7 @@
     "language": "HTML",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
@@ -697,7 +697,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:33:05.584049",
+      "extracted_at": "2026-07-22T07:34:36.077286",
       "file_path": "data/bronze/repo_demo-repository.json"
     }
   }
