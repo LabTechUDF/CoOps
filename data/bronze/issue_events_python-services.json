@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-23T07:33:38.521517",
+      "extracted_at": "2026-07-24T07:32:32.647741",
       "file_path": "data/bronze/issue_events_python-services.json",
       "record_count": 100
     }
@@ -40,6 +40,7 @@
       "name": "Bug",
       "color": "red"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/65",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -170,6 +171,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/65",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -442,6 +444,7 @@
     "commit_url": null,
     "created_at": "2025-04-30T09:03:09Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/62",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -1072,6 +1075,7 @@
       "name": "enhancement",
       "color": "a2eeef"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/64",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -1418,6 +1422,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/63",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -2657,6 +2662,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/62",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -2844,6 +2850,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/35",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -3107,6 +3114,7 @@
     "commit_url": null,
     "created_at": "2025-04-22T20:38:56Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/61",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -3211,6 +3219,7 @@
     "commit_url": null,
     "created_at": "2025-04-16T19:25:40Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/50",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -3506,6 +3515,7 @@
     "commit_url": null,
     "created_at": "2025-04-14T17:30:03Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -3666,6 +3676,7 @@
     "commit_url": null,
     "created_at": "2025-04-14T17:30:02Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/60",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -3957,6 +3968,7 @@
     "commit_url": null,
     "created_at": "2025-04-14T17:27:06Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/59",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -4164,6 +4176,7 @@
     "commit_url": null,
     "created_at": "2025-04-14T17:24:58Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/58",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -4683,6 +4696,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/60",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -5361,6 +5375,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -6455,6 +6470,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/58",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -6642,6 +6658,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/50",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -6792,6 +6809,7 @@
     "commit_url": null,
     "created_at": "2025-04-07T18:57:39Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -7541,6 +7559,7 @@
     "commit_url": null,
     "created_at": "2025-04-07T03:09:32Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/57",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -7851,6 +7870,7 @@
     "commit_url": null,
     "created_at": "2025-04-07T01:32:23Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -8150,6 +8170,7 @@
     "commit_url": null,
     "created_at": "2025-04-07T01:32:22Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/55",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -9025,6 +9046,7 @@
     "commit_url": null,
     "created_at": "2025-04-07T01:17:26Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/56",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -10231,6 +10253,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/56",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -10899,6 +10922,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/55",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -11567,6 +11591,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/54",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -11758,6 +11783,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/53",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -11908,6 +11934,7 @@
     "commit_url": null,
     "created_at": "2025-03-30T04:15:43Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/34",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -12109,6 +12136,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/34",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -12269,6 +12297,7 @@
     "commit_url": null,
     "created_at": "2025-03-30T04:15:17Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -12671,6 +12700,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/36",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -12831,6 +12861,7 @@
     "commit_url": null,
     "created_at": "2025-03-30T04:14:55Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/37",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -13032,6 +13063,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/37",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -13192,6 +13224,7 @@
     "commit_url": null,
     "created_at": "2025-03-30T04:14:33Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/39",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -13393,6 +13426,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/39",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -13553,6 +13587,7 @@
     "commit_url": null,
     "created_at": "2025-03-30T04:13:52Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/41",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -13745,6 +13780,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/41",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -13896,6 +13932,7 @@
     "commit_url": null,
     "created_at": "2025-03-30T04:13:29Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/33",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -14087,6 +14124,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/33",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -14382,6 +14420,7 @@
     "commit_url": null,
     "created_at": "2025-03-30T04:11:04Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/52",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -14714,6 +14753,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/52",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -15050,6 +15090,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/51",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
@@ -15500,6 +15541,7 @@
     "commit_url": null,
     "created_at": "2025-03-29T22:04:34Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/48",
       "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",

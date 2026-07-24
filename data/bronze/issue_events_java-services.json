@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-23T07:33:39.143796",
+      "extracted_at": "2026-07-24T07:32:33.443889",
       "file_path": "data/bronze/issue_events_java-services.json",
       "record_count": 10
     }
@@ -181,6 +181,7 @@
     "commit_url": null,
     "created_at": "2024-12-04T00:10:29Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/java-services/issues/3",
       "repository_url": "https://api.github.com/repos/LabTechUDF/java-services",
@@ -285,6 +286,7 @@
     "commit_url": null,
     "created_at": "2023-04-17T09:39:25Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/java-services/issues/2",
       "repository_url": "https://api.github.com/repos/LabTechUDF/java-services",
@@ -762,6 +764,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/java-services/issues/2",
       "repository_url": "https://api.github.com/repos/LabTechUDF/java-services",
@@ -908,6 +911,7 @@
     "commit_url": null,
     "created_at": "2023-04-17T08:11:07Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/java-services/issues/1",
       "repository_url": "https://api.github.com/repos/LabTechUDF/java-services",
@@ -1385,6 +1389,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/java-services/issues/1",
       "repository_url": "https://api.github.com/repos/LabTechUDF/java-services",

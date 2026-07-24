@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-23T07:33:40.111327",
+      "extracted_at": "2026-07-24T07:32:34.648978",
       "file_path": "data/bronze/issue_events_interfaces-usuario.json",
       "record_count": 100
     }
@@ -40,6 +40,7 @@
       "name": "Bug",
       "color": "red"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/37",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -170,6 +171,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/37",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -300,6 +302,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/36",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -421,6 +424,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/35",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -542,6 +546,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/34",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -1315,6 +1320,7 @@
     "commit_url": null,
     "created_at": "2025-05-14T18:05:31Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/31",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -1674,6 +1680,7 @@
       "name": "good first issue",
       "color": "7057ff"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/29",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -1792,6 +1799,7 @@
     "commit_url": null,
     "created_at": "2025-05-08T02:12:57Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/19",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -1983,6 +1991,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/19",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -2174,6 +2183,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/28",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -2926,6 +2936,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/27",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -3175,6 +3186,7 @@
     "commit_url": null,
     "created_at": "2025-05-04T02:16:25Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/26",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -4004,6 +4016,7 @@
     "commit_url": null,
     "created_at": "2025-04-30T09:22:07Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/22",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -4154,6 +4167,7 @@
     "commit_url": null,
     "created_at": "2025-04-30T09:22:06Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/23",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -4597,6 +4611,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/25",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -4718,6 +4733,7 @@
       "name": "good first issue",
       "color": "7057ff"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/24",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -4848,6 +4864,7 @@
       "name": "bug",
       "color": "d73a4a"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/24",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -6325,6 +6342,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/23",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -6806,6 +6824,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/22",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -6956,6 +6975,7 @@
     "commit_url": null,
     "created_at": "2025-04-14T18:39:12Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/21",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -7288,6 +7308,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/21",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -7766,6 +7787,7 @@
     "commit_url": null,
     "created_at": "2025-03-29T22:04:41Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/14",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -8247,6 +8269,7 @@
       "name": "good first issue",
       "color": "7057ff"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/17",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -8655,6 +8678,7 @@
     "commit_url": null,
     "created_at": "2025-03-28T22:11:47Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/15",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -8987,6 +9011,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/15",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -9174,6 +9199,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/14",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -9652,6 +9678,7 @@
     "commit_url": null,
     "created_at": "2025-03-28T12:06:37Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/12",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -9770,6 +9797,7 @@
     "commit_url": null,
     "created_at": "2025-03-28T12:06:36Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/13",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -10102,6 +10130,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/13",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -10697,6 +10726,7 @@
     "commit_url": null,
     "created_at": "2025-03-22T00:04:40Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -10847,6 +10877,7 @@
     "commit_url": null,
     "created_at": "2025-03-22T00:04:39Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/11",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -11141,6 +11172,7 @@
       "name": "good first issue",
       "color": "7057ff"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/12",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -12057,6 +12089,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/11",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -12431,6 +12464,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -12875,6 +12909,7 @@
     "commit_url": null,
     "created_at": "2024-12-03T20:07:14Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -12993,6 +13028,7 @@
     "commit_url": null,
     "created_at": "2024-11-27T21:59:49Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/10",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -13386,6 +13422,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/9",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -13577,6 +13614,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -13698,6 +13736,7 @@
       "name": "enhancement",
       "color": "a2eeef"
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/8",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -14022,6 +14061,7 @@
     "commit_url": null,
     "created_at": "2024-11-11T03:29:45Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/5",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -14140,6 +14180,7 @@
     "commit_url": null,
     "created_at": "2024-11-11T03:29:45Z",
     "state_reason": null,
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/7",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
@@ -14753,6 +14794,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/7",
       "repository_url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario",
