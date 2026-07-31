@@ -26,14 +26,14 @@
   "hireable": null,
   "bio": "Software Engineer that can deliver value in any part of the life cycle of a software. ",
   "twitter_username": null,
-  "public_repos": 55,
+  "public_repos": 56,
   "public_gists": 0,
   "followers": 47,
   "following": 34,
   "created_at": "2015-04-20T00:48:52Z",
-  "updated_at": "2026-07-18T22:40:30Z",
+  "updated_at": "2026-07-30T23:57:26Z",
   "_metadata": {
-    "extracted_at": "2026-07-30T07:34:32.671166",
+    "extracted_at": "2026-07-31T07:51:21.471191",
     "file_path": "data/bronze/member_danrleypereira.json"
   }
 }
