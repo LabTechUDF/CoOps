@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-08-19T05:31:56.427532",
+      "extracted_at": "2026-08-20T05:32:27.857245",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -141,7 +141,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-08-19T05:31:55.186267",
+      "extracted_at": "2026-08-20T05:32:26.532525",
       "file_path": "data/bronze/repo_python-services.json"
     }
   },
@@ -280,7 +280,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-08-19T05:31:55.527645",
+      "extracted_at": "2026-08-20T05:32:26.832912",
       "file_path": "data/bronze/repo_java-services.json"
     }
   },
@@ -419,7 +419,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-08-19T05:31:55.823226",
+      "extracted_at": "2026-08-20T05:32:27.161927",
       "file_path": "data/bronze/repo_interfaces-usuario.json"
     }
   },
@@ -558,7 +558,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-08-19T05:31:56.128108",
+      "extracted_at": "2026-08-20T05:32:27.497681",
       "file_path": "data/bronze/repo_entidades.json"
     }
   },
@@ -697,7 +697,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-08-19T05:31:56.427050",
+      "extracted_at": "2026-08-20T05:32:27.856785",
       "file_path": "data/bronze/repo_demo-repository.json"
     }
   }
