@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-08-25T05:32:43.564080",
+      "extracted_at": "2026-08-26T05:35:37.249632",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -106,7 +106,7 @@
     "twitter_username": null,
     "public_repos": 34,
     "public_gists": 0,
-    "followers": 7,
+    "followers": 8,
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
     "updated_at": "2026-05-30T15:48:04Z"
@@ -144,7 +144,7 @@
     "followers": 7,
     "following": 7,
     "created_at": "2020-09-03T20:03:13Z",
-    "updated_at": "2026-07-30T16:17:37Z"
+    "updated_at": "2026-08-25T17:54:58Z"
   },
   {
     "login": "Gabriel-br07",
@@ -214,7 +214,7 @@
     "followers": 3,
     "following": 1,
     "created_at": "2023-07-06T23:35:45Z",
-    "updated_at": "2026-07-28T14:48:09Z"
+    "updated_at": "2026-08-25T23:33:55Z"
   },
   {
     "login": "YuriNoriki",
