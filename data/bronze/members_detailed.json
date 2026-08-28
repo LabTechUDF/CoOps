@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-08-27T16:11:43.586634",
+      "extracted_at": "2026-08-28T17:11:42.839016",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -39,7 +39,7 @@
     "followers": 12,
     "following": 24,
     "created_at": "2018-08-22T11:37:06Z",
-    "updated_at": "2026-06-18T10:03:18Z"
+    "updated_at": "2026-08-28T01:20:25Z"
   },
   {
     "login": "danrleypereira",
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 56,
     "public_gists": 0,
-    "followers": 47,
+    "followers": 48,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-08-01T23:46:52Z"
