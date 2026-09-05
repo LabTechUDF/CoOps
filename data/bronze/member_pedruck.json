@@ -26,14 +26,14 @@
   "hireable": null,
   "bio": "Software Engineering student at UnB (University of Brasília)",
   "twitter_username": null,
-  "public_repos": 6,
+  "public_repos": 7,
   "public_gists": 0,
   "followers": 4,
   "following": 3,
   "created_at": "2020-07-27T14:17:02Z",
-  "updated_at": "2026-08-31T13:38:24Z",
+  "updated_at": "2026-09-04T20:35:08Z",
   "_metadata": {
-    "extracted_at": "2026-09-04T09:22:39.309707",
+    "extracted_at": "2026-09-05T08:51:56.894952",
     "file_path": "data/bronze/member_pedruck.json"
   }
 }
