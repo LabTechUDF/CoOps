@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 34,
   "public_gists": 0,
-  "followers": 8,
+  "followers": 9,
   "following": 42,
   "created_at": "2022-08-23T00:44:38Z",
   "updated_at": "2026-08-29T16:33:23Z",
   "_metadata": {
-    "extracted_at": "2026-09-06T09:11:42.833048",
+    "extracted_at": "2026-09-07T09:59:46.023860",
     "file_path": "data/bronze/member_GuiMcs00.json"
   }
 }
