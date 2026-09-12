@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-11T09:24:09.677518",
+      "extracted_at": "2026-09-12T09:03:39.476755",
       "file_path": "data/bronze/prs_all.json",
       "record_count": 59
     }
@@ -2153,7 +2153,9 @@
         "name": "bug",
         "color": "d73a4a",
         "default": true,
-        "description": "Something isn't working"
+        "description": "Something isn't working",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "closed",

@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-11T09:24:08.055955",
+      "extracted_at": "2026-09-12T09:03:37.748357",
       "file_path": "data/bronze/issues_interfaces-usuario.json",
       "record_count": 18
     }
@@ -46,7 +46,9 @@
         "name": "bug",
         "color": "d73a4a",
         "default": true,
-        "description": "Something isn't working"
+        "description": "Something isn't working",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -142,7 +144,9 @@
         "name": "bug",
         "color": "d73a4a",
         "default": true,
-        "description": "Something isn't working"
+        "description": "Something isn't working",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -229,7 +233,9 @@
         "name": "bug",
         "color": "d73a4a",
         "default": true,
-        "description": "Something isn't working"
+        "description": "Something isn't working",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -316,7 +322,9 @@
         "name": "bug",
         "color": "d73a4a",
         "default": true,
-        "description": "Something isn't working"
+        "description": "Something isn't working",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -403,7 +411,9 @@
         "name": "good first issue",
         "color": "7057ff",
         "default": true,
-        "description": "Good for newcomers"
+        "description": "Good for newcomers",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -609,7 +619,9 @@
         "name": "bug",
         "color": "d73a4a",
         "default": true,
-        "description": "Something isn't working"
+        "description": "Something isn't working",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -696,7 +708,9 @@
         "name": "bug",
         "color": "d73a4a",
         "default": true,
-        "description": "Something isn't working"
+        "description": "Something isn't working",
+        "archived_at": null,
+        "archived_by": null
       },
       {
         "id": 5334945591,
@@ -705,7 +719,9 @@
         "name": "good first issue",
         "color": "7057ff",
         "default": true,
-        "description": "Good for newcomers"
+        "description": "Good for newcomers",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -1224,7 +1240,9 @@
         "name": "good first issue",
         "color": "7057ff",
         "default": true,
-        "description": "Good for newcomers"
+        "description": "Good for newcomers",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "open",
@@ -1388,7 +1406,9 @@
         "name": "good first issue",
         "color": "7057ff",
         "default": true,
-        "description": "Good for newcomers"
+        "description": "Good for newcomers",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "closed",
@@ -1634,7 +1654,9 @@
         "name": "enhancement",
         "color": "a2eeef",
         "default": true,
-        "description": "New feature or request"
+        "description": "New feature or request",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "closed",
@@ -1741,7 +1763,9 @@
         "name": "enhancement",
         "color": "a2eeef",
         "default": true,
-        "description": "New feature or request"
+        "description": "New feature or request",
+        "archived_at": null,
+        "archived_by": null
       }
     ],
     "state": "closed",
