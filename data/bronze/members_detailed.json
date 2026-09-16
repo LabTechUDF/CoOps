@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-15T09:48:52.400060",
+      "extracted_at": "2026-09-16T09:44:24.555759",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -109,7 +109,7 @@
     "followers": 9,
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
-    "updated_at": "2026-08-29T16:33:23Z"
+    "updated_at": "2026-09-15T16:02:12Z"
   },
   {
     "login": "thiagodiasz",
