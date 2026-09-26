@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-25T10:03:39.496147",
+  "generated_at": "2026-09-26T09:45:15.114837",
   "organization_health": {
     "total_members": 16,
-    "active_contributors": 18,
+    "active_contributors": 19,
     "new_members": 8,
     "established_members": 8
   },
   "collaboration_metrics": {
-    "total_collaborations": 69,
-    "cross_repo_contributors": 4,
-    "avg_collaborators_per_user": 7.666666666666667
+    "total_collaborations": 82,
+    "cross_repo_contributors": 5,
+    "avg_collaborators_per_user": 8.631578947368421
   },
   "activity_metrics": {
-    "total_events": 587,
-    "avg_daily_activity": 0.6678043230944255,
-    "date_range_days": 879
+    "total_events": 589,
+    "avg_daily_activity": 0.46123727486296007,
+    "date_range_days": 1277
   },
   "top_contributors": [
     {
