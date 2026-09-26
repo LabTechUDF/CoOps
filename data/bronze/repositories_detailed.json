@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-25T10:02:33.857583",
+      "extracted_at": "2026-09-26T09:44:12.086555",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -91,11 +91,11 @@
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 0,
+    "forks_count": 1,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -104,8 +104,8 @@
     "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
-    "forks": 0,
-    "open_issues": 7,
+    "forks": 1,
+    "open_issues": 8,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -138,10 +138,10 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 0,
+    "network_count": 1,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-09-25T10:02:32.356046",
+      "extracted_at": "2026-09-26T09:44:11.001837",
       "file_path": "data/bronze/repo_python-services.json"
     }
   },
@@ -280,7 +280,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-09-25T10:02:32.724975",
+      "extracted_at": "2026-09-26T09:44:11.272711",
       "file_path": "data/bronze/repo_java-services.json"
     }
   },
@@ -369,11 +369,11 @@
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 0,
+    "forks_count": 1,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -382,8 +382,8 @@
     "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
-    "forks": 0,
-    "open_issues": 16,
+    "forks": 1,
+    "open_issues": 17,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -416,10 +416,10 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 0,
+    "network_count": 1,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-09-25T10:02:33.100272",
+      "extracted_at": "2026-09-26T09:44:11.550739",
       "file_path": "data/bronze/repo_interfaces-usuario.json"
     }
   },
@@ -558,7 +558,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-09-25T10:02:33.482952",
+      "extracted_at": "2026-09-26T09:44:11.840394",
       "file_path": "data/bronze/repo_entidades.json"
     }
   },
@@ -697,7 +697,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-09-25T10:02:33.857231",
+      "extracted_at": "2026-09-26T09:44:12.086013",
       "file_path": "data/bronze/repo_demo-repository.json"
     }
   }
