@@ -1,25 +1,25 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-26T09:44:47.259628",
+      "extracted_at": "2026-09-27T10:24:17.974115",
       "file_path": "data/silver/repository_metrics.json",
       "record_count": 6
     }
   },
   {
     "issues": 28,
-    "prs": 38,
+    "prs": 39,
     "commits": 56,
     "comments": 0,
-    "total_activity": 122,
+    "total_activity": 123,
     "repo": "python-services"
   },
   {
     "issues": 18,
-    "prs": 20,
+    "prs": 21,
     "commits": 62,
     "comments": 0,
-    "total_activity": 100,
+    "total_activity": 101,
     "repo": "interfaces-usuario"
   },
   {

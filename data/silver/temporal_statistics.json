@@ -1,42 +1,44 @@
 {
-  "total_events": 589,
+  "total_events": 593,
   "date_range": {
     "start": "2023-03-27T18:50:05",
-    "end": "2026-09-25T16:52:49",
-    "days": 1277
+    "end": "2026-09-27T07:58:54",
+    "days": 1279
   },
   "events_by_type": {
     "commit": 190,
-    "pr_created": 61,
-    "event_assigned": 34,
-    "event_merged": 18,
-    "event_referenced": 6,
-    "pr_closed": 54,
-    "event_closed": 39,
+    "pr_created": 63,
+    "event_assigned": 31,
+    "event_merged": 15,
+    "event_referenced": 21,
+    "pr_closed": 56,
+    "event_closed": 36,
     "issue_created": 46,
     "issue_closed": 28,
-    "event_connected": 20,
-    "event_review_requested": 38,
-    "event_head_ref_deleted": 16,
-    "event_labeled": 14,
+    "event_labeled": 13,
+    "event_review_requested": 36,
+    "event_head_ref_deleted": 13,
     "event_unassigned": 5,
+    "event_connected": 18,
     "event_head_ref_force_pushed": 5,
     "event_renamed": 4,
     "event_review_request_removed": 7,
     "event_base_ref_force_pushed": 1,
     "event_head_ref_restored": 1,
-    "event_issue_type_added": 2
+    "event_issue_type_added": 2,
+    "event_subscribed": 1,
+    "event_mentioned": 1
   },
-  "avg_daily_activity": 0.46123727486296007,
+  "avg_daily_activity": 0.46364347146207974,
   "cycle_time_stats": {
-    "count": 82,
-    "avg_days": 20.303628895663955,
-    "median_days": 6.205914351851852,
+    "count": 84,
+    "avg_days": 19.844469659391535,
+    "median_days": 5.996423611111111,
     "min_days": 8.101851851851852e-05,
     "max_days": 166.17282407407407
   },
   "_metadata": {
-    "extracted_at": "2026-09-26T09:44:47.316136",
+    "extracted_at": "2026-09-27T10:24:18.016005",
     "file_path": "data/silver/temporal_statistics.json"
   }
 }
