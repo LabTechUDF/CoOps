@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:45:15.114837",
+  "generated_at": "2026-09-27T10:24:50.332142",
   "organization_health": {
     "total_members": 16,
     "active_contributors": 19,
@@ -12,9 +12,9 @@
     "avg_collaborators_per_user": 8.631578947368421
   },
   "activity_metrics": {
-    "total_events": 589,
-    "avg_daily_activity": 0.46123727486296007,
-    "date_range_days": 1277
+    "total_events": 593,
+    "avg_daily_activity": 0.46364347146207974,
+    "date_range_days": 1279
   },
   "top_contributors": [
     {
