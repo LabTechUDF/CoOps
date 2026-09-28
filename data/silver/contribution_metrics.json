@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-27T10:24:17.973731",
+      "extracted_at": "2026-09-28T11:31:22.213878",
       "file_path": "data/silver/contribution_metrics.json",
       "record_count": 19
     }
@@ -119,6 +119,17 @@
   {
     "issues_created": 0,
     "issues_assigned": 0,
+    "prs_authored": 6,
+    "prs_reviewed": 0,
+    "commits": 0,
+    "comments": 0,
+    "total_contributions": 6,
+    "user": "Lucasdoreac",
+    "has_contributed": true
+  },
+  {
+    "issues_created": 0,
+    "issues_assigned": 0,
     "prs_authored": 1,
     "prs_reviewed": 0,
     "commits": 5,
@@ -136,17 +147,6 @@
     "comments": 0,
     "total_contributions": 5,
     "user": "Bappoz",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 4,
-    "prs_reviewed": 0,
-    "commits": 0,
-    "comments": 0,
-    "total_contributions": 4,
-    "user": "Lucasdoreac",
     "has_contributed": true
   },
   {
