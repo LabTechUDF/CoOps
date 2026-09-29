@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:32:03.545041",
+  "generated_at": "2026-09-29T11:11:54.957585",
   "organization_health": {
     "total_members": 16,
     "active_contributors": 19,
@@ -12,9 +12,9 @@
     "avg_collaborators_per_user": 8.631578947368421
   },
   "activity_metrics": {
-    "total_events": 597,
-    "avg_daily_activity": 0.46640625,
-    "date_range_days": 1280
+    "total_events": 599,
+    "avg_daily_activity": 0.4676034348165496,
+    "date_range_days": 1281
   },
   "top_contributors": [
     {
@@ -119,12 +119,12 @@
     {
       "issues_created": 0,
       "issues_assigned": 0,
-      "prs_authored": 0,
+      "prs_authored": 7,
       "prs_reviewed": 0,
-      "commits": 7,
+      "commits": 0,
       "comments": 0,
       "total_contributions": 7,
-      "user": "juanpbarros20",
+      "user": "Lucasdoreac",
       "has_contributed": true
     }
   ]
