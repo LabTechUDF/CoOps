@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-28T11:31:22.261347",
+      "extracted_at": "2026-09-29T11:11:25.023068",
       "file_path": "data/silver/temporal_events.json",
-      "record_count": 597
+      "record_count": 599
     }
   },
   {
@@ -1351,12 +1351,6 @@
     "user": "Lucas-Germano"
   },
   {
-    "date": "2024-11-27T16:39:20",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
     "date": "2024-11-27T21:59:27",
     "type": "commit",
     "repo": "interfaces-usuario",
@@ -2183,12 +2177,6 @@
     "type": "issue_closed",
     "repo": "python-services",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-30T04:15:15",
-    "type": "event_unassigned",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2025-03-30T04:15:17",
@@ -3586,6 +3574,30 @@
     "date": "2026-09-27T20:03:01",
     "type": "event_head_ref_force_pushed",
     "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-09-28T21:15:06",
+    "type": "pr_created",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-09-29T02:01:19",
+    "type": "event_renamed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-09-29T10:12:48",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-09-29T10:12:48",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
     "user": "Lucasdoreac"
   }
 ]

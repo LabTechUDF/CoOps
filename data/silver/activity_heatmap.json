@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-28T11:31:22.266112",
+      "extracted_at": "2026-09-29T11:11:25.026695",
       "file_path": "data/silver/activity_heatmap.json",
       "record_count": 168
     }
@@ -114,7 +114,7 @@
   {
     "day_of_week": 0,
     "hour": 21,
-    "activity_count": 3
+    "activity_count": 4
   },
   {
     "day_of_week": 0,
@@ -139,7 +139,7 @@
   {
     "day_of_week": 1,
     "hour": 2,
-    "activity_count": 1
+    "activity_count": 2
   },
   {
     "day_of_week": 1,
@@ -179,7 +179,7 @@
   {
     "day_of_week": 1,
     "hour": 10,
-    "activity_count": 0
+    "activity_count": 2
   },
   {
     "day_of_week": 1,
@@ -329,7 +329,7 @@
   {
     "day_of_week": 2,
     "hour": 16,
-    "activity_count": 6
+    "activity_count": 5
   },
   {
     "day_of_week": 2,
@@ -749,7 +749,7 @@
   {
     "day_of_week": 6,
     "hour": 4,
-    "activity_count": 18
+    "activity_count": 17
   },
   {
     "day_of_week": 6,

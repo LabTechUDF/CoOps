@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-28T11:31:22.214459",
+      "extracted_at": "2026-09-29T11:11:24.984754",
       "file_path": "data/silver/repository_metrics.json",
       "record_count": 6
     }
@@ -16,10 +16,10 @@
   },
   {
     "issues": 18,
-    "prs": 22,
+    "prs": 23,
     "commits": 62,
     "comments": 0,
-    "total_activity": 102,
+    "total_activity": 103,
     "repo": "interfaces-usuario"
   },
   {

@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-28T11:31:22.268162",
+      "extracted_at": "2026-09-29T11:11:25.028197",
       "file_path": "data/silver/cycle_times.json",
-      "record_count": 86
+      "record_count": 87
     }
   },
   {
@@ -557,6 +557,14 @@
     "created_at": "2023-04-17T08:10:01",
     "closed_at": "2023-04-17T08:11:06",
     "cycle_time_days": 0.0007523148148148148
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 40,
+    "created_at": "2026-09-27T14:57:36",
+    "closed_at": "2026-09-29T10:12:48",
+    "cycle_time_days": 1.8022222222222222
   },
   {
     "type": "pr",
