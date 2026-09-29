@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-28T11:30:51.255632",
+      "extracted_at": "2026-09-29T11:10:55.888548",
       "file_path": "data/bronze/prs_python-services.json",
       "record_count": 40
     }
@@ -16,7 +16,7 @@
     "id": 5603416513,
     "node_id": "PR_kwDOJPPTws8AAAABFW1O_g",
     "number": 68,
-    "title": "test: corrige testes de log e adiciona CI",
+    "title": "chore(api): atualiza dependências e adiciona CI",
     "user": {
       "login": "Lucasdoreac",
       "id": 160977944,
@@ -45,7 +45,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2026-09-27T14:24:44Z",
-    "updated_at": "2026-09-27T20:31:29Z",
+    "updated_at": "2026-09-29T02:01:19Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -60,7 +60,7 @@
       "patch_url": "https://github.com/LabTechUDF/python-services/pull/68.patch",
       "merged_at": null
     },
-    "body": "## Objetivo\nRestabelecer a suíte existente da API a partir da `main` auditada e executá-la no GitHub Actions.\n\n## Mudanças\n- Corrige seis expectativas obsoletas em `log_test.py` para refletir os eventos e mensagens atuais.\n- Adiciona workflow de CI para executar a suíte em Python 3.12.\n- Não altera manifesto nem lock de dependências; o refresh fica em branch/PR separado após este gate.\n\n## Validação\n- Base limpa: 13 passaram e 6 falharam por expectativas antigas.\n- Este branch: `PYTHONPATH=src poetry run pytest -q` — 19 passaram.\n",
+    "body": "## Objetivo\nRestaurar a suíte da API, adicionar CI e atualizar suas dependências para a linha estável mais recente compatível, a partir da `main` auditada.\n\n## Mudanças\n\n- Corrige seis expectativas antigas de `log_test.py` para refletir os eventos/mensagens atuais e adiciona workflow para rodar a suíte.\n- Atualiza Python do gate 3.12 → 3.14.7 e o requisito do projeto para `^3.14`.\n- Atualiza Flask 3.0.3 → 3.1.3, Flask-CORS 4.0.0 → 6.0.5, Requests 2.31.0 → 2.34.2, python-dotenv 1.0.1 → 1.2.3, PyMongo 4.6.3 → 4.18.2, Typst 0.13.2 → 0.15.0, MinIO 7.2.15 → 7.2.20 e Gunicorn 23.0.0 → 26.2.0; atualiza também o lock.\n- Move pytest e mongomock para o grupo de desenvolvimento. Remove dependências diretas redundantes/sem import (`jsonify`, `werkzeug`, `setuptools`); Flask mantém Werkzeug transitivamente.\n\n## Impacto e validação\n\n- Não foi necessária mudança no contrato HTTP nem no código de produção. A suíte existente passou com as dependências novas; não foram encontrados ajustes de compatibilidade adicionais dentro da cobertura atual.\n- Runner Docker local, Python 3.14.7 e lock congelado: **19/19 testes passaram**.\n- Fork Actions sobre o head `c96ece1`: [execução 36510538076](https://github.com/Lucasdoreac/python-services/actions/runs/36510538076) passou.\n- O upstream ainda não tem esse workflow na branch padrão: `statusCheckRollup` permanece vazio; a execução do fork não é um check associado ao PR. O PR aguarda review.\n",
     "closed_by": null,
     "reactions": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/68/reactions",
