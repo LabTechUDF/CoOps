@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-29T11:10:57.810586",
+      "extracted_at": "2026-09-30T10:58:45.906851",
       "file_path": "data/bronze/prs_interfaces-usuario.json",
       "record_count": 23
     }
@@ -16,7 +16,7 @@
     "id": 5621338043,
     "node_id": "PR_kwDOJRDLZc8AAAABFlFnjg",
     "number": 41,
-    "title": "feat(frontend): migrate CRA app to React Router SPA framework",
+    "title": "feat(frontend): migra SPA e configura allowlist de Staging",
     "user": {
       "login": "Lucasdoreac",
       "id": 160977944,
@@ -43,9 +43,9 @@
     "locked": false,
     "assignees": [],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-09-28T21:15:06Z",
-    "updated_at": "2026-09-29T10:13:34Z",
+    "updated_at": "2026-09-30T09:29:42Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -60,7 +60,7 @@
       "patch_url": "https://github.com/LabTechUDF/interfaces-usuario/pull/41.patch",
       "merged_at": null
     },
-    "body": "## Objetivo\n\nMigrar o frontend de CRA para React Router Framework em Framework Mode, mantendo Reservas como SPA (`ssr: false`). As rotas profundas continuam servindo `build/client`; a mudança não introduz SSR nem funcionalidades de produto.\n\n## Escopo\n\n- Troca build CRA por React Router/Vite e declara as telas existentes como módulos de rota.\n- Atualiza runtime para Node 26.10.0, React 19.3.0, React Router 8.4.0 e Vite 8.3.1.\n- Remove Axios após verificar que não há imports remanescentes; mantém o contrato HTTP usando Fetch.\n- Liga Fetch a `globalThis`, corrigindo o receptor exigido pelo navegador; teste de regressão dedicado.\n- Atualiza `@remix-run/node-fetch-server` no lock de 0.14.1 para 0.14.2.\n- Adiciona CI para instalação congelada, build, testes e fallback de deep link da SPA.\n\n## Guia de revisão do diff (53 arquivos)\n\n1. Comece por `package.json`, `vite.config.js`, `react-router.config.js` e `app/routes.js`: mostram a troca do build e a topologia das rotas.\n2. Os wrappers em `app/routes/` apontam para telas já existentes. A maioria dos componentes `.js` aparece como renomeação para `.jsx`, exigida pelo processamento JSX do novo build; a lógica de produto dessas telas permanece a mesma.\n3. O lockfile remove a árvore de dependências do CRA; suas cerca de 10 mil linhas removidas são entradas geradas, não código de aplicação. `public/index.html` é substituído pelo documento raiz do Framework.\n4. A migração do cliente HTTP de Axios para Fetch, limitada a `services/client.js`, tem testes de regressão do contrato e tratamento de erros. O restante do diff não adiciona fluxos de produto.\n\n## Transitivos bloqueados por ranges dos pais\n\nRevalidei a metadata do registry npm em 29/09/2026. Os releases estáveis mais recentes dos pais ainda não ampliam os ranges do lock:\n\n- [`@react-router/dev`](https://www.npmjs.com/package/@react-router/dev) 8.4.0 exige Babel `^7.29.7`, `react-refresh ^0.18.0`, `es-module-lexer ^2.1.0` e `babel-dead-code-elimination ^1.0.12`. Por isso Babel 8, react-refresh 0.19, lexer 3 e dead-code-elimination 2 não cabem no range atual.\n- [`react-router`](https://www.npmjs.com/package/react-router) 8.4.0 exige `@remix-run/route-pattern ^0.22.1`; a linha 0.25.0 fica fora desse range sem atualização do pai.\n- [`vite`](https://www.npmjs.com/package/vite) 8.3.1 permite `rolldown ~1.2.9`; [`rolldown`](https://www.npmjs.com/package/rolldown) 1.2.11 fixa `@oxc-project/types =0.151.0`, enquanto o registry já publica 0.152.0.\n- [`@parcel/watcher`](https://www.npmjs.com/package/@parcel/watcher) 2.6.0 ainda exige `node-addon-api ^7`; `postcss` 8.5.28 mantém `nanoid ^3.3.18`.\n\nA auditoria registra 26 transitivos frontend nesses grupos. Não é possível obtê-los por simples relock ou override compatível: é preciso atualizar/substituir os pais que ampliem esses ranges e testar novamente o build. Nenhum override incompatível foi aplicado.\n\n## Validação no head `5832077`\n\n- `yarn install --frozen-lockfile`: passou.\n- `yarn test`: 7/7 passaram, incluindo a regressão do receptor Fetch.\n- `yarn build`: passou e gerou `build/client/index.html` em SPA Mode.\n- `yarn audit --level moderate --summary`: 0 vulnerabilidades em 138 pacotes.\n- E2E local em Docker: 2 cenários e 11 passos passaram; os dados sintéticos foram removidos ao final.\n- Fork Actions sobre este head: [execução 36508408351](https://github.com/Lucasdoreac/interfaces-usuario/actions/runs/36508408351) passou.\n\n## Decisão e integração do caminho frontend (29/09/2026)\n\nEste PR é a linha escolhida para o frontend: React Router Framework em modo SPA (`ssr:false`). O PR #40, que mantinha CRA, foi fechado como substituído. As atualizações de dependências aplicáveis foram incorporadas ao lock deste Framework; não se transplantou o lock do CRA nem seus testes ligados ao Jest/Testing Library, que não se aplicam a esta arquitetura. A regressão de cliente HTTP, testes SPA e fallback de rotas estão cobertos neste PR.\n\nRevalidação local neste head `5832077`: `yarn test` passou 7/7, `yarn build` passou e `/auth/callback` respondeu HTTP 200 na pilha Docker. O Actions do fork também passou neste head. O upstream ainda não anexa status checks porque o workflow não está na branch padrão.\n\n",
+    "body": "## Objetivo\n\nManter a aplicação em SPA com React Router Framework e integrar a tela de gestão dos dias semanais das ofertas.\n\n## Runtime e dependências\n\n| Item | Antes | Lock atual | Adaptação |\n|---|---:|---:|---|\n| Node | sem versão | 26.10.0 | Fixar runtime do build |\n| React / React DOM | 18.2.0 | 19.3.0 | Atualizar componentes e testes |\n| React Router | react-router-dom 6.10.x | react-router 8.4.0 | Migrar roteamento ao Framework |\n| CRA / build | react-scripts 5.0.1 | removido; @react-router/dev 8.4.0 + Vite 8.3.1 | O plugin oficial do Framework usa Vite para build/dev; `ssr:false` mantém SPA, sem SSR |\n| Axios | 1.3.5 | removido | Fetch nativo nas chamadas da API |\n| Bootstrap | 5.2.3 | 5.3.8 | Atualização de estilos/componentes |\n| Datepicker / Icons / Infinite Scroll | 8.2.1 / 4.8.0 / 6.1.0 | 9.1.0 / 5.7.0 / 7.2.1 | Ajuste para APIs atuais e testes |\n| Sass | 1.75.0 | 1.105.0 | Atualização do compilador CSS |\n\nOs manifestos mantêm faixas e Yarn lock fixa versões; 26 transitivos limitados por dependências-pai estão no `reports/DEPENDENCIAS.csv`, sem overrides não suportados.\n\n## Mudanças e validação\n\n- Publica `build/client`; não há SSR.\n- Usa Fetch, URL encoding e allowlist opcional `VITE_AUTH_EMAIL_ALLOWLIST`, sempre também validada no backend.\n- Adiciona `/ofertas` para Coordenação consultar ofertas e salvar dias confirmados; lê permissões da API.\n- Docker frontend: 12/12 testes e build SPA passaram. [GitHub Actions do fork](https://github.com/Lucasdoreac/interfaces-usuario/actions/runs/36672453168) passou. Staging deploy `dep-dau9pm7avr4c738abei0` live; `/` e `/ofertas` 200. E2E integrado local: 3 cenários/18 etapas.\n\n## Limites\n\nA planilha não informa dias; a tela aguarda preenchimento confirmado. Login real continua bloqueado pelo dry-run Auth. Production não foi alterado. Upstream sem checks publicados; run verde pertence ao fork.\n",
     "closed_by": null,
     "reactions": {
       "url": "https://api.github.com/repos/LabTechUDF/interfaces-usuario/issues/41/reactions",
