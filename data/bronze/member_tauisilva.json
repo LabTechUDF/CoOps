@@ -31,9 +31,9 @@
   "followers": 12,
   "following": 24,
   "created_at": "2018-08-22T11:37:06Z",
-  "updated_at": "2026-09-06T22:38:51Z",
+  "updated_at": "2026-09-30T19:03:00Z",
   "_metadata": {
-    "extracted_at": "2026-09-30T10:58:43.440210",
+    "extracted_at": "2026-10-01T11:25:50.201530",
     "file_path": "data/bronze/member_tauisilva.json"
   }
 }

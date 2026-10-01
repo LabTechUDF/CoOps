@@ -87,7 +87,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 11,
   "license": null,
   "allow_forking": true,
   "is_template": false,
@@ -97,7 +97,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 1,
-  "open_issues": 8,
+  "open_issues": 11,
   "watchers": 0,
   "default_branch": "main",
   "permissions": {
@@ -133,7 +133,7 @@
   "network_count": 1,
   "subscribers_count": 1,
   "_metadata": {
-    "extracted_at": "2026-09-30T10:58:37.886106",
+    "extracted_at": "2026-10-01T11:25:41.854650",
     "file_path": "data/bronze/repo_python-services.json"
   }
 }
