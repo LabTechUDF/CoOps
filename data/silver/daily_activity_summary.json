@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-30T10:59:15.131886",
+      "extracted_at": "2026-10-01T11:26:24.015412",
       "file_path": "data/silver/daily_activity_summary.json",
-      "record_count": 135
+      "record_count": 137
     }
   },
   {
@@ -1064,14 +1064,14 @@
   },
   {
     "date": "2024-12-19",
-    "total_events": 9,
+    "total_events": 7,
     "issues_created": 1,
     "issues_closed": 0,
     "prs_created": 1,
     "prs_closed": 0,
     "commits": 1,
     "comments": 0,
-    "unique_users": 3,
+    "unique_users": 2,
     "unique_repos": 2
   },
   {
@@ -1244,14 +1244,14 @@
   },
   {
     "date": "2025-03-30",
-    "total_events": 13,
+    "total_events": 12,
     "issues_created": 3,
     "issues_closed": 6,
     "prs_created": 1,
     "prs_closed": 1,
     "commits": 1,
     "comments": 0,
-    "unique_users": 3,
+    "unique_users": 2,
     "unique_repos": 1
   },
   {
@@ -1625,5 +1625,29 @@
     "comments": 0,
     "unique_users": 1,
     "unique_repos": 2
+  },
+  {
+    "date": "2026-09-30",
+    "total_events": 3,
+    "issues_created": 0,
+    "issues_closed": 0,
+    "prs_created": 0,
+    "prs_closed": 0,
+    "commits": 0,
+    "comments": 0,
+    "unique_users": 1,
+    "unique_repos": 2
+  },
+  {
+    "date": "2026-10-01",
+    "total_events": 3,
+    "issues_created": 3,
+    "issues_closed": 0,
+    "prs_created": 0,
+    "prs_closed": 0,
+    "commits": 0,
+    "comments": 0,
+    "unique_users": 1,
+    "unique_repos": 1
   }
 ]
