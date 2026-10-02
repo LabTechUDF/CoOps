@@ -1,10 +1,83 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-01T11:25:50.904263",
+      "extracted_at": "2026-10-02T10:55:44.546475",
       "file_path": "data/bronze/prs_python-services.json",
-      "record_count": 40
+      "record_count": 41
     }
+  },
+  {
+    "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/72",
+    "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
+    "labels_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/72/labels{/name}",
+    "comments_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/72/comments",
+    "events_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/72/events",
+    "html_url": "https://github.com/LabTechUDF/python-services/pull/72",
+    "id": 5670108397,
+    "node_id": "PR_kwDOJPPTws8AAAABGMMflw",
+    "number": 72,
+    "title": "build(api): drop pip and Poetry from the runtime image",
+    "user": {
+      "login": "Lucasdoreac",
+      "id": 160977944,
+      "node_id": "U_kgDOCZhUGA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160977944?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Lucasdoreac",
+      "html_url": "https://github.com/Lucasdoreac",
+      "followers_url": "https://api.github.com/users/Lucasdoreac/followers",
+      "following_url": "https://api.github.com/users/Lucasdoreac/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Lucasdoreac/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Lucasdoreac/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Lucasdoreac/subscriptions",
+      "organizations_url": "https://api.github.com/users/Lucasdoreac/orgs",
+      "repos_url": "https://api.github.com/users/Lucasdoreac/repos",
+      "events_url": "https://api.github.com/users/Lucasdoreac/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Lucasdoreac/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2026-10-01T22:30:53Z",
+    "updated_at": "2026-10-02T00:05:13Z",
+    "closed_at": null,
+    "assignee": null,
+    "author_association": "NONE",
+    "issue_field_values": [],
+    "type": null,
+    "active_lock_reason": null,
+    "draft": false,
+    "pull_request": {
+      "url": "https://api.github.com/repos/LabTechUDF/python-services/pulls/72",
+      "html_url": "https://github.com/LabTechUDF/python-services/pull/72",
+      "diff_url": "https://github.com/LabTechUDF/python-services/pull/72.diff",
+      "patch_url": "https://github.com/LabTechUDF/python-services/pull/72.patch",
+      "merged_at": null
+    },
+    "body": "> **Depende do #68.** Esta branch parte do head `e1f9c0f` do #68, então o diff contra `main` inclui os commits dele até o merge. A mudança deste PR é só o último commit (`6d1b93f`, `Dockerfile`).\n\n## Problema\nA imagem da API instalava Poetry com o `pip` do sistema no mesmo Python que roda a aplicação. A camada final levava `pip`, Poetry e as cópias embutidas de `urllib3` 2.7.0, `setuptools` 70.3.0 e `msgpack` 1.1.2: o Trivy reporta 6 advisories Python para elas, embora a aplicação não as importe.\n\n## Mudança\n- Estágio `builder`: Poetry 2.4.1 instala as dependências `main` do lock em `/app/.venv`.\n- Estágio `runtime`: copia só o venv, coloca `/app/.venv/bin` no `PATH` e remove o `pip` da imagem base.\n- Comando de início, porta (`PORT`, padrão 10000), `PYTHONPATH` e variáveis inalterados. Sem mudança de código, lock ou contrato.\n\n## Validação (linux/amd64, local)\n| | #68 (`e1f9c0f`) | este PR (`6d1b93f`) |\n|---|---|---|\n| Tamanho da imagem | 214 MB | 94 MB |\n| `pip` / Poetry no runtime | presentes | ausentes |\n| gunicorn + `/health` contra a pilha local | 200 | 200 |\n| Trivy 0.74.0, achados Python | 6 | 0 |\n| Trivy 0.74.0, achados Debian | 163 | 163 (fora do escopo) |\n\nA suíte da API (56 testes no #68) roda no runner de testes, não nesta imagem, e não é afetada. O workflow `python-tests.yml` também constrói esta imagem em `linux/amd64`.\n\n## Limites\nSem deploy. A arquitetura live do Render ainda não foi confirmada diretamente; o alvo local é `linux/amd64`.\n\n## Python 3.14.8 (`9f3a815`)\n- Merge do head do #68 (`f85f5cd`); conflito só na linha `FROM`: mantidos os estágios builder/runtime, ambos em `python:3.14.8-slim`. Diff contra o #68 segue só no `Dockerfile`.\n- Imagem amd64: 93 MB, `/health` 200 contra a pilha local, Trivy 0.74.0 com 0 achados Python (163 Debian inalterados).\n",
+    "closed_by": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/72/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/72/timeline",
+    "performed_via_github_app": null,
+    "state_reason": null,
+    "repo_name": "python-services"
   },
   {
     "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/68",
@@ -45,7 +118,7 @@
     "milestone": null,
     "comments": 1,
     "created_at": "2026-09-27T14:24:44Z",
-    "updated_at": "2026-10-01T01:10:12Z",
+    "updated_at": "2026-10-02T10:54:30Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -60,7 +133,7 @@
       "patch_url": "https://github.com/LabTechUDF/python-services/pull/68.patch",
       "merged_at": null
     },
-    "body": "## Objetivo\n\nAtualizar runtime e dependências da API, proteger o e-mail de Staging e restaurar o contrato `POST /send-email` e o índice de reservas, partindo da `main` atual.\n\n## Runtime e dependências\n\n| Item | Antes | Lock atual | Motivo/adaptação |\n|---|---:|---:|---|\n| Python | 3.12 | 3.14.7 | Atualizar runtime e imagem Docker |\n| Flask | 3.0.3 | 3.1.3 | Compatibilidade e segurança do runtime atual |\n| Flask-CORS | 4.0.0 | 6.0.5 | Atualização de major; cobertura da suíte API |\n| Requests | 2.31.0 | 2.34.2 | Atualização do cliente HTTP |\n| charset-normalizer | 3.5.1 | 3.5.2 | Patch compatível com a faixa `>=2,<4` de Requests 2.34.2 |\n| PyMongo | 4.6.3 | 4.18.2 | Atualização do driver Mongo |\n| Typst | 0.13.2 | 0.15.0 | Compatibilidade com Python atual |\n| MinIO | 7.2.15 | 7.2.20 | Atualização do cliente de storage |\n| Gunicorn | 23.0.0 | 26.2.0 | Atualização do servidor WSGI; smoke no container |\n| pytest / mongomock | 8.1.1 / 4.1.2 | 9.1.1 / 4.3.0 | Atualizados e movidos para dependências de desenvolvimento |\n| python-dotenv | 1.0.1 | 1.2.3 | Atualização; removidos pins explícitos redundantes de Werkzeug/setuptools e pacote `jsonify` não necessário |\n\nAs faixas do manifesto definem os mínimos compatíveis; `poetry.lock` fixa as versões testadas. A auditoria completa dos 43 pacotes está em `reports/DEPENDENCIAS.csv` local; dependências transitivas limitadas pelos pais estão registradas lá, sem overrides incompatíveis.\n\n## Alterações funcionais\n\n- Lê `MONGO_URI` explícita para desenvolvimento local e preserva o fallback Atlas.\n- Mantém `EMAIL_DRY_RUN=true` como padrão seguro, inclusive quando a variável não está definida; Produção precisa definir `false` explicitamente.\n- Restaura o contrato autenticado `POST /send-email`, usado pelo Auth e pelos fluxos de aprovação. O endpoint valida `X-API-Key` e envia pela API transacional da Brevo usando `BREVO_API_KEY`, `BREVO_SENDER_EMAIL` e `BREVO_SENDER_NAME`; não adiciona SDK.\n- Cria no startup o índice parcial único que evita reservas ativas duplicadas para a mesma sala e horário, preservando a proteção do SHA Production.\n- Submete evento e reserva numa operação (`POST /events/<id>/submit`), valida autoria e reverte reserva nova se a atualização do evento falhar. Refs #64; o front consome no PR interfaces-usuario#41.\n- Protege aprovações/rejeições com tokens aleatórios vinculados à ação, evento e etapa; reenvio invalida links antigos. GET mostra a tela de confirmação e só POST registra a decisão; em Mongo transacional, consumo do token e atualização de evento/reserva são atômicos. Em Mongo standalone, usa compare-and-set com compensação para falhas detectadas; queda abrupta entre gravações não tem garantia transacional. A ação “solicitar alterações” fica desativada até a issue #35 ser implementada.\n\n## Validação do head atual `0f6e6b4`\n\n- Docker API no head atual, com a imagem reconstruída do lock: `PYTHONPATH=src poetry run pytest -q` — 56 testes passaram, incluindo os testes de aprovação.\n- GitHub Actions do fork passou no head anterior `f503e34`: [Python tests](https://github.com/Lucasdoreac/python-services/actions/runs/36787888521). O check local acima cobre o lock no head atual; `gh pr checks` não reportou checks para a branch do PR.\n- As chamadas à Brevo nos testes são simuladas; nenhum e-mail foi enviado. E2E integrado local na pilha Docker (`./run-tests.sh e2e`, serviços nos heads dos PRs): 1 feature, 2 cenários e 11 passos passaram; a conta sintética foi removida (0 registros, 0 chaves Redis).\n- Staging API roda o head `f503e34` (deploy `dep-daup4k8473hc73c3ar70`, 30/09). `/health` respondeu 200; browser abriu `/organizer` sem “Serviço indisponível”. GET `/approve` sem parâmetros e POST com token/evento inválidos responderam 404 com cabeçalhos de segurança. Nenhum link real foi usado, e nenhum e-mail ou alteração de reserva foi produzido.\n\n## Limites\n\nA entrega real de e-mail depende de chave e remetente do provedor configurados fora do código e não foi exercitada nesta validação. Links de aprovação já enviados podem não funcionar com o formato de token novo; devem ser reenviados pela aplicação. Production não foi alterado. A revisão/merge depende dos mantenedores e dos checks do upstream.\n\n\n\n\n",
+    "body": "## Objetivo\n\nAtualizar runtime e dependências da API, proteger o e-mail de Staging e restaurar o contrato `POST /send-email` e o índice de reservas, partindo da `main` atual.\n\n## Runtime e dependências\n\n| Item | Antes | Lock atual | Motivo/adaptação |\n|---|---:|---:|---|\n| Python | 3.12 | 3.14.7 | Atualizar runtime e imagem Docker |\n| Flask | 3.0.3 | 3.1.3 | Compatibilidade e segurança do runtime atual |\n| Flask-CORS | 4.0.0 | 6.0.5 | Atualização de major; cobertura da suíte API |\n| Requests | 2.31.0 | 2.34.2 | Atualização do cliente HTTP |\n| charset-normalizer | 3.5.1 | 3.5.2 | Patch compatível com a faixa `>=2,<4` de Requests 2.34.2 |\n| PyMongo | 4.6.3 | 4.18.2 | Atualização do driver Mongo |\n| Typst | 0.13.2 | 0.15.0 | Compatibilidade com Python atual |\n| MinIO | 7.2.15 | 7.2.20 | Atualização do cliente de storage |\n| Gunicorn | 23.0.0 | 26.2.0 | Atualização do servidor WSGI; smoke no container |\n| pytest / mongomock | 8.1.1 / 4.1.2 | 9.1.1 / 4.3.0 | Atualizados e movidos para dependências de desenvolvimento |\n| python-dotenv | 1.0.1 | 1.2.4 | Atualização; removidos pins explícitos redundantes de Werkzeug/setuptools e pacote `jsonify` não necessário |\n\nAs faixas do manifesto definem os mínimos compatíveis; `poetry.lock` fixa as versões testadas. A auditoria pacote a pacote (46 linhas) está no relatório local e no [PR de análise #1](https://github.com/Lucasdoreac/labtech-reservas/pull/1); dependências transitivas limitadas pelos pais estão registradas lá, sem overrides incompatíveis.\n\n## Alterações funcionais\n\n- Lê `MONGO_URI` explícita para desenvolvimento local e preserva o fallback Atlas.\n- Mantém `EMAIL_DRY_RUN=true` como padrão seguro, inclusive quando a variável não está definida; Produção precisa definir `false` explicitamente.\n- Restaura o contrato autenticado `POST /send-email`, usado pelo Auth e pelos fluxos de aprovação. O endpoint valida `X-API-Key` e envia pela API transacional da Brevo usando `BREVO_API_KEY`, `BREVO_SENDER_EMAIL` e `BREVO_SENDER_NAME`; não adiciona SDK.\n- Cria no startup o índice parcial único que evita reservas ativas duplicadas para a mesma sala e horário, preservando a proteção do SHA Production.\n- Submete evento e reserva numa operação (`POST /events/<id>/submit`), valida autoria e reverte reserva nova se a atualização do evento falhar. Refs #64; o front consome no PR interfaces-usuario#41.\n- Protege aprovações/rejeições com tokens aleatórios vinculados à ação, evento e etapa; reenvio invalida links antigos. GET mostra a tela de confirmação e só POST registra a decisão; em Mongo transacional, consumo do token e atualização de evento/reserva são atômicos. Em Mongo standalone, usa compare-and-set com compensação para falhas detectadas; queda abrupta entre gravações não tem garantia transacional. A ação “solicitar alterações” fica desativada até a issue #35 ser implementada.\n\n## Validação do head atual `e1f9c0f`\n\n- Docker linux/amd64 no conteúdo atual: 56 testes passaram, incluindo aprovação. Build do Dockerfile do PR com lock atualizado passou; `dpkg-query` confirmou PCRE2 10.46-1~deb13u3 e OpenSSL 3.5.7-1~deb13u3.\n- GitHub Actions no head `e1f9c0f` passou: [Python tests](https://github.com/Lucasdoreac/python-services/actions/runs/36885550221).\n- As chamadas à Brevo nos testes são simuladas; nenhum e-mail foi enviado. E2E integrado local na pilha Docker (`./run-tests.sh e2e`, serviços nos heads dos PRs): 1 feature, 2 cenários e 11 passos passaram; a conta sintética foi removida (0 registros, 0 chaves Redis).\n- Staging API roda o head `f503e34` (deploy `dep-daup4k8473hc73c3ar70`, 30/09). `/health` respondeu 200; browser abriu `/organizer` sem “Serviço indisponível”. GET `/approve` sem parâmetros e POST com token/evento inválidos responderam 404 com cabeçalhos de segurança. Nenhum link real foi usado, e nenhum e-mail ou alteração de reserva foi produzido.\n\n## Limites\n\nA entrega real de e-mail depende de chave e remetente do provedor configurados fora do código e não foi exercitada nesta validação. Links de aprovação já enviados podem não funcionar com o formato de token novo; devem ser reenviados pela aplicação. Production não foi alterado. A revisão/merge depende dos mantenedores e dos checks do upstream.\n\n## Python 3.14.8 (`f85f5cd`)\n- `Dockerfile` e `python-tests.yml`: Python 3.14.7 → 3.14.8 (imagem oficial publicada em 01/10). Lock inalterado.\n- Imagem Render amd64: build OK, `/health` 200 contra a pilha local; Trivy 0.74.0 inalterado (163 Debian; 6 Python do `pip` embutido, removidos no #72).\n- Validação local em Docker `linux/amd64` no conjunto integrado (pilha reconstruída em 3.14.8): `run-tests.sh all` PASS (API 56, Catálogo 8, Auth 18 + 4, Web build + testes, framework 7 + dry-run), smoke de catálogo PASS e E2E real no Chrome 2 cenários / 11 passos PASS, com backup Mongo validado antes e dados sintéticos limpos depois.\n",
     "closed_by": null,
     "reactions": {
       "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/68/reactions",
