@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-01T11:26:24.012210",
+      "extracted_at": "2026-10-02T10:56:16.083231",
       "file_path": "data/silver/temporal_events.json",
-      "record_count": 602
+      "record_count": 603
     }
   },
   {
@@ -2173,18 +2173,6 @@
     "user": "Gabriel-br07"
   },
   {
-    "date": "2025-04-01T01:37:32",
-    "type": "event_connected",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-01T01:37:32",
-    "type": "event_connected",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2025-04-01T01:37:40",
     "type": "event_review_requested",
     "repo": "python-services",
@@ -3615,6 +3603,24 @@
   {
     "date": "2026-10-01T00:13:50",
     "type": "issue_created",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-01T22:30:53",
+    "type": "pr_created",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-02T00:02:50",
+    "type": "event_referenced",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-02T00:04:27",
+    "type": "event_referenced",
     "repo": "python-services",
     "user": "Lucasdoreac"
   }

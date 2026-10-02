@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-01T11:26:24.015412",
+      "extracted_at": "2026-10-02T10:56:16.086594",
       "file_path": "data/silver/daily_activity_summary.json",
-      "record_count": 137
+      "record_count": 138
     }
   },
   {
@@ -1256,7 +1256,7 @@
   },
   {
     "date": "2025-04-01",
-    "total_events": 11,
+    "total_events": 9,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 2,
@@ -1640,8 +1640,20 @@
   },
   {
     "date": "2026-10-01",
-    "total_events": 3,
+    "total_events": 4,
     "issues_created": 3,
+    "issues_closed": 0,
+    "prs_created": 1,
+    "prs_closed": 0,
+    "commits": 0,
+    "comments": 0,
+    "unique_users": 1,
+    "unique_repos": 1
+  },
+  {
+    "date": "2026-10-02",
+    "total_events": 2,
+    "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
     "prs_closed": 0,
