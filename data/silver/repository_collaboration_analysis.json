@@ -1,43 +1,44 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-02T10:56:16.059054",
+      "extracted_at": "2026-10-03T10:16:07.190803",
       "file_path": "data/silver/repository_collaboration_analysis.json",
       "record_count": 5
     }
   },
   {
     "repo": "interfaces-usuario",
-    "contributor_count": 10,
+    "contributor_count": 11,
     "contributors": [
-      "Lucasdoreac",
-      "Lucas-Germano",
-      "josue-oliveiraa",
-      "thiagodiasz",
-      "Gabriel-br07",
-      "GuiMcs00",
       "Danilo019",
-      "danrleypereira",
+      "testing-library",
+      "Bappoz",
       "Bnicole98",
-      "Bappoz"
+      "danrleypereira",
+      "GuiMcs00",
+      "thiagodiasz",
+      "Lucas-Germano",
+      "Lucasdoreac",
+      "josue-oliveiraa",
+      "Gabriel-br07"
     ],
-    "potential_collaborations": 45,
-    "actual_collaborations": 45,
+    "potential_collaborations": 55,
+    "actual_collaborations": 55,
     "collaboration_density": 1.0
   },
   {
     "repo": "python-services",
     "contributor_count": 9,
     "contributors": [
-      "Lucasdoreac",
+      "araujow-g",
       "pedruck",
-      "josue-oliveiraa",
-      "Gabriel-br07",
+      "YuriNoriki",
       "polyanacunha",
       "GuiMcs00",
-      "araujow-g",
       "danrleypereira",
-      "YuriNoriki"
+      "Lucasdoreac",
+      "josue-oliveiraa",
+      "Gabriel-br07"
     ],
     "potential_collaborations": 36,
     "actual_collaborations": 36,
@@ -49,8 +50,8 @@
     "contributors": [
       "danrleypereira",
       "MartinsArtur",
-      "leltonborges",
-      "tauisilva"
+      "tauisilva",
+      "leltonborges"
     ],
     "potential_collaborations": 6,
     "actual_collaborations": 6,
@@ -60,10 +61,10 @@
     "repo": "entidades",
     "contributor_count": 4,
     "contributors": [
-      "danrleypereira",
-      "juanpbarros20",
       "whiterabbitholes",
-      "GuiMcs00"
+      "GuiMcs00",
+      "juanpbarros20",
+      "danrleypereira"
     ],
     "potential_collaborations": 6,
     "actual_collaborations": 6,
