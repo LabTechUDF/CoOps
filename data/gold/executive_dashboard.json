@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:56:44.399795",
+  "generated_at": "2026-10-03T10:16:37.778243",
   "organization_health": {
     "total_members": 16,
     "active_contributors": 19,
@@ -7,14 +7,14 @@
     "established_members": 8
   },
   "collaboration_metrics": {
-    "total_collaborations": 82,
+    "total_collaborations": 92,
     "cross_repo_contributors": 5,
-    "avg_collaborators_per_user": 8.631578947368421
+    "avg_collaborators_per_user": 9.2
   },
   "activity_metrics": {
-    "total_events": 603,
-    "avg_daily_activity": 0.4696261682242991,
-    "date_range_days": 1284
+    "total_events": 627,
+    "avg_daily_activity": 0.48793774319066147,
+    "date_range_days": 1285
   },
   "top_contributors": [
     {
@@ -51,6 +51,17 @@
       "has_contributed": true
     },
     {
+      "issues_created": 3,
+      "issues_assigned": 0,
+      "prs_authored": 31,
+      "prs_reviewed": 0,
+      "commits": 0,
+      "comments": 0,
+      "total_contributions": 34,
+      "user": "Lucasdoreac",
+      "has_contributed": true
+    },
+    {
       "issues_created": 1,
       "issues_assigned": 10,
       "prs_authored": 13,
@@ -70,17 +81,6 @@
       "comments": 0,
       "total_contributions": 16,
       "user": "thiagodiasz",
-      "has_contributed": true
-    },
-    {
-      "issues_created": 3,
-      "issues_assigned": 0,
-      "prs_authored": 8,
-      "prs_reviewed": 0,
-      "commits": 0,
-      "comments": 0,
-      "total_contributions": 11,
-      "user": "Lucasdoreac",
       "has_contributed": true
     },
     {

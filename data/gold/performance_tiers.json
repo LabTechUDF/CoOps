@@ -36,6 +36,17 @@
       "has_contributed": true
     },
     {
+      "issues_created": 3,
+      "issues_assigned": 0,
+      "prs_authored": 31,
+      "prs_reviewed": 0,
+      "commits": 0,
+      "comments": 0,
+      "total_contributions": 34,
+      "user": "Lucasdoreac",
+      "has_contributed": true
+    },
+    {
       "issues_created": 1,
       "issues_assigned": 10,
       "prs_authored": 13,
@@ -45,7 +56,9 @@
       "total_contributions": 34,
       "user": "Gabriel-br07",
       "has_contributed": true
-    },
+    }
+  ],
+  "occasional_contributors": [
     {
       "issues_created": 0,
       "issues_assigned": 0,
@@ -55,19 +68,6 @@
       "comments": 0,
       "total_contributions": 16,
       "user": "thiagodiasz",
-      "has_contributed": true
-    }
-  ],
-  "occasional_contributors": [
-    {
-      "issues_created": 3,
-      "issues_assigned": 0,
-      "prs_authored": 8,
-      "prs_reviewed": 0,
-      "commits": 0,
-      "comments": 0,
-      "total_contributions": 11,
-      "user": "Lucasdoreac",
       "has_contributed": true
     },
     {
