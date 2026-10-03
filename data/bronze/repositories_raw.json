@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-02T10:55:35.256287",
+      "extracted_at": "2026-10-03T10:15:29.020742",
       "file_path": "data/bronze/repositories_raw.json",
       "record_count": 16
     }
@@ -95,7 +95,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12,
+    "open_issues_count": 22,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -105,7 +105,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 12,
+    "open_issues": 22,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -317,7 +317,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 17,
+    "open_issues_count": 29,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -327,7 +327,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 17,
+    "open_issues": 29,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -1205,7 +1205,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -1215,7 +1215,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 20,
+    "open_issues": 22,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -1433,7 +1433,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 1,
+    "open_issues_count": 3,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -1443,7 +1443,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 3,
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
@@ -1751,14 +1751,14 @@
     "releases_url": "https://api.github.com/repos/LabTechUDF/CoOps/releases{/id}",
     "deployments_url": "https://api.github.com/repos/LabTechUDF/CoOps/deployments",
     "created_at": "2025-10-18T07:38:34Z",
-    "updated_at": "2026-10-01T11:27:03Z",
-    "pushed_at": "2026-10-01T11:26:59Z",
+    "updated_at": "2026-10-02T10:56:49Z",
+    "pushed_at": "2026-10-02T10:56:45Z",
     "git_url": "git://github.com/LabTechUDF/CoOps.git",
     "ssh_url": "git@github.com:LabTechUDF/CoOps.git",
     "clone_url": "https://github.com/LabTechUDF/CoOps.git",
     "svn_url": "https://github.com/LabTechUDF/CoOps",
     "homepage": null,
-    "size": 29712,
+    "size": 30071,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "TypeScript",

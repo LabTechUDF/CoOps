@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-02T10:55:37.295596",
+      "extracted_at": "2026-10-03T10:15:30.532066",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -95,7 +95,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12,
+    "open_issues_count": 22,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -105,7 +105,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 12,
+    "open_issues": 22,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -141,7 +141,7 @@
     "network_count": 1,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-10-02T10:55:35.704530",
+      "extracted_at": "2026-10-03T10:15:29.352744",
       "file_path": "data/bronze/repo_python-services.json"
     }
   },
@@ -280,7 +280,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-10-02T10:55:36.148634",
+      "extracted_at": "2026-10-03T10:15:29.640372",
       "file_path": "data/bronze/repo_java-services.json"
     }
   },
@@ -373,7 +373,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 17,
+    "open_issues_count": 29,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -383,7 +383,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 17,
+    "open_issues": 29,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -419,7 +419,7 @@
     "network_count": 1,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-10-02T10:55:36.535627",
+      "extracted_at": "2026-10-03T10:15:29.939844",
       "file_path": "data/bronze/repo_interfaces-usuario.json"
     }
   },
@@ -558,7 +558,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-10-02T10:55:36.961083",
+      "extracted_at": "2026-10-03T10:15:30.246374",
       "file_path": "data/bronze/repo_entidades.json"
     }
   },
@@ -697,7 +697,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-10-02T10:55:37.289443",
+      "extracted_at": "2026-10-03T10:15:30.531585",
       "file_path": "data/bronze/repo_demo-repository.json"
     }
   }
