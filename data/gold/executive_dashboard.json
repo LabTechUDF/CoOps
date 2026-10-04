@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-03T10:16:37.778243",
+  "generated_at": "2026-10-04T10:59:57.009836",
   "organization_health": {
     "total_members": 16,
     "active_contributors": 19,
-    "new_members": 8,
-    "established_members": 8
+    "new_members": 7,
+    "established_members": 9
   },
   "collaboration_metrics": {
     "total_collaborations": 92,
@@ -12,9 +12,9 @@
     "avg_collaborators_per_user": 9.2
   },
   "activity_metrics": {
-    "total_events": 627,
-    "avg_daily_activity": 0.48793774319066147,
-    "date_range_days": 1285
+    "total_events": 629,
+    "avg_daily_activity": 0.4891135303265941,
+    "date_range_days": 1286
   },
   "top_contributors": [
     {
@@ -53,11 +53,11 @@
     {
       "issues_created": 3,
       "issues_assigned": 0,
-      "prs_authored": 31,
+      "prs_authored": 33,
       "prs_reviewed": 0,
       "commits": 0,
       "comments": 0,
-      "total_contributions": 34,
+      "total_contributions": 36,
       "user": "Lucasdoreac",
       "has_contributed": true
     },
