@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-03T10:16:07.218421",
+      "extracted_at": "2026-10-04T10:59:34.109644",
       "file_path": "data/silver/daily_activity_summary.json",
-      "record_count": 138
+      "record_count": 135
     }
   },
   {
@@ -1220,7 +1220,7 @@
   },
   {
     "date": "2025-03-28",
-    "total_events": 21,
+    "total_events": 12,
     "issues_created": 1,
     "issues_closed": 1,
     "prs_created": 4,
@@ -1232,7 +1232,7 @@
   },
   {
     "date": "2025-03-29",
-    "total_events": 20,
+    "total_events": 14,
     "issues_created": 5,
     "issues_closed": 1,
     "prs_created": 0,
@@ -1280,7 +1280,7 @@
   },
   {
     "date": "2025-04-07",
-    "total_events": 10,
+    "total_events": 9,
     "issues_created": 0,
     "issues_closed": 2,
     "prs_created": 0,
@@ -1291,20 +1291,8 @@
     "unique_repos": 1
   },
   {
-    "date": "2025-04-08",
-    "total_events": 1,
-    "issues_created": 0,
-    "issues_closed": 0,
-    "prs_created": 0,
-    "prs_closed": 0,
-    "commits": 0,
-    "comments": 0,
-    "unique_users": 1,
-    "unique_repos": 1
-  },
-  {
     "date": "2025-04-09",
-    "total_events": 6,
+    "total_events": 1,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 1,
@@ -1316,7 +1304,7 @@
   },
   {
     "date": "2025-04-10",
-    "total_events": 2,
+    "total_events": 1,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 1,
@@ -1328,7 +1316,7 @@
   },
   {
     "date": "2025-04-12",
-    "total_events": 7,
+    "total_events": 1,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 1,
@@ -1340,7 +1328,7 @@
   },
   {
     "date": "2025-04-14",
-    "total_events": 24,
+    "total_events": 11,
     "issues_created": 1,
     "issues_closed": 1,
     "prs_created": 2,
@@ -1352,19 +1340,19 @@
   },
   {
     "date": "2025-04-16",
-    "total_events": 2,
+    "total_events": 1,
     "issues_created": 0,
     "issues_closed": 1,
     "prs_created": 0,
     "prs_closed": 0,
     "commits": 0,
     "comments": 0,
-    "unique_users": 2,
+    "unique_users": 1,
     "unique_repos": 1
   },
   {
     "date": "2025-04-22",
-    "total_events": 3,
+    "total_events": 1,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
@@ -1375,20 +1363,8 @@
     "unique_repos": 1
   },
   {
-    "date": "2025-04-23",
-    "total_events": 1,
-    "issues_created": 0,
-    "issues_closed": 0,
-    "prs_created": 0,
-    "prs_closed": 0,
-    "commits": 0,
-    "comments": 0,
-    "unique_users": 1,
-    "unique_repos": 1
-  },
-  {
     "date": "2025-04-24",
-    "total_events": 7,
+    "total_events": 2,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 2,
@@ -1399,20 +1375,8 @@
     "unique_repos": 2
   },
   {
-    "date": "2025-04-25",
-    "total_events": 9,
-    "issues_created": 0,
-    "issues_closed": 0,
-    "prs_created": 0,
-    "prs_closed": 0,
-    "commits": 0,
-    "comments": 0,
-    "unique_users": 1,
-    "unique_repos": 2
-  },
-  {
     "date": "2025-04-28",
-    "total_events": 9,
+    "total_events": 2,
     "issues_created": 1,
     "issues_closed": 0,
     "prs_created": 1,
@@ -1424,7 +1388,7 @@
   },
   {
     "date": "2025-04-30",
-    "total_events": 21,
+    "total_events": 16,
     "issues_created": 2,
     "issues_closed": 1,
     "prs_created": 0,
@@ -1652,10 +1616,10 @@
   },
   {
     "date": "2026-10-03",
-    "total_events": 9,
+    "total_events": 83,
     "issues_created": 0,
     "issues_closed": 0,
-    "prs_created": 2,
+    "prs_created": 4,
     "prs_closed": 0,
     "commits": 0,
     "comments": 0,

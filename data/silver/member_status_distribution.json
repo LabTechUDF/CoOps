@@ -1,8 +1,8 @@
 {
-  "established": 8,
-  "new": 8,
+  "established": 9,
+  "new": 7,
   "_metadata": {
-    "extracted_at": "2026-10-03T10:16:07.140910",
+    "extracted_at": "2026-10-04T10:59:34.023694",
     "file_path": "data/silver/member_status_distribution.json"
   }
 }
