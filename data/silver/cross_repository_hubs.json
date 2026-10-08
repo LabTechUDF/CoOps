@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-07T11:36:16.208389",
+      "extracted_at": "2026-10-08T11:50:44.434247",
       "file_path": "data/silver/cross_repository_hubs.json",
       "record_count": 5
     }
@@ -38,7 +38,7 @@
     "total_collaborators": 14
   },
   {
-    "user": "Gabriel-br07",
+    "user": "Lucasdoreac",
     "repositories": [
       "python-services",
       "interfaces-usuario"
@@ -47,7 +47,7 @@
     "total_collaborators": 14
   },
   {
-    "user": "Lucasdoreac",
+    "user": "Gabriel-br07",
     "repositories": [
       "python-services",
       "interfaces-usuario"
