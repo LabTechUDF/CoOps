@@ -31,9 +31,9 @@
   "followers": 7,
   "following": 8,
   "created_at": "2019-09-05T16:11:04Z",
-  "updated_at": "2026-10-07T17:29:47Z",
+  "updated_at": "2026-10-09T19:02:00Z",
   "_metadata": {
-    "extracted_at": "2026-10-09T11:42:10.768481",
+    "extracted_at": "2026-10-10T11:00:23.943167",
     "file_path": "data/bronze/member_MartinsArtur.json"
   }
 }

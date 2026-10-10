@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-09T11:42:10.765702",
+      "extracted_at": "2026-10-10T11:00:23.938803",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -529,7 +529,7 @@
     "followers": 7,
     "following": 8,
     "created_at": "2019-09-05T16:11:04Z",
-    "updated_at": "2026-10-07T17:29:47Z"
+    "updated_at": "2026-10-09T19:02:00Z"
   },
   {
     "login": "Danilo019",
