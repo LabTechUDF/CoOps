@@ -1,10 +1,87 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-18T09:22:04.825846",
+      "extracted_at": "2026-10-19T10:34:16.649093",
       "file_path": "data/bronze/issues_all.json",
-      "record_count": 49
+      "record_count": 50
     }
+  },
+  {
+    "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/86",
+    "repository_url": "https://api.github.com/repos/LabTechUDF/python-services",
+    "labels_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/86/labels{/name}",
+    "comments_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/86/comments",
+    "events_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/86/events",
+    "html_url": "https://github.com/LabTechUDF/python-services/issues/86",
+    "id": 5911317366,
+    "node_id": "I_kwDOJPPTws8AAAABYFeLdg",
+    "number": 86,
+    "title": "Epic: homologar o fluxo administrativo de aprovação nos quatro repositórios",
+    "user": {
+      "login": "Lucasdoreac",
+      "id": 160977944,
+      "node_id": "U_kgDOCZhUGA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160977944?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Lucasdoreac",
+      "html_url": "https://github.com/Lucasdoreac",
+      "followers_url": "https://api.github.com/users/Lucasdoreac/followers",
+      "following_url": "https://api.github.com/users/Lucasdoreac/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Lucasdoreac/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Lucasdoreac/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Lucasdoreac/subscriptions",
+      "organizations_url": "https://api.github.com/users/Lucasdoreac/orgs",
+      "repos_url": "https://api.github.com/users/Lucasdoreac/repos",
+      "events_url": "https://api.github.com/users/Lucasdoreac/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Lucasdoreac/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2026-10-18T15:52:03Z",
+    "updated_at": "2026-10-18T15:52:03Z",
+    "closed_at": null,
+    "assignee": null,
+    "author_association": "NONE",
+    "issue_field_values": [],
+    "type": null,
+    "active_lock_reason": null,
+    "sub_issues_summary": {
+      "total": 0,
+      "completed": 0,
+      "percent_completed": 0
+    },
+    "issue_dependencies_summary": {
+      "blocked_by": 0,
+      "total_blocked_by": 0,
+      "blocking": 0,
+      "total_blocking": 0
+    },
+    "body": "## Objetivo\n\nHomologar, em ambiente local, o fluxo administrativo já previsto no sistema: autenticação do solicitante, envio do pedido, encaminhamento à Coordenação e à Reitoria quando aplicável, decisão, atualização persistida e comunicação ao solicitante. A evidência deve mostrar o que cada destinatário recebe e qual estado/decisão ficou registrado. O escopo atravessa os quatro repositórios originais da aplicação.\n\nEsta issue organiza investigação e integração. Ela não presume requisitos de produto ainda não confirmados e não considera aceite da API de email como prova de entrega na caixa.\n\n## Escopo por repositório\n\n- **python-services:** resolver o destinatário de cada etapa a partir da fonte de dados já prevista; não declarar sucesso se o encaminhamento falhar; manter transições e tokens de ação coerentes; persistir a decisão e sua autoria sem atribuir identidade que o mecanismo não verificou.\n- **shared-resources (Auth e catálogo):** permitir validar o fluxo local pelo endereço de homologação configurado; produzir links que retornem ao host local; fornecer a associação oficial de curso/coordenador consumida pelo serviço. Allowlist de email e ACL de IP do Mongo/Render são controles distintos.\n- **interfaces-usuario:** refletir o estado real de autenticação, envio, espera e decisão; não afirmar que um email foi enviado quando o modo local apenas devolveu um link ou quando o despacho falhou.\n- **supreme-test-framework:** executar cenários integrados para caminhos de Coordenação e Reitoria aplicáveis, rejeição/pedido de alteração e falhas de envio, verificando email recebido, estado persistido e auditoria. Testes automatizados devem usar destinatário controlado; o teste manual de entrega externa fica limitado à caixa de homologação do solicitante.\n\n## Critérios de aceite\n\n- [ ] Uma única configuração local seleciona fontes/SHAs explícitos dos quatro repositórios, com `dev-local/check-lanes.py` passando e aplicação executada em Docker Linux `linux/amd64`.\n- [ ] O login de homologação usa o endereço exato permitido e o link recebido aponta para o host local. A tela distingue link devolvido em modo de desenvolvimento de email efetivamente enviado.\n- [ ] Um pedido sintético ligado a curso com associação oficial de Coordenação gera o destinatário correto. Se a associação estiver ausente, ambígua ou indisponível, a aplicação apresenta falha recuperável; não usa o email do solicitante como destinatário administrativo.\n- [ ] A caixa de homologação recebe a mensagem de cada etapa exercitada, com ação correspondente. Registrar separadamente resposta do provedor, entrega observada e clique/decisão.\n- [ ] Aprovar, rejeitar e pedir alteração, nos caminhos suportados, só produzem a transição esperada; tokens são de uso único e a falha de notificação não é reportada como sucesso.\n- [ ] Evento, reserva e histórico/auditoria persistem no mesmo identificador. O registro identifica o decisor somente quando a identidade foi verificada; link bearer ou destinatário do email, por si só, não prova quem clicou.\n- [ ] O solicitante recebe a comunicação de resultado prevista e a UI mostra o estado que foi persistido.\n- [ ] Falhas e reenvio/retry têm resultado observável e não criam decisões duplicadas nem reservas órfãs.\n- [ ] Evidências finais informam repositório, branch/SHA e testes atuais. Nenhum email de homologação é enviado a terceiros.\n\n## Referências existentes para revisar, não presumir concluídas\n\n- API: issues [#34](https://github.com/LabTechUDF/python-services/issues/34), [#53](https://github.com/LabTechUDF/python-services/issues/53), [#54](https://github.com/LabTechUDF/python-services/issues/54) e [#65](https://github.com/LabTechUDF/python-services/issues/65); PRs [#68](https://github.com/LabTechUDF/python-services/pull/68), [#84](https://github.com/LabTechUDF/python-services/pull/84) e [#85](https://github.com/LabTechUDF/python-services/pull/85).\n- Auth e catálogo: PRs [shared-resources #31](https://github.com/LabTechUDF/shared-resources/pull/31) e [#30](https://github.com/LabTechUDF/shared-resources/pull/30).\n- Web: PRs [interfaces-usuario #41](https://github.com/LabTechUDF/interfaces-usuario/pull/41) e [#50](https://github.com/LabTechUDF/interfaces-usuario/pull/50).\n- E2E: PRs [supreme-test-framework #3](https://github.com/LabTechUDF/supreme-test-framework/pull/3), [#4](https://github.com/LabTechUDF/supreme-test-framework/pull/4) e [#5](https://github.com/LabTechUDF/supreme-test-framework/pull/5).\n\n## Limites\n\nHomologação local somente. Não fazer deploy, escrita em Staging/Production, merge, nem usar dados ou destinatários reais de terceiros. Dados sintéticos devem ser identificáveis e precedidos por backup local validado. Registrar como pendência qualquer regra de negócio que os repositórios e materiais disponíveis não definam.\n",
+    "closed_by": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/86/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "timeline_url": "https://api.github.com/repos/LabTechUDF/python-services/issues/86/timeline",
+    "performed_via_github_app": null,
+    "state_reason": null,
+    "pinned_comment": null,
+    "repo_name": "python-services"
   },
   {
     "url": "https://api.github.com/repos/LabTechUDF/python-services/issues/71",
