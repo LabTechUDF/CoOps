@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-18T09:22:29.572135",
+      "extracted_at": "2026-10-19T10:34:39.528733",
       "file_path": "data/silver/temporal_events.json",
-      "record_count": 629
+      "record_count": 630
     }
   },
   {
@@ -3777,6 +3777,12 @@
   {
     "date": "2026-10-03T22:43:22",
     "type": "event_referenced",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-18T15:52:03",
+    "type": "issue_created",
     "repo": "python-services",
     "user": "Lucasdoreac"
   }

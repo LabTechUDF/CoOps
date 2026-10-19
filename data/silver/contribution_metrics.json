@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-18T09:22:29.501897",
+      "extracted_at": "2026-10-19T10:34:39.498524",
       "file_path": "data/silver/contribution_metrics.json",
       "record_count": 19
     }
@@ -40,13 +40,13 @@
     "has_contributed": true
   },
   {
-    "issues_created": 3,
+    "issues_created": 4,
     "issues_assigned": 0,
     "prs_authored": 33,
     "prs_reviewed": 0,
     "commits": 0,
     "comments": 0,
-    "total_contributions": 36,
+    "total_contributions": 37,
     "user": "Lucasdoreac",
     "has_contributed": true
   },
