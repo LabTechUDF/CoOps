@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-19T10:34:39.528733",
+      "extracted_at": "2026-10-20T09:50:56.920764",
       "file_path": "data/silver/temporal_events.json",
-      "record_count": 630
+      "record_count": 657
     }
   },
   {
@@ -2191,12 +2191,6 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-04-30T07:04:36",
-    "type": "event_labeled",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2025-04-30T07:20:58",
     "type": "issue_created",
     "repo": "python-services",
@@ -2215,34 +2209,10 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-04-30T09:03:13",
-    "type": "event_head_ref_deleted",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-04-30T09:21:34",
-    "type": "event_renamed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2025-04-30T09:22:06",
     "type": "commit",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-30T09:22:06",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-04-30T09:22:06",
-    "type": "event_merged",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
   },
   {
     "date": "2025-04-30T09:22:07",
@@ -2251,34 +2221,16 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-04-30T09:22:07",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2025-04-30T09:22:10",
     "type": "pr_closed",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-04-30T09:22:10",
-    "type": "event_head_ref_deleted",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2025-04-30T09:29:33",
     "type": "pr_closed",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-30T09:29:33",
-    "type": "event_head_ref_deleted",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
   },
   {
     "date": "2025-05-03T19:07:36",
@@ -2287,50 +2239,14 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-05-03T19:13:58",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-03T19:14:00",
-    "type": "event_review_request_removed",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-03T19:14:01",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-04T02:16:25",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-05-04T02:16:38",
     "type": "pr_closed",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-05-04T02:16:38",
-    "type": "event_head_ref_deleted",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-05-04T02:25:04",
     "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-04T02:25:04",
-    "type": "event_assigned",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
   },
@@ -2533,18 +2449,6 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-08-23T02:13:44",
-    "type": "event_labeled",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-08-23T02:13:45",
-    "type": "event_issue_type_added",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2026-09-25T16:48:10",
     "type": "pr_created",
     "repo": "python-services",
@@ -2554,66 +2458,6 @@
     "date": "2026-09-25T16:52:49",
     "type": "pr_created",
     "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:28",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:28",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:28",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:29",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:29",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:29",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:29",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:29",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:29",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "python-services",
     "user": "Lucasdoreac"
   },
   {
@@ -2673,12 +2517,6 @@
   {
     "date": "2026-09-27T00:33:26",
     "type": "event_subscribed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2026-09-27T00:33:26",
-    "type": "event_mentioned",
     "repo": "python-services",
     "user": "danrleypereira"
   },
@@ -3784,6 +3622,330 @@
     "date": "2026-10-18T15:52:03",
     "type": "issue_created",
     "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:29",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:29",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:32",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:32",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:35",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:35",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:38",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:39",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:41",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:41",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:44",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:44",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:47",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:48",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:50",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:50",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:52",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:53",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:55",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:55",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:57",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:57",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:59",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:43:59",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:01",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:02",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:04",
+    "type": "pr_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:04",
+    "type": "event_closed",
+    "repo": "python-services",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:26",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:26",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:28",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:29",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:31",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:31",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:33",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:34",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:35",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:36",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:38",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:38",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:40",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:40",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:42",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:42",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:44",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:45",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:47",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:47",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:49",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:49",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:51",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:52",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:54",
+    "type": "pr_closed",
+    "repo": "interfaces-usuario",
+    "user": "Lucasdoreac"
+  },
+  {
+    "date": "2026-10-19T13:44:54",
+    "type": "event_closed",
+    "repo": "interfaces-usuario",
     "user": "Lucasdoreac"
   }
 ]

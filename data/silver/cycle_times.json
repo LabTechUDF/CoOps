@@ -1,9 +1,9 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-19T10:34:39.532327",
+      "extracted_at": "2026-10-20T09:50:56.928039",
       "file_path": "data/silver/cycle_times.json",
-      "record_count": 88
+      "record_count": 115
     }
   },
   {
@@ -233,10 +233,122 @@
   {
     "type": "pr",
     "repo": "python-services",
+    "number": 85,
+    "created_at": "2026-10-03T15:39:42",
+    "closed_at": "2026-10-19T13:43:29",
+    "cycle_time_days": 15.91929398148148
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 84,
+    "created_at": "2026-10-03T14:53:58",
+    "closed_at": "2026-10-19T13:43:32",
+    "cycle_time_days": 15.951087962962964
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 83,
+    "created_at": "2026-10-03T03:05:34",
+    "closed_at": "2026-10-19T13:43:35",
+    "cycle_time_days": 16.44306712962963
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 82,
+    "created_at": "2026-10-02T21:45:14",
+    "closed_at": "2026-10-19T13:43:38",
+    "cycle_time_days": 16.665555555555557
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 81,
+    "created_at": "2026-10-02T21:04:02",
+    "closed_at": "2026-10-19T13:43:41",
+    "cycle_time_days": 16.69420138888889
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 80,
+    "created_at": "2026-10-02T19:29:58",
+    "closed_at": "2026-10-19T13:43:43",
+    "cycle_time_days": 16.75954861111111
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 79,
+    "created_at": "2026-10-02T19:22:08",
+    "closed_at": "2026-10-19T13:43:47",
+    "cycle_time_days": 16.76503472222222
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 78,
+    "created_at": "2026-10-02T18:38:57",
+    "closed_at": "2026-10-19T13:43:50",
+    "cycle_time_days": 16.79505787037037
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 77,
+    "created_at": "2026-10-02T18:37:50",
+    "closed_at": "2026-10-19T13:43:52",
+    "cycle_time_days": 16.795856481481483
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 76,
+    "created_at": "2026-10-02T17:55:45",
+    "closed_at": "2026-10-19T13:43:55",
+    "cycle_time_days": 16.825115740740742
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 75,
+    "created_at": "2026-10-02T16:35:07",
+    "closed_at": "2026-10-19T13:43:57",
+    "cycle_time_days": 16.88113425925926
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 74,
+    "created_at": "2026-10-02T16:33:59",
+    "closed_at": "2026-10-19T13:43:59",
+    "cycle_time_days": 16.881944444444443
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 73,
+    "created_at": "2026-10-02T16:33:21",
+    "closed_at": "2026-10-19T13:44:01",
+    "cycle_time_days": 16.882407407407406
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
     "number": 72,
     "created_at": "2026-10-01T22:30:53",
     "closed_at": "2026-10-02T10:56:13",
     "cycle_time_days": 0.5175925925925926
+  },
+  {
+    "type": "pr",
+    "repo": "python-services",
+    "number": 68,
+    "created_at": "2026-09-27T14:24:44",
+    "closed_at": "2026-10-19T13:44:04",
+    "cycle_time_days": 21.971759259259258
   },
   {
     "type": "pr",
@@ -565,6 +677,110 @@
     "created_at": "2023-04-17T08:10:01",
     "closed_at": "2023-04-17T08:11:06",
     "cycle_time_days": 0.0007523148148148148
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 53,
+    "created_at": "2026-10-03T03:07:39",
+    "closed_at": "2026-10-19T13:44:26",
+    "cycle_time_days": 16.442210648148148
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 52,
+    "created_at": "2026-10-02T21:51:59",
+    "closed_at": "2026-10-19T13:44:28",
+    "cycle_time_days": 16.66144675925926
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 51,
+    "created_at": "2026-10-02T21:19:54",
+    "closed_at": "2026-10-19T13:44:31",
+    "cycle_time_days": 16.683761574074072
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 50,
+    "created_at": "2026-10-02T19:20:36",
+    "closed_at": "2026-10-19T13:44:33",
+    "cycle_time_days": 16.766631944444445
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 49,
+    "created_at": "2026-10-02T18:48:05",
+    "closed_at": "2026-10-19T13:44:35",
+    "cycle_time_days": 16.789236111111112
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 48,
+    "created_at": "2026-10-02T18:46:58",
+    "closed_at": "2026-10-19T13:44:38",
+    "cycle_time_days": 16.790046296296296
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 47,
+    "created_at": "2026-10-02T17:54:43",
+    "closed_at": "2026-10-19T13:44:40",
+    "cycle_time_days": 16.82635416666667
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 46,
+    "created_at": "2026-10-02T17:48:17",
+    "closed_at": "2026-10-19T13:44:42",
+    "cycle_time_days": 16.830844907407407
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 45,
+    "created_at": "2026-10-02T16:38:59",
+    "closed_at": "2026-10-19T13:44:44",
+    "cycle_time_days": 16.878993055555554
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 44,
+    "created_at": "2026-10-02T16:38:10",
+    "closed_at": "2026-10-19T13:44:47",
+    "cycle_time_days": 16.87959490740741
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 43,
+    "created_at": "2026-10-02T16:37:12",
+    "closed_at": "2026-10-19T13:44:49",
+    "cycle_time_days": 16.88028935185185
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 42,
+    "created_at": "2026-10-02T16:37:09",
+    "closed_at": "2026-10-19T13:44:51",
+    "cycle_time_days": 16.880347222222223
+  },
+  {
+    "type": "pr",
+    "repo": "interfaces-usuario",
+    "number": 41,
+    "created_at": "2026-09-28T21:15:06",
+    "closed_at": "2026-10-19T13:44:54",
+    "cycle_time_days": 20.687361111111112
   },
   {
     "type": "pr",
