@@ -2,12 +2,12 @@
   "total_contributors": 19,
   "non_contributors": 0,
   "top_10_percent": 1,
-  "avg_contributions": 18.736842105263158,
+  "avg_contributions": 18.842105263157894,
   "median_contributions": 8,
   "max_contributions": 85,
   "min_contributions": 1,
   "_metadata": {
-    "extracted_at": "2026-10-20T09:50:56.860310",
+    "extracted_at": "2026-10-21T09:53:08.065804",
     "file_path": "data/silver/contribution_distribution.json"
   }
 }
