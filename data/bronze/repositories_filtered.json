@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-20T09:50:17.257993",
+      "extracted_at": "2026-10-21T09:52:29.197982",
       "file_path": "data/bronze/repositories_filtered.json",
       "record_count": 14
     }
@@ -95,7 +95,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -105,7 +105,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 11,
+    "open_issues": 12,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -317,7 +317,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -327,7 +327,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 16,
+    "open_issues": 17,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -1205,7 +1205,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -1215,7 +1215,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 14,
+    "open_issues": 15,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -1316,7 +1316,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -1326,7 +1326,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
