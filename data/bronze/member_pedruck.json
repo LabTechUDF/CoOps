@@ -31,9 +31,9 @@
   "followers": 4,
   "following": 4,
   "created_at": "2020-07-27T14:17:02Z",
-  "updated_at": "2026-10-17T14:03:48Z",
+  "updated_at": "2026-10-26T17:14:03Z",
   "_metadata": {
-    "extracted_at": "2026-10-26T10:48:48.428571",
+    "extracted_at": "2026-10-27T10:14:57.948210",
     "file_path": "data/bronze/member_pedruck.json"
   }
 }
