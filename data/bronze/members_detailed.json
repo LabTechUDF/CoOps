@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-27T10:14:57.942893",
+      "extracted_at": "2026-10-28T11:04:14.798082",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 16
     }
@@ -384,7 +384,7 @@
     "hireable": null,
     "bio": "Software Engineering student at UnB (University of Brasília)",
     "twitter_username": null,
-    "public_repos": 13,
+    "public_repos": 14,
     "public_gists": 0,
     "followers": 4,
     "following": 4,
