@@ -1,0 +1,252 @@
+[
+  {
+    "_metadata": {
+      "extracted_at": "2026-11-01T11:43:14.377069",
+      "file_path": "data/bronze/commits_ajuda-documentacao.json",
+      "record_count": 3
+    }
+  },
+  {
+    "sha": "8e027fce31b4d8bbe28c71c010c17f466a7a5998",
+    "node_id": "C_kwDOJTLpGtoAKDhlMDI3ZmNlMzFiNGQ4YmJlMjhjNzFjMDEwYzE3ZjQ2NmE3YTU5OTg",
+    "commit": {
+      "author": {
+        "name": "Guilherme de Oliveira Amaral",
+        "email": "111822772+GuiMcs00@users.noreply.github.com",
+        "date": "2024-10-05T05:37:54Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-05T05:37:54Z"
+      },
+      "message": "Ajuste top",
+      "tree": {
+        "sha": "980a1815906af876e7aa8334d803de01325ad027",
+        "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/git/trees/980a1815906af876e7aa8334d803de01325ad027"
+      },
+      "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/git/commits/8e027fce31b4d8bbe28c71c010c17f466a7a5998",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnANCyCRC1aQ7uu5UhlAAAmgMQAESmCeSJsftHLqY8Z5SCBNQ9\nmn1IpusJuOLdY9DFZ1Y/3Lp+ad646HEr4uG6c6ImkrkP0wwulBTBMm0uRaNRKNHD\nUqbuhIjUlR8d1B09Fgg6+g8VV+uC3Y0Hqqx6+gWrtxrInnmBKLNlcOIRcJP4sBRC\nfpklxxVtIBlehtSAntG0/FKPcvf3jyXwRQtPmpAGiG+d+ArHFmoOVbh2pjBlrO4J\nqS/zmpRAJttN2EZDqsvUfcnklfeSGUMOiPe33CZp1exld4gs4VOfEYyXaZWGee9d\nb03uBRZiqsCFwXuy+DWeLov+obu+jcCQIOQYAKdfuCT/pntte7qVAYUftIr1fZnG\nV6PIrKdII9jflSn95wP5lAF//v4UmT6Ph5uGvoJxJ8ViRpegERQpmMoXUuuTF9gX\nvFzBAObomNkPqj4GaNNZFzE40tSDKILAIeFIDP2nKQc9HKtA5ZDNVpZOq+Esn48H\ndPeL8F8Pq5EklAh3M2qJkAOXy4H069VsUh6YQqby/0T4eMA2xdxrbcqk2bdPInCO\nz6bQlrw2ZBpD4tRbWngpY8NH4PF7p6rdWM6XHr42lEqvg+/nyM1DwU9WeYXQqwaw\nTjcDj7h94cza0KQ1a6VAUi/7XCn6XLEdCLFKuPbDnfdrFacpgJYUPtQ50Uq/afGu\n8v/qL1IPlYqFzCgjsK//\n=GPzg\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 980a1815906af876e7aa8334d803de01325ad027\nparent d166093ccaf561180c66b67daa4a6123235f7223\nauthor Guilherme de Oliveira Amaral <111822772+GuiMcs00@users.noreply.github.com> 1728106674 -0300\ncommitter GitHub <noreply@github.com> 1728106674 -0300\n\nAjuste top",
+        "verified_at": "2025-02-15T04:28:06Z"
+      }
+    },
+    "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/8e027fce31b4d8bbe28c71c010c17f466a7a5998",
+    "html_url": "https://github.com/LabTechUDF/ajuda-documentacao/commit/8e027fce31b4d8bbe28c71c010c17f466a7a5998",
+    "comments_url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/8e027fce31b4d8bbe28c71c010c17f466a7a5998/comments",
+    "author": {
+      "login": "GuiMcs00",
+      "id": 111822772,
+      "node_id": "U_kgDOBqpHtA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111822772?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/GuiMcs00",
+      "html_url": "https://github.com/GuiMcs00",
+      "followers_url": "https://api.github.com/users/GuiMcs00/followers",
+      "following_url": "https://api.github.com/users/GuiMcs00/following{/other_user}",
+      "gists_url": "https://api.github.com/users/GuiMcs00/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/GuiMcs00/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/GuiMcs00/subscriptions",
+      "organizations_url": "https://api.github.com/users/GuiMcs00/orgs",
+      "repos_url": "https://api.github.com/users/GuiMcs00/repos",
+      "events_url": "https://api.github.com/users/GuiMcs00/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/GuiMcs00/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d166093ccaf561180c66b67daa4a6123235f7223",
+        "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/d166093ccaf561180c66b67daa4a6123235f7223",
+        "html_url": "https://github.com/LabTechUDF/ajuda-documentacao/commit/d166093ccaf561180c66b67daa4a6123235f7223"
+      }
+    ],
+    "repo_name": "ajuda-documentacao"
+  },
+  {
+    "sha": "d166093ccaf561180c66b67daa4a6123235f7223",
+    "node_id": "C_kwDOJTLpGtoAKGQxNjYwOTNjY2FmNTYxMTgwYzY2YjY3ZGFhNGE2MTIzMjM1ZjcyMjM",
+    "commit": {
+      "author": {
+        "name": "Guilherme de Oliveira Amaral",
+        "email": "111822772+GuiMcs00@users.noreply.github.com",
+        "date": "2024-10-05T05:11:20Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-05T05:11:20Z"
+      },
+      "message": "Documentação inicial",
+      "tree": {
+        "sha": "fb56852d95f126aa772703e73e9e2d60c8e438fd",
+        "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/git/trees/fb56852d95f126aa772703e73e9e2d60c8e438fd"
+      },
+      "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/git/commits/d166093ccaf561180c66b67daa4a6123235f7223",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnAMp4CRC1aQ7uu5UhlAAALNIQAFRisE8048sUu4ytB/IC6q4q\nN1cDZLo19Fae0p5JiKi1hT1aRFneJ5KUXibzfNB7JD9hU0OsjIzHgi2/DjUhyztz\nniMzM6oGIuLd21sYjg2WQQD5zBukWLxws8VqAm5/OXV/vvJnvGDK9TJlcHeiLXJJ\n8eTKIDEdfzqG45S041h8uhQlZ9rh2f/0dj3jcMtvpWcGG33SF/0kw1YDShswd6bW\nPLio6QNnJcDgnuH0dUcl9hi+mEOVBPdKypnMlgpqIKfLVH+LWO+VVNScSnKZT9HZ\n5Fk0NWgUDsu3/m/7JFPHDzeKvrMR6PA7wZBZu59ygtD1iwQNBvTqVoxAzcaIQt7k\n9EYRPAqBph8C8tuNewz2vnCW4EOP6QD4AxmQaiHSd9z8qdAsKUiuCPrzwrAuJkr1\ntTSq4MKMIXXCnKlNW3XtuJMo2DiDDpzVtLTmvRd82y2iBpPCBxYiCbqSGkX1Rmi3\nzTp3fQu1IYqbR4Sc8fDg5hRVFh5T/Pb58S9B3GG9ITf+ow9m5/3YFkhg284H+f1G\ntTrxlPakvNUNTiicvGShueXFqWqbl/sgIkvfseW42oP0fz5rV8uUuWzPIwxxng+Y\nCJcj3+Df7hHOXvxAYQUE5PC78eEEabXUxYO2YtVeyO+AQA0w6KPMm+I6pUGs+wNc\nUfPTyTKqyMU3VzrERRFn\n=OQ9s\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree fb56852d95f126aa772703e73e9e2d60c8e438fd\nparent a71867d697e41a9ac68097ec7227eb258d3f2500\nauthor Guilherme de Oliveira Amaral <111822772+GuiMcs00@users.noreply.github.com> 1728105080 -0300\ncommitter GitHub <noreply@github.com> 1728105080 -0300\n\nDocumentação inicial",
+        "verified_at": "2025-02-15T04:28:06Z"
+      }
+    },
+    "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/d166093ccaf561180c66b67daa4a6123235f7223",
+    "html_url": "https://github.com/LabTechUDF/ajuda-documentacao/commit/d166093ccaf561180c66b67daa4a6123235f7223",
+    "comments_url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/d166093ccaf561180c66b67daa4a6123235f7223/comments",
+    "author": {
+      "login": "GuiMcs00",
+      "id": 111822772,
+      "node_id": "U_kgDOBqpHtA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111822772?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/GuiMcs00",
+      "html_url": "https://github.com/GuiMcs00",
+      "followers_url": "https://api.github.com/users/GuiMcs00/followers",
+      "following_url": "https://api.github.com/users/GuiMcs00/following{/other_user}",
+      "gists_url": "https://api.github.com/users/GuiMcs00/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/GuiMcs00/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/GuiMcs00/subscriptions",
+      "organizations_url": "https://api.github.com/users/GuiMcs00/orgs",
+      "repos_url": "https://api.github.com/users/GuiMcs00/repos",
+      "events_url": "https://api.github.com/users/GuiMcs00/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/GuiMcs00/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a71867d697e41a9ac68097ec7227eb258d3f2500",
+        "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/a71867d697e41a9ac68097ec7227eb258d3f2500",
+        "html_url": "https://github.com/LabTechUDF/ajuda-documentacao/commit/a71867d697e41a9ac68097ec7227eb258d3f2500"
+      }
+    ],
+    "repo_name": "ajuda-documentacao"
+  },
+  {
+    "sha": "a71867d697e41a9ac68097ec7227eb258d3f2500",
+    "node_id": "C_kwDOJTLpGtoAKGE3MTg2N2Q2OTdlNDFhOWFjNjgwOTdlYzcyMjdlYjI1OGQzZjI1MDA",
+    "commit": {
+      "author": {
+        "name": "Danrley Pereira",
+        "email": "danrleywillyan@outlook.com",
+        "date": "2023-04-05T18:22:45Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2023-04-05T18:22:45Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "a87f084269a3dbff8a2a7697ccd6b35c7afef27f",
+        "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/git/trees/a87f084269a3dbff8a2a7697ccd6b35c7afef27f"
+      },
+      "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/git/commits/a71867d697e41a9ac68097ec7227eb258d3f2500",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkLbx1CRBK7hj4Ov3rIwAABrwIADg+x1n+ThEwwkHNJw24LEYa\nOxvOL/a7XtVbI2N7FKvpYBxS5JyP/4boKl2OVsLk+oCZWpI+tl9tbFTB1XBWwSPb\nJ534xGzU/JCmL5G1CZNh6RRDpGQI0I0dXeCEYzGlgLvPD9QJim4BqZgK7ig+YokI\nSLNUVrfUi2NSDgrbOwZNN31+Lbq5vglISGCcMcQmPrFpf4ZwRqaJY1KGAL75ABrw\nTll8lUTVPWQzbBa4mxkfFrSfdWlotcZ1EgFiWspzUBJmzDrKD1XQqzW14btkAX9Q\nB6xTYRdVZT1RSWNI0iAfi+GJm3aRA/tO8qj2jScwn76YON2LCGjlf3yfYG2kM48=\n=rg6H\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree a87f084269a3dbff8a2a7697ccd6b35c7afef27f\nauthor Danrley Pereira <danrleywillyan@outlook.com> 1680718965 -0300\ncommitter GitHub <noreply@github.com> 1680718965 -0300\n\nInitial commit",
+        "verified_at": "2024-01-16T19:59:59Z"
+      }
+    },
+    "url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/a71867d697e41a9ac68097ec7227eb258d3f2500",
+    "html_url": "https://github.com/LabTechUDF/ajuda-documentacao/commit/a71867d697e41a9ac68097ec7227eb258d3f2500",
+    "comments_url": "https://api.github.com/repos/LabTechUDF/ajuda-documentacao/commits/a71867d697e41a9ac68097ec7227eb258d3f2500/comments",
+    "author": {
+      "login": "danrleypereira",
+      "id": 12025215,
+      "node_id": "MDQ6VXNlcjEyMDI1MjE1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12025215?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/danrleypereira",
+      "html_url": "https://github.com/danrleypereira",
+      "followers_url": "https://api.github.com/users/danrleypereira/followers",
+      "following_url": "https://api.github.com/users/danrleypereira/following{/other_user}",
+      "gists_url": "https://api.github.com/users/danrleypereira/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/danrleypereira/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/danrleypereira/subscriptions",
+      "organizations_url": "https://api.github.com/users/danrleypereira/orgs",
+      "repos_url": "https://api.github.com/users/danrleypereira/repos",
+      "events_url": "https://api.github.com/users/danrleypereira/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/danrleypereira/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [],
+    "repo_name": "ajuda-documentacao"
+  }
+]
