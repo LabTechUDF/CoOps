@@ -1,26 +1,10 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-31T10:46:00.947525",
+      "extracted_at": "2026-11-01T11:43:31.859048",
       "file_path": "data/silver/repository_metrics.json",
-      "record_count": 6
+      "record_count": 8
     }
-  },
-  {
-    "issues": 32,
-    "prs": 55,
-    "commits": 56,
-    "comments": 0,
-    "total_activity": 143,
-    "repo": "python-services"
-  },
-  {
-    "issues": 18,
-    "prs": 36,
-    "commits": 62,
-    "comments": 0,
-    "total_activity": 116,
-    "repo": "interfaces-usuario"
   },
   {
     "issues": 0,
@@ -31,12 +15,28 @@
     "repo": "java-services"
   },
   {
+    "issues": 32,
+    "prs": 0,
+    "commits": 0,
+    "comments": 0,
+    "total_activity": 32,
+    "repo": "python-services"
+  },
+  {
     "issues": 0,
     "prs": 0,
-    "commits": 15,
+    "commits": 31,
     "comments": 0,
-    "total_activity": 15,
-    "repo": "entidades"
+    "total_activity": 31,
+    "repo": "eventos-angular"
+  },
+  {
+    "issues": 18,
+    "prs": 0,
+    "commits": 0,
+    "comments": 0,
+    "total_activity": 18,
+    "repo": "interfaces-usuario"
   },
   {
     "issues": 1,
@@ -49,9 +49,25 @@
   {
     "issues": 0,
     "prs": 0,
+    "commits": 3,
+    "comments": 0,
+    "total_activity": 3,
+    "repo": "ajuda-documentacao"
+  },
+  {
+    "issues": 0,
+    "prs": 0,
     "commits": 1,
     "comments": 0,
     "total_activity": 1,
     "repo": "demo-repository"
+  },
+  {
+    "issues": 0,
+    "prs": 0,
+    "commits": 1,
+    "comments": 0,
+    "total_activity": 1,
+    "repo": "crispy-octo-cluster"
   }
 ]

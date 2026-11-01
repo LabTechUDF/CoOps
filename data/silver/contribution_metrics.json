@@ -1,163 +1,75 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-31T10:46:00.947174",
+      "extracted_at": "2026-11-01T11:43:31.858856",
       "file_path": "data/silver/contribution_metrics.json",
-      "record_count": 19
+      "record_count": 10
     }
+  },
+  {
+    "issues_created": 0,
+    "issues_assigned": 0,
+    "prs_authored": 0,
+    "prs_reviewed": 0,
+    "commits": 83,
+    "comments": 0,
+    "total_contributions": 83,
+    "user": "tauisilva",
+    "has_contributed": true
   },
   {
     "issues_created": 24,
     "issues_assigned": 7,
-    "prs_authored": 19,
+    "prs_authored": 2,
     "prs_reviewed": 0,
-    "commits": 35,
+    "commits": 4,
     "comments": 0,
-    "total_contributions": 85,
+    "total_contributions": 37,
     "user": "danrleypereira",
     "has_contributed": true
   },
   {
     "issues_created": 21,
     "issues_assigned": 6,
-    "prs_authored": 13,
-    "prs_reviewed": 0,
-    "commits": 28,
-    "comments": 0,
-    "total_contributions": 68,
-    "user": "GuiMcs00",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
     "prs_authored": 0,
     "prs_reviewed": 0,
-    "commits": 54,
+    "commits": 2,
     "comments": 0,
-    "total_contributions": 54,
-    "user": "tauisilva",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 4,
-    "issues_assigned": 0,
-    "prs_authored": 35,
-    "prs_reviewed": 0,
-    "commits": 0,
-    "comments": 0,
-    "total_contributions": 39,
-    "user": "Lucasdoreac",
+    "total_contributions": 29,
+    "user": "GuiMcs00",
     "has_contributed": true
   },
   {
     "issues_created": 1,
     "issues_assigned": 10,
-    "prs_authored": 13,
+    "prs_authored": 0,
     "prs_reviewed": 0,
-    "commits": 10,
+    "commits": 0,
     "comments": 0,
-    "total_contributions": 34,
+    "total_contributions": 11,
     "user": "Gabriel-br07",
     "has_contributed": true
   },
   {
-    "issues_created": 0,
+    "issues_created": 4,
     "issues_assigned": 0,
     "prs_authored": 0,
     "prs_reviewed": 0,
-    "commits": 16,
+    "commits": 0,
     "comments": 0,
-    "total_contributions": 16,
-    "user": "thiagodiasz",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 2,
-    "prs_reviewed": 0,
-    "commits": 9,
-    "comments": 0,
-    "total_contributions": 11,
-    "user": "Lucas-Germano",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 2,
-    "prs_reviewed": 0,
-    "commits": 7,
-    "comments": 0,
-    "total_contributions": 9,
-    "user": "josue-oliveiraa",
+    "total_contributions": 4,
+    "user": "Lucasdoreac",
     "has_contributed": true
   },
   {
     "issues_created": 0,
     "issues_assigned": 2,
-    "prs_authored": 3,
-    "prs_reviewed": 0,
-    "commits": 3,
-    "comments": 0,
-    "total_contributions": 8,
-    "user": "pedruck",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
     "prs_authored": 0,
-    "prs_reviewed": 0,
-    "commits": 8,
-    "comments": 0,
-    "total_contributions": 8,
-    "user": "YuriNoriki",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 0,
-    "prs_reviewed": 0,
-    "commits": 7,
-    "comments": 0,
-    "total_contributions": 7,
-    "user": "juanpbarros20",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 1,
-    "prs_reviewed": 0,
-    "commits": 5,
-    "comments": 0,
-    "total_contributions": 6,
-    "user": "Bnicole98",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 1,
-    "prs_authored": 4,
     "prs_reviewed": 0,
     "commits": 0,
     "comments": 0,
-    "total_contributions": 5,
-    "user": "Bappoz",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 1,
-    "prs_reviewed": 0,
-    "commits": 1,
-    "comments": 0,
     "total_contributions": 2,
-    "user": "araujow-g",
+    "user": "pedruck",
     "has_contributed": true
   },
   {
@@ -168,7 +80,18 @@
     "commits": 2,
     "comments": 0,
     "total_contributions": 2,
-    "user": "whiterabbitholes",
+    "user": "MartinsArtur",
+    "has_contributed": true
+  },
+  {
+    "issues_created": 0,
+    "issues_assigned": 1,
+    "prs_authored": 0,
+    "prs_reviewed": 0,
+    "commits": 0,
+    "comments": 0,
+    "total_contributions": 1,
+    "user": "Bappoz",
     "has_contributed": true
   },
   {
@@ -190,29 +113,7 @@
     "commits": 1,
     "comments": 0,
     "total_contributions": 1,
-    "user": "polyanacunha",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 0,
-    "prs_reviewed": 0,
-    "commits": 1,
-    "comments": 0,
-    "total_contributions": 1,
-    "user": "MartinsArtur",
-    "has_contributed": true
-  },
-  {
-    "issues_created": 0,
-    "issues_assigned": 0,
-    "prs_authored": 0,
-    "prs_reviewed": 0,
-    "commits": 1,
-    "comments": 0,
-    "total_contributions": 1,
-    "user": "Danilo019",
+    "user": "eduardasf",
     "has_contributed": true
   }
 ]

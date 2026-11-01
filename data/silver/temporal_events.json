@@ -1,100 +1,10 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-31T10:46:00.993382",
+      "extracted_at": "2026-11-01T11:43:31.866649",
       "file_path": "data/silver/temporal_events.json",
-      "record_count": 659
+      "record_count": 186
     }
-  },
-  {
-    "date": "2023-03-27T18:50:05",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-03-27T18:54:27",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-03-31T14:52:19",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-03-31T15:06:08",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-03-31T15:27:30",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-03-31T15:57:56",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-01T00:48:46",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-01T00:52:46",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-01T00:54:30",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-01T00:55:33",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-01T00:55:48",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-03T23:26:13",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
-    "date": "2023-04-04T19:37:51",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-04T19:39:58",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-04T19:40:38",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
   },
   {
     "date": "2023-04-05T02:25:23",
@@ -103,64 +13,10 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2023-04-05T03:11:16",
+    "date": "2023-04-05T18:22:45",
     "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-12T03:50:29",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-12T08:28:28",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
-    "date": "2023-04-12T09:32:05",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
-    "date": "2023-04-12T09:52:00",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
-    "date": "2023-04-12T09:53:26",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
-    "date": "2023-04-12T21:35:54",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
-    "date": "2023-04-12T22:32:38",
-    "type": "commit",
-    "repo": "python-services",
+    "repo": "ajuda-documentacao",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-14T04:06:59",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-14T04:08:18",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
   },
   {
     "date": "2023-04-17T08:10:01",
@@ -199,18 +55,6 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2023-04-17T08:52:21",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
-    "date": "2023-04-17T08:52:27",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "YuriNoriki"
-  },
-  {
     "date": "2023-04-17T09:39:18",
     "type": "pr_created",
     "repo": "java-services",
@@ -244,168 +88,6 @@
     "date": "2023-04-17T09:39:25",
     "type": "event_referenced",
     "repo": "java-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T04:31:46",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T04:40:46",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T04:42:12",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T04:42:12",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T05:47:58",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T05:53:40",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T05:54:22",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T05:57:43",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T05:57:44",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-18T13:54:59",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-18T14:08:56",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "thiagodiasz"
-  },
-  {
-    "date": "2023-04-19T17:51:32",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "whiterabbitholes"
-  },
-  {
-    "date": "2023-04-19T17:58:46",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "whiterabbitholes"
-  },
-  {
-    "date": "2023-04-19T18:26:42",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-19T18:53:42",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-04-20T18:25:19",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "juanpbarros20"
-  },
-  {
-    "date": "2023-04-23T16:59:44",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "juanpbarros20"
-  },
-  {
-    "date": "2023-04-25T15:59:14",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "juanpbarros20"
-  },
-  {
-    "date": "2023-04-26T15:00:45",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "juanpbarros20"
-  },
-  {
-    "date": "2023-04-27T15:04:40",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "juanpbarros20"
-  },
-  {
-    "date": "2023-04-27T17:49:22",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "juanpbarros20"
-  },
-  {
-    "date": "2023-04-27T17:52:11",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "juanpbarros20"
-  },
-  {
-    "date": "2023-06-05T19:15:14",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-06-05T19:15:20",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-06-05T19:24:00",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-07-04T21:15:08",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2023-07-04T21:15:08",
-    "type": "commit",
-    "repo": "python-services",
     "user": "danrleypereira"
   },
   {
@@ -463,6 +145,24 @@
     "user": "tauisilva"
   },
   {
+    "date": "2023-12-09T03:33:42",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2023-12-13T02:11:53",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2023-12-16T00:50:26",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2023-12-16T00:51:10",
     "type": "commit",
     "repo": "java-services",
@@ -481,9 +181,21 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-01-02T21:46:43",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2024-01-02T23:48:31",
     "type": "commit",
     "repo": "java-services",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-01-02T23:49:49",
+    "type": "commit",
+    "repo": "eventos-angular",
     "user": "tauisilva"
   },
   {
@@ -529,6 +241,30 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-01-22T02:10:10",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-01-22T02:11:17",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-01-22T03:01:12",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-02-03T19:29:36",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2024-02-07T01:58:27",
     "type": "commit",
     "repo": "java-services",
@@ -553,6 +289,18 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-02-12T02:58:55",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-02-12T22:09:59",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2024-02-12T22:10:10",
     "type": "commit",
     "repo": "java-services",
@@ -565,9 +313,21 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-02-14T03:16:31",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2024-02-18T21:37:12",
     "type": "commit",
     "repo": "java-services",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-02-18T21:37:53",
+    "type": "commit",
+    "repo": "eventos-angular",
     "user": "tauisilva"
   },
   {
@@ -595,9 +355,39 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-02-20T02:24:52",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-02-20T02:33:26",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2024-02-20T02:51:37",
     "type": "commit",
     "repo": "java-services",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-02-20T17:00:07",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-02-20T22:16:06",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-02-21T03:02:26",
+    "type": "commit",
+    "repo": "eventos-angular",
     "user": "tauisilva"
   },
   {
@@ -655,6 +445,24 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-03-11T23:05:37",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-03-14T16:59:44",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-03-14T19:20:42",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2024-03-14T19:21:00",
     "type": "commit",
     "repo": "java-services",
@@ -671,18 +479,6 @@
     "type": "commit",
     "repo": "java-services",
     "user": "tauisilva"
-  },
-  {
-    "date": "2024-04-11T21:00:03",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-04-13T07:07:22",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
   },
   {
     "date": "2024-04-15T02:31:34",
@@ -703,21 +499,15 @@
     "user": "tauisilva"
   },
   {
-    "date": "2024-04-21T14:29:33",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-04-21T17:19:14",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-04-24T23:19:18",
     "type": "commit",
     "repo": "java-services",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-04-25T22:28:49",
+    "type": "commit",
+    "repo": "eventos-angular",
     "user": "tauisilva"
   },
   {
@@ -727,33 +517,51 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-04-26T00:31:27",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-04-26T00:38:14",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
     "date": "2024-04-27T19:31:01",
     "type": "commit",
     "repo": "java-services",
     "user": "tauisilva"
   },
   {
-    "date": "2024-04-27T22:21:58",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-04-27T22:56:00",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-04-28T02:08:06",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
     "date": "2024-05-02T02:53:57",
     "type": "commit",
     "repo": "java-services",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-05-02T02:54:37",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-05-02T03:06:11",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-05-03T00:03:26",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-05-03T00:28:12",
+    "type": "commit",
+    "repo": "eventos-angular",
     "user": "tauisilva"
   },
   {
@@ -769,6 +577,18 @@
     "user": "tauisilva"
   },
   {
+    "date": "2024-05-07T00:31:10",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "tauisilva"
+  },
+  {
+    "date": "2024-05-18T22:11:05",
+    "type": "commit",
+    "repo": "eventos-angular",
+    "user": "MartinsArtur"
+  },
+  {
     "date": "2024-05-28T13:49:30",
     "type": "commit",
     "repo": "java-services",
@@ -781,124 +601,10 @@
     "user": "tauisilva"
   },
   {
-    "date": "2024-08-31T23:08:04",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-08-31T23:08:54",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-08-31T23:14:39",
+    "date": "2024-07-27T22:34:01",
     "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "unknown"
-  },
-  {
-    "date": "2024-08-31T23:15:21",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-09-01T20:26:59",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-09-01T22:09:23",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-09-02T01:03:18",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-09-03T18:39:12",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-04T22:29:09",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-14T17:44:08",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-14T20:00:02",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-16T03:06:25",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-16T03:16:00",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-09-16T03:16:02",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-16T03:16:29",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-16T03:19:01",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-09-16T03:19:02",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-09-16T03:20:31",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-16T03:57:26",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-09-16T04:33:40",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
+    "repo": "eventos-angular",
+    "user": "eduardasf"
   },
   {
     "date": "2024-09-21T00:54:59",
@@ -907,82 +613,10 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-09-21T23:21:07",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-22T02:44:55",
-    "type": "commit",
-    "repo": "entidades",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-09-22T07:57:20",
     "type": "issue_created",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2024-09-24T20:46:31",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-24T21:00:00",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-24T21:00:18",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-25T00:41:31",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-25T23:32:16",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-25T23:34:17",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-25T23:46:49",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-25T23:55:36",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-26T00:13:17",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-26T15:09:05",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2024-09-26T20:31:20",
@@ -997,18 +631,6 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-09-27T05:59:50",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-09-27T06:02:13",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2024-09-28T23:30:44",
     "type": "issue_created",
     "repo": "python-services",
@@ -1021,100 +643,34 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-10-04T20:51:12",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-04T20:54:28",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-04T21:06:32",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-04T21:56:23",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-10-05T02:33:43",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2024-10-05T03:58:31",
     "type": "issue_created",
     "repo": "python-services",
     "user": "danrleypereira"
   },
   {
-    "date": "2024-10-05T06:08:15",
+    "date": "2024-10-05T05:11:20",
     "type": "commit",
-    "repo": "python-services",
+    "repo": "ajuda-documentacao",
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-10-06T14:17:08",
+    "date": "2024-10-05T05:37:54",
     "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-10-06T14:21:22",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-10-06T15:09:51",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-10-06T15:11:06",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-10-06T15:11:24",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-10-15T01:02:34",
-    "type": "pr_closed",
-    "repo": "python-services",
+    "repo": "ajuda-documentacao",
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-10-15T01:03:11",
+    "date": "2024-10-05T06:18:41",
     "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
+    "repo": "crispy-octo-cluster",
+    "user": "danrleypereira"
   },
   {
     "date": "2024-10-15T01:03:12",
     "type": "issue_closed",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2024-10-15T01:04:53",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2024-10-15T01:11:12",
@@ -1129,184 +685,16 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-10-19T02:51:05",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2024-10-29T00:28:15",
     "type": "issue_created",
     "repo": "python-services",
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-11-02T16:52:30",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-11-02T17:26:37",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Bnicole98"
-  },
-  {
-    "date": "2024-11-02T17:26:50",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-02T17:29:17",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-02T17:33:44",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-11-02T17:34:31",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-02T17:36:51",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-02T17:47:12",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-02T18:56:38",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-02T18:59:42",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-04T14:56:30",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-11-09T19:33:37",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2024-11-09T19:33:38",
     "type": "issue_closed",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-09T19:33:46",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-11-09T22:16:30",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "unknown"
-  },
-  {
-    "date": "2024-11-10T01:29:40",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-10T01:35:01",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-11T00:36:23",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-11T00:40:51",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-11T00:56:17",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-11T01:37:54",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-11T02:44:24",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-11T02:44:30",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-11T03:24:35",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-11T03:29:44",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-17T05:51:24",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2024-11-17T22:31:42",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-11-18T03:06:32",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "josue-oliveiraa"
   },
   {
     "date": "2024-11-22T04:00:40",
@@ -1333,54 +721,6 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2024-11-25T03:04:29",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-11-27T16:34:07",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-27T16:39:20",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-11-27T21:59:27",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-12-03T21:36:54",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-12-03T21:39:36",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2024-12-03T23:47:56",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2024-12-03T23:48:46",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "josue-oliveiraa"
-  },
-  {
     "date": "2024-12-04T00:10:06",
     "type": "pr_created",
     "repo": "java-services",
@@ -1405,57 +745,15 @@
     "user": "leltonborges"
   },
   {
-    "date": "2024-12-08T04:28:15",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-12-08T06:38:39",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "polyanacunha"
-  },
-  {
     "date": "2024-12-19T18:08:57",
     "type": "issue_created",
     "repo": "python-services",
     "user": "GuiMcs00"
   },
   {
-    "date": "2024-12-19T23:47:10",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2024-12-19T23:47:59",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2024-12-21T01:14:40",
     "type": "issue_created",
     "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2024-12-21T01:24:58",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-13T21:09:39",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-13T23:53:43",
-    "type": "commit",
-    "repo": "interfaces-usuario",
     "user": "GuiMcs00"
   },
   {
@@ -1481,18 +779,6 @@
     "type": "issue_closed",
     "repo": "interfaces-usuario",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-17T20:13:57",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucas-Germano"
-  },
-  {
-    "date": "2025-03-18T18:13:30",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
   },
   {
     "date": "2025-03-18T18:49:27",
@@ -1573,76 +859,10 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-03-21T08:53:40",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-22T00:04:39",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-22T00:04:39",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-03-22T00:04:40",
     "type": "issue_closed",
     "repo": "interfaces-usuario",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-23T00:45:31",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "Danilo019"
-  },
-  {
-    "date": "2025-03-23T18:22:37",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-03-23T18:25:36",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "araujow-g"
-  },
-  {
-    "date": "2025-03-23T18:26:42",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-23T18:27:34",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "josue-oliveiraa"
-  },
-  {
-    "date": "2025-03-23T18:47:06",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "araujow-g"
-  },
-  {
-    "date": "2025-03-23T20:50:14",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-23T22:58:48",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2025-03-23T22:58:49",
@@ -1651,34 +871,10 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-03-23T22:58:53",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2025-03-23T23:27:36",
     "type": "issue_closed",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-24T00:16:43",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-03-24T14:14:01",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-03-24T21:26:59",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2025-03-24T21:27:00",
@@ -1687,58 +883,10 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-03-24T21:28:42",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-03-25T01:42:08",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-25T01:49:39",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-26T16:31:43",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-03-26T16:31:44",
     "type": "issue_closed",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-26T16:31:48",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-26T21:21:02",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-03-27T15:50:52",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-03-27T16:54:09",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "pedruck"
   },
   {
     "date": "2025-03-27T16:54:10",
@@ -1747,75 +895,9 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-03-27T16:54:20",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-03-28T12:06:36",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-03-28T12:06:37",
     "type": "issue_closed",
     "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T12:06:39",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-28T21:27:58",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T21:28:09",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T22:11:23",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T22:11:37",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T22:11:47",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T22:11:51",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T22:11:53",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-28T22:11:55",
-    "type": "pr_closed",
-    "repo": "python-services",
     "user": "danrleypereira"
   },
   {
@@ -1837,20 +919,8 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-03-29T18:35:57",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "araujow-g"
-  },
-  {
     "date": "2025-03-29T19:42:08",
     "type": "issue_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-03-29T20:50:10",
-    "type": "commit",
     "repo": "python-services",
     "user": "Gabriel-br07"
   },
@@ -1859,36 +929,6 @@
     "type": "issue_closed",
     "repo": "python-services",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-03-29T20:50:14",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-03-29T22:04:34",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-29T22:04:37",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-29T22:04:40",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-29T22:04:43",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
   },
   {
     "date": "2025-03-29T22:05:53",
@@ -1903,32 +943,8 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-03-29T23:49:18",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2025-03-30T02:49:10",
     "type": "issue_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-30T04:09:47",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-30T04:11:04",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-03-30T04:11:06",
-    "type": "pr_closed",
     "repo": "python-services",
     "user": "danrleypereira"
   },
@@ -1981,80 +997,8 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-04-01T01:37:31",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-01T20:33:25",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-03T03:31:30",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-04-03T04:10:51",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-04-03T04:28:38",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-04-07T00:59:17",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-07T01:32:21",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2025-04-07T01:32:22",
     "type": "issue_closed",
-    "repo": "python-services",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-04-07T03:09:32",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-07T03:20:04",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-04-07T03:20:11",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-07T03:20:13",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-07T03:37:03",
-    "type": "commit",
     "repo": "python-services",
     "user": "danrleypereira"
   },
@@ -2065,82 +1009,10 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-04-09T19:43:50",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-10T15:42:17",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-04-12T21:44:18",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-14T17:24:57",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-14T17:24:58",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-14T17:27:05",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-04-14T17:27:06",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "pedruck"
-  },
-  {
-    "date": "2025-04-14T17:30:02",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
-    "date": "2025-04-14T17:30:02",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
-  },
-  {
     "date": "2025-04-14T17:30:03",
     "type": "issue_closed",
     "repo": "python-services",
     "user": "danrleypereira"
-  },
-  {
-    "date": "2025-04-14T17:58:50",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-14T17:59:05",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-14T18:39:11",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
   },
   {
     "date": "2025-04-14T20:15:27",
@@ -2155,34 +1027,10 @@
     "user": "Gabriel-br07"
   },
   {
-    "date": "2025-04-22T20:38:57",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-24T03:06:49",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-24T04:25:35",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-04-28T02:40:16",
     "type": "issue_created",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-28T20:05:48",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Gabriel-br07"
   },
   {
     "date": "2025-04-30T07:04:36",
@@ -2197,76 +1045,10 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-04-30T09:03:09",
-    "type": "commit",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-30T09:03:13",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-30T09:22:06",
-    "type": "commit",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-04-30T09:22:07",
     "type": "issue_closed",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-30T09:22:10",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-04-30T09:29:33",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-03T19:07:36",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-04T02:16:38",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-04T02:25:04",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-05-04T05:11:48",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-05-04T05:11:51",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-05-04T05:11:51",
-    "type": "event_review_request_removed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
   },
   {
     "date": "2025-05-07T02:03:20",
@@ -2275,26 +1057,8 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-05-07T02:03:51",
-    "type": "event_assigned",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-08T02:12:46",
-    "type": "event_assigned",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
     "date": "2025-05-08T02:12:57",
     "type": "issue_closed",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-05-08T02:12:57",
-    "type": "event_closed",
     "repo": "interfaces-usuario",
     "user": "danrleypereira"
   },
@@ -2305,98 +1069,8 @@
     "user": "danrleypereira"
   },
   {
-    "date": "2025-05-08T02:13:17",
-    "type": "event_labeled",
-    "repo": "interfaces-usuario",
-    "user": "danrleypereira"
-  },
-  {
-    "date": "2025-05-09T02:54:30",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-09T02:54:31",
-    "type": "event_connected",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-09T02:54:31",
-    "type": "event_connected",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-14T18:01:40",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-14T18:05:31",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-14T18:05:31",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-14T18:07:19",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-17T18:32:04",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-17T18:32:45",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-19T17:22:41",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-19T17:22:42",
-    "type": "event_connected",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-19T17:22:42",
-    "type": "event_connected",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
-    "date": "2025-05-19T17:23:32",
-    "type": "event_review_requested",
-    "repo": "interfaces-usuario",
-    "user": "Bappoz"
-  },
-  {
     "date": "2025-08-22T19:32:07",
     "type": "issue_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-08-22T19:32:08",
-    "type": "event_labeled",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
   },
@@ -2407,20 +1081,8 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-08-22T21:33:28",
-    "type": "event_labeled",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-08-22T21:43:25",
     "type": "issue_created",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-08-22T21:43:26",
-    "type": "event_labeled",
     "repo": "interfaces-usuario",
     "user": "GuiMcs00"
   },
@@ -2431,262 +1093,10 @@
     "user": "GuiMcs00"
   },
   {
-    "date": "2025-08-22T22:52:44",
-    "type": "event_labeled",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
-    "date": "2025-08-22T22:54:23",
-    "type": "event_issue_type_added",
-    "repo": "interfaces-usuario",
-    "user": "GuiMcs00"
-  },
-  {
     "date": "2025-08-23T02:13:43",
     "type": "issue_created",
     "repo": "python-services",
     "user": "GuiMcs00"
-  },
-  {
-    "date": "2026-09-25T16:48:10",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-25T16:52:49",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T10:07:32",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T22:10:20",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-26T22:10:20",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T07:58:49",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T07:58:54",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T12:26:59",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T12:26:59",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T12:28:24",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T12:28:24",
-    "type": "event_head_ref_deleted",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T12:28:25",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T12:28:25",
-    "type": "event_head_ref_deleted",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T14:24:44",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T14:57:36",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T19:16:02",
-    "type": "event_renamed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T19:16:02",
-    "type": "event_renamed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T20:03:01",
-    "type": "event_renamed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-27T20:03:01",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-28T21:15:06",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T02:01:19",
-    "type": "event_renamed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T10:12:48",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T10:12:48",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T13:15:52",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T13:16:48",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T18:56:14",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T18:59:26",
-    "type": "event_renamed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T19:24:43",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T19:32:22",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T19:33:32",
-    "type": "event_renamed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-29T19:40:43",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-30T19:51:37",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-30T19:54:09",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-09-30T20:54:07",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
   },
   {
     "date": "2026-10-01T00:13:36",
@@ -2707,1256 +1117,8 @@
     "user": "Lucasdoreac"
   },
   {
-    "date": "2026-10-01T22:30:53",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T00:02:50",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T00:04:27",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T10:56:13",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T10:56:13",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T12:28:47",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T12:28:47",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T12:36:49",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T12:36:49",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:30:41",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:30:42",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:30:42",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:30:42",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:33:20",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:33:21",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:33:59",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:35:07",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:36:23",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:37:09",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:37:12",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:38:10",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:38:59",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:40:00",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:40:00",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:40:02",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T16:40:05",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:36:55",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:36:55",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:44:06",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:44:06",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:44:09",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:44:11",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:48:17",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:53:20",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:53:20",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:53:23",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:53:25",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:54:43",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T17:55:45",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:37:50",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:38:57",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:39:33",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:39:33",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:39:39",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:39:40",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:41:16",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:41:56",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:41:56",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:44:48",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:44:48",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:46:58",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T18:48:05",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T19:11:10",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T19:11:11",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T19:12:33",
-    "type": "event_head_ref_force_pushed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T19:13:10",
-    "type": "event_head_ref_force_pushed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T19:20:36",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T19:22:08",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T19:29:58",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T21:04:02",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T21:19:54",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T21:45:14",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T21:51:59",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-02T21:54:25",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T00:14:23",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T03:05:34",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T03:07:39",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T03:11:03",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T03:11:04",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T03:11:05",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T03:11:06",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T10:10:44",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T10:14:37",
-    "type": "event_mentioned",
-    "repo": "interfaces-usuario",
-    "user": "testing-library"
-  },
-  {
-    "date": "2026-10-03T11:20:13",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T13:00:48",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T13:00:48",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T13:00:48",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T13:38:53",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:20:52",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:20:52",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:24:58",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:24:58",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:24:58",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:24:58",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:24:58",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:29:23",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:29:23",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:29:23",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:29:24",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:32:42",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:32:43",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:32:43",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:36:10",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:36:10",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:36:10",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:36:10",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:39:24",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:39:25",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:39:25",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:40:29",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:40:30",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:40:30",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:40:30",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:40:35",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:41:13",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:41:13",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:41:13",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:41:59",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:42:00",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:42:00",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:42:00",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:00",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:00",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:00",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:01",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:01",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:01",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:43:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T14:53:58",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T15:39:42",
-    "type": "pr_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:57:23",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:57:23",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:57:23",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:57:23",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:58:07",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:58:07",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:58:07",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T21:58:07",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:18",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:18",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:18",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:19",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:19",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:19",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:19",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:00:19",
-    "type": "event_referenced",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:43:22",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:43:22",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:43:22",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-03T22:43:22",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
     "date": "2026-10-18T15:52:03",
     "type": "issue_created",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:29",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:29",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:32",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:32",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:35",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:35",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:38",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:39",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:41",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:41",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:44",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:44",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:47",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:48",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:50",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:50",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:52",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:53",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:55",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:55",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:57",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:57",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:59",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:43:59",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:01",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:02",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:04",
-    "type": "pr_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:04",
-    "type": "event_closed",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:26",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:26",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:28",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:29",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:31",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:31",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:33",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:34",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:35",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:36",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:38",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:38",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:40",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:40",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:42",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:42",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:44",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:45",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:47",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:47",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:49",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:49",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:51",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:52",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:54",
-    "type": "pr_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-19T13:44:54",
-    "type": "event_closed",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-20T23:08:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-20T23:08:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-20T23:08:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-20T23:08:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-20T23:08:54",
-    "type": "event_referenced",
-    "repo": "python-services",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-20T23:09:06",
-    "type": "pr_created",
-    "repo": "interfaces-usuario",
-    "user": "Lucasdoreac"
-  },
-  {
-    "date": "2026-10-20T23:09:48",
-    "type": "pr_created",
     "repo": "python-services",
     "user": "Lucasdoreac"
   }
