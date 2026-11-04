@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-03T12:39:34.421622",
+      "extracted_at": "2026-11-04T12:49:06.272144",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 5
     }
@@ -69,7 +69,7 @@
     "hireable": null,
     "bio": "Software Engineer that can deliver value in any part of the life cycle of a software. ",
     "twitter_username": null,
-    "public_repos": 57,
+    "public_repos": 58,
     "public_gists": 0,
     "followers": 50,
     "following": 34,
