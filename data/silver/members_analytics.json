@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-03T12:40:02.490363",
+      "extracted_at": "2026-11-04T12:49:38.835972",
       "file_path": "data/silver/members_analytics.json",
       "record_count": 5
     }
@@ -19,9 +19,9 @@
     "following": 25,
     "created_at": "2018-08-22T11:37:06Z",
     "updated_at": "2026-10-19T13:55:29Z",
-    "maturity_score": 64.83566531259312,
+    "maturity_score": 64.8358321739329,
     "status": "established",
-    "account_age_days": 2995
+    "account_age_days": 2996
   },
   {
     "login": "danrleypereira",
@@ -31,14 +31,14 @@
     "location": "Gama-DF",
     "email": "danrleywillian@gmail.com",
     "bio": "Software Engineer that can deliver value in any part of the life cycle of a software. ",
-    "public_repos": 57,
+    "public_repos": 58,
     "followers": 50,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-10-23T15:14:13Z",
-    "maturity_score": 94.99116273123636,
+    "maturity_score": 95.04256461307695,
     "status": "established",
-    "account_age_days": 4215
+    "account_age_days": 4216
   },
   {
     "login": "MartinsArtur",
@@ -53,9 +53,9 @@
     "following": 8,
     "created_at": "2019-09-05T16:11:04Z",
     "updated_at": "2026-10-09T19:02:00Z",
-    "maturity_score": 49.68241477324493,
+    "maturity_score": 49.68260586822146,
     "status": "new",
-    "account_age_days": 2615
+    "account_age_days": 2616
   },
   {
     "login": "GuiMcs00",
@@ -70,9 +70,9 @@
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
     "updated_at": "2026-10-13T02:31:40Z",
-    "maturity_score": 50.16905055999294,
+    "maturity_score": 50.16937639903999,
     "status": "established",
-    "account_age_days": 1533
+    "account_age_days": 1534
   },
   {
     "login": "eduardasf",
@@ -87,8 +87,8 @@
     "following": 4,
     "created_at": "2023-10-08T19:17:43Z",
     "updated_at": "2026-10-10T02:51:41Z",
-    "maturity_score": 44.199832323891975,
+    "maturity_score": 44.200277758219876,
     "status": "established",
-    "account_age_days": 1121
+    "account_age_days": 1122
   }
 ]
