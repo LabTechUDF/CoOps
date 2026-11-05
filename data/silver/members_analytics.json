@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-04T12:49:38.835972",
+      "extracted_at": "2026-11-05T12:58:26.793079",
       "file_path": "data/silver/members_analytics.json",
       "record_count": 5
     }
@@ -19,9 +19,9 @@
     "following": 25,
     "created_at": "2018-08-22T11:37:06Z",
     "updated_at": "2026-10-19T13:55:29Z",
-    "maturity_score": 64.8358321739329,
+    "maturity_score": 64.83599897960585,
     "status": "established",
-    "account_age_days": 2996
+    "account_age_days": 2997
   },
   {
     "login": "danrleypereira",
@@ -36,9 +36,9 @@
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-10-23T15:14:13Z",
-    "maturity_score": 95.04256461307695,
+    "maturity_score": 95.04268316672304,
     "status": "established",
-    "account_age_days": 4216
+    "account_age_days": 4217
   },
   {
     "login": "MartinsArtur",
@@ -53,9 +53,9 @@
     "following": 8,
     "created_at": "2019-09-05T16:11:04Z",
     "updated_at": "2026-10-09T19:02:00Z",
-    "maturity_score": 49.68260586822146,
+    "maturity_score": 49.68279689019131,
     "status": "new",
-    "account_age_days": 2616
+    "account_age_days": 2617
   },
   {
     "login": "GuiMcs00",
@@ -66,13 +66,13 @@
     "email": null,
     "bio": "Working on something great! :D",
     "public_repos": 34,
-    "followers": 5,
+    "followers": 6,
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
     "updated_at": "2026-10-13T02:31:40Z",
-    "maturity_score": 50.16937639903999,
+    "maturity_score": 53.25271562242831,
     "status": "established",
-    "account_age_days": 1534
+    "account_age_days": 1535
   },
   {
     "login": "eduardasf",
@@ -87,8 +87,8 @@
     "following": 4,
     "created_at": "2023-10-08T19:17:43Z",
     "updated_at": "2026-10-10T02:51:41Z",
-    "maturity_score": 44.200277758219876,
+    "maturity_score": 44.20072279607747,
     "status": "established",
-    "account_age_days": 1122
+    "account_age_days": 1123
   }
 ]
