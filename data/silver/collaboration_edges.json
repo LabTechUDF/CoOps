@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-06T12:45:41.211715",
+      "extracted_at": "2026-11-07T11:33:43.756918",
       "file_path": "data/silver/collaboration_edges.json",
       "record_count": 20
     }
@@ -29,6 +29,33 @@
   },
   {
     "source": "Lucasdoreac",
+    "target": "pedruck",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
+    "target": "Lucasdoreac",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "GuiMcs00",
+    "target": "Lucasdoreac",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Lucasdoreac",
     "target": "danrleypereira",
     "weight": 1,
     "repos": [
@@ -38,7 +65,16 @@
   },
   {
     "source": "Gabriel-br07",
-    "target": "danrleypereira",
+    "target": "pedruck",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "GuiMcs00",
+    "target": "pedruck",
     "weight": 1,
     "repos": [
       "python-services"
@@ -55,15 +91,6 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "GuiMcs00",
-    "target": "Lucasdoreac",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
     "source": "Gabriel-br07",
     "target": "GuiMcs00",
     "weight": 1,
@@ -73,35 +100,8 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "GuiMcs00",
-    "target": "pedruck",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
     "source": "Gabriel-br07",
-    "target": "Lucasdoreac",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Lucasdoreac",
-    "target": "pedruck",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Gabriel-br07",
-    "target": "pedruck",
+    "target": "danrleypereira",
     "weight": 1,
     "repos": [
       "python-services"

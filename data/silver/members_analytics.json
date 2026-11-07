@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-06T12:45:41.199919",
+      "extracted_at": "2026-11-07T11:33:43.743295",
       "file_path": "data/silver/members_analytics.json",
       "record_count": 5
     }
@@ -32,13 +32,13 @@
     "email": "danrleywillian@gmail.com",
     "bio": "Software Engineer that can deliver value in any part of the life cycle of a software. ",
     "public_repos": 58,
-    "followers": 53,
-    "following": 42,
+    "followers": 54,
+    "following": 43,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-10-23T15:14:13Z",
-    "maturity_score": 96.18596996906483,
+    "maturity_score": 96.55307123988162,
     "status": "established",
-    "account_age_days": 4218
+    "account_age_days": 4219
   },
   {
     "login": "MartinsArtur",
@@ -53,9 +53,9 @@
     "following": 8,
     "created_at": "2019-09-05T16:11:04Z",
     "updated_at": "2026-10-09T19:02:00Z",
-    "maturity_score": 49.68298783921024,
+    "maturity_score": 49.68317871533396,
     "status": "new",
-    "account_age_days": 2618
+    "account_age_days": 2619
   },
   {
     "login": "GuiMcs00",
@@ -70,9 +70,9 @@
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
     "updated_at": "2026-10-13T02:31:40Z",
-    "maturity_score": 53.2530410373438,
+    "maturity_score": 53.2533662406073,
     "status": "established",
-    "account_age_days": 1536
+    "account_age_days": 1537
   },
   {
     "login": "eduardasf",
@@ -87,8 +87,8 @@
     "following": 4,
     "created_at": "2023-10-08T19:17:43Z",
     "updated_at": "2026-10-10T02:51:41Z",
-    "maturity_score": 44.20116743816992,
+    "maturity_score": 44.201611685200476,
     "status": "established",
-    "account_age_days": 1124
+    "account_age_days": 1125
   }
 ]
