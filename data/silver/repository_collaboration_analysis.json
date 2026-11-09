@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-08T11:46:17.613563",
+      "extracted_at": "2026-11-09T13:40:49.044931",
       "file_path": "data/silver/repository_collaboration_analysis.json",
       "record_count": 7
     }
@@ -10,11 +10,11 @@
     "repo": "python-services",
     "contributor_count": 5,
     "contributors": [
-      "Lucasdoreac",
+      "Gabriel-br07",
       "danrleypereira",
-      "pedruck",
+      "Lucasdoreac",
       "GuiMcs00",
-      "Gabriel-br07"
+      "pedruck"
     ],
     "potential_collaborations": 10,
     "actual_collaborations": 10,
@@ -24,10 +24,10 @@
     "repo": "java-services",
     "contributor_count": 4,
     "contributors": [
-      "danrleypereira",
       "leltonborges",
       "tauisilva",
-      "MartinsArtur"
+      "MartinsArtur",
+      "danrleypereira"
     ],
     "potential_collaborations": 6,
     "actual_collaborations": 6,
@@ -37,9 +37,9 @@
     "repo": "interfaces-usuario",
     "contributor_count": 3,
     "contributors": [
-      "danrleypereira",
+      "Bappoz",
       "GuiMcs00",
-      "Bappoz"
+      "danrleypereira"
     ],
     "potential_collaborations": 3,
     "actual_collaborations": 3,
@@ -61,8 +61,8 @@
     "repo": "ajuda-documentacao",
     "contributor_count": 2,
     "contributors": [
-      "danrleypereira",
-      "GuiMcs00"
+      "GuiMcs00",
+      "danrleypereira"
     ],
     "potential_collaborations": 1,
     "actual_collaborations": 1,
