@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-09T13:40:49.029573",
+      "extracted_at": "2026-11-10T13:17:56.636263",
       "file_path": "data/silver/members_analytics.json",
       "record_count": 5
     }
@@ -14,14 +14,14 @@
     "location": "Brazil",
     "email": null,
     "bio": "Desenvolvedor de software",
-    "public_repos": 24,
+    "public_repos": 25,
     "followers": 12,
     "following": 25,
     "created_at": "2018-08-22T11:37:06Z",
     "updated_at": "2026-11-05T15:07:13Z",
-    "maturity_score": 64.95913162993205,
+    "maturity_score": 65.07696029728685,
     "status": "established",
-    "account_age_days": 3001
+    "account_age_days": 3002
   },
   {
     "login": "danrleypereira",
@@ -36,9 +36,9 @@
     "following": 43,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-10-23T15:14:13Z",
-    "maturity_score": 96.55330815057073,
+    "maturity_score": 96.55342656383355,
     "status": "established",
-    "account_age_days": 4221
+    "account_age_days": 4222
   },
   {
     "login": "MartinsArtur",
@@ -53,9 +53,9 @@
     "following": 8,
     "created_at": "2019-09-05T16:11:04Z",
     "updated_at": "2026-10-09T19:02:00Z",
-    "maturity_score": 49.68356024911821,
+    "maturity_score": 49.68375090688983,
     "status": "new",
-    "account_age_days": 2621
+    "account_age_days": 2622
   },
   {
     "login": "GuiMcs00",
@@ -69,10 +69,10 @@
     "followers": 5,
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
-    "updated_at": "2026-10-13T02:31:40Z",
-    "maturity_score": 50.171002416733174,
+    "updated_at": "2026-11-10T03:20:32Z",
+    "maturity_score": 50.171326986689394,
     "status": "established",
-    "account_age_days": 1539
+    "account_age_days": 1540
   },
   {
     "login": "eduardasf",
@@ -86,9 +86,9 @@
     "followers": 4,
     "following": 4,
     "created_at": "2023-10-08T19:17:43Z",
-    "updated_at": "2026-10-10T02:51:41Z",
-    "maturity_score": 44.202498996879655,
+    "updated_at": "2026-11-09T22:59:03Z",
+    "maturity_score": 44.20294206292549,
     "status": "established",
-    "account_age_days": 1127
+    "account_age_days": 1128
   }
 ]
