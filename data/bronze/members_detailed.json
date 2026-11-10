@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-09T13:40:18.107330",
+      "extracted_at": "2026-11-10T13:17:24.137232",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 5
     }
@@ -34,7 +34,7 @@
     "hireable": true,
     "bio": "Desenvolvedor de software",
     "twitter_username": null,
-    "public_repos": 24,
+    "public_repos": 25,
     "public_gists": 0,
     "followers": 12,
     "following": 25,
@@ -144,7 +144,7 @@
     "followers": 5,
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
-    "updated_at": "2026-10-13T02:31:40Z"
+    "updated_at": "2026-11-10T03:20:32Z"
   },
   {
     "login": "eduardasf",
@@ -179,6 +179,6 @@
     "followers": 4,
     "following": 4,
     "created_at": "2023-10-08T19:17:43Z",
-    "updated_at": "2026-10-10T02:51:41Z"
+    "updated_at": "2026-11-09T22:59:03Z"
   }
 ]
