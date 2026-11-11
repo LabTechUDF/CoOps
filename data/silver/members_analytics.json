@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-10T13:17:56.636263",
+      "extracted_at": "2026-11-11T12:29:39.754929",
       "file_path": "data/silver/members_analytics.json",
       "record_count": 5
     }
@@ -14,14 +14,14 @@
     "location": "Brazil",
     "email": null,
     "bio": "Desenvolvedor de software",
-    "public_repos": 25,
+    "public_repos": 26,
     "followers": 12,
-    "following": 25,
+    "following": 26,
     "created_at": "2018-08-22T11:37:06Z",
     "updated_at": "2026-11-05T15:07:13Z",
-    "maturity_score": 65.07696029728685,
+    "maturity_score": 65.19034775368573,
     "status": "established",
-    "account_age_days": 3002
+    "account_age_days": 3003
   },
   {
     "login": "danrleypereira",
@@ -32,13 +32,13 @@
     "email": "danrleywillian@gmail.com",
     "bio": "Software Engineer that can deliver value in any part of the life cycle of a software. ",
     "public_repos": 58,
-    "followers": 54,
+    "followers": 56,
     "following": 43,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-10-23T15:14:13Z",
-    "maturity_score": 96.55342656383355,
+    "updated_at": "2026-11-11T11:53:23Z",
+    "maturity_score": 97.2679066011012,
     "status": "established",
-    "account_age_days": 4222
+    "account_age_days": 4223
   },
   {
     "login": "MartinsArtur",
@@ -53,9 +53,9 @@
     "following": 8,
     "created_at": "2019-09-05T16:11:04Z",
     "updated_at": "2026-10-09T19:02:00Z",
-    "maturity_score": 49.68375090688983,
+    "maturity_score": 49.68394149198838,
     "status": "new",
-    "account_age_days": 2622
+    "account_age_days": 2623
   },
   {
     "login": "GuiMcs00",
@@ -70,9 +70,9 @@
     "following": 42,
     "created_at": "2022-08-23T00:44:38Z",
     "updated_at": "2026-11-10T03:20:32Z",
-    "maturity_score": 50.171326986689394,
+    "maturity_score": 50.171651346090975,
     "status": "established",
-    "account_age_days": 1540
+    "account_age_days": 1541
   },
   {
     "login": "eduardasf",
@@ -87,8 +87,8 @@
     "following": 4,
     "created_at": "2023-10-08T19:17:43Z",
     "updated_at": "2026-11-09T22:59:03Z",
-    "maturity_score": 44.20294206292549,
+    "maturity_score": 44.20338473670385,
     "status": "established",
-    "account_age_days": 1128
+    "account_age_days": 1129
   }
 ]

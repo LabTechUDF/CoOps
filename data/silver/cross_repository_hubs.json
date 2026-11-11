@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-10T13:17:56.650287",
+      "extracted_at": "2026-11-11T12:29:39.763155",
       "file_path": "data/silver/cross_repository_hubs.json",
       "record_count": 4
     }
@@ -30,7 +30,7 @@
     "total_collaborators": 5
   },
   {
-    "user": "MartinsArtur",
+    "user": "tauisilva",
     "repositories": [
       "java-services",
       "eventos-angular"
@@ -39,7 +39,7 @@
     "total_collaborators": 4
   },
   {
-    "user": "tauisilva",
+    "user": "MartinsArtur",
     "repositories": [
       "java-services",
       "eventos-angular"
