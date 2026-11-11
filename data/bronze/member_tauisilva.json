@@ -26,14 +26,14 @@
   "hireable": true,
   "bio": "Desenvolvedor de software",
   "twitter_username": null,
-  "public_repos": 25,
+  "public_repos": 26,
   "public_gists": 0,
   "followers": 12,
-  "following": 25,
+  "following": 26,
   "created_at": "2018-08-22T11:37:06Z",
   "updated_at": "2026-11-05T15:07:13Z",
   "_metadata": {
-    "extracted_at": "2026-11-10T13:17:24.137562",
+    "extracted_at": "2026-11-11T12:29:13.186271",
     "file_path": "data/bronze/member_tauisilva.json"
   }
 }
