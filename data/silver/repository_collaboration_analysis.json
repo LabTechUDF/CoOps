@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-16T13:25:26.088480",
+      "extracted_at": "2026-11-17T14:10:15.955006",
       "file_path": "data/silver/repository_collaboration_analysis.json",
       "record_count": 7
     }
@@ -10,11 +10,11 @@
     "repo": "python-services",
     "contributor_count": 5,
     "contributors": [
-      "danrleypereira",
-      "pedruck",
       "Lucasdoreac",
       "GuiMcs00",
-      "Gabriel-br07"
+      "Gabriel-br07",
+      "danrleypereira",
+      "pedruck"
     ],
     "potential_collaborations": 10,
     "actual_collaborations": 10,
@@ -24,10 +24,10 @@
     "repo": "java-services",
     "contributor_count": 4,
     "contributors": [
-      "MartinsArtur",
-      "leltonborges",
       "tauisilva",
-      "danrleypereira"
+      "danrleypereira",
+      "MartinsArtur",
+      "leltonborges"
     ],
     "potential_collaborations": 6,
     "actual_collaborations": 6,
@@ -37,9 +37,9 @@
     "repo": "interfaces-usuario",
     "contributor_count": 3,
     "contributors": [
-      "Bappoz",
       "GuiMcs00",
-      "danrleypereira"
+      "danrleypereira",
+      "Bappoz"
     ],
     "potential_collaborations": 3,
     "actual_collaborations": 3,
@@ -49,8 +49,8 @@
     "repo": "eventos-angular",
     "contributor_count": 3,
     "contributors": [
-      "MartinsArtur",
       "tauisilva",
+      "MartinsArtur",
       "eduardasf"
     ],
     "potential_collaborations": 3,
