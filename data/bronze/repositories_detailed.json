@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-17T14:09:39.195830",
+      "extracted_at": "2026-11-18T13:41:41.154541",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -141,7 +141,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-11-17T14:09:37.971093",
+      "extracted_at": "2026-11-18T13:41:39.080140",
       "file_path": "data/bronze/repo_java-services.json"
     }
   },
@@ -280,7 +280,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-11-17T14:09:38.291527",
+      "extracted_at": "2026-11-18T13:41:39.579569",
       "file_path": "data/bronze/repo_demo-repository.json"
     }
   },
@@ -419,7 +419,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-11-17T14:09:38.597265",
+      "extracted_at": "2026-11-18T13:41:40.132355",
       "file_path": "data/bronze/repo_ajuda-documentacao.json"
     }
   },
@@ -558,7 +558,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-11-17T14:09:38.903304",
+      "extracted_at": "2026-11-18T13:41:40.644462",
       "file_path": "data/bronze/repo_eventos-angular.json"
     }
   },
@@ -697,7 +697,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-11-17T14:09:39.195562",
+      "extracted_at": "2026-11-18T13:41:41.154335",
       "file_path": "data/bronze/repo_crispy-octo-cluster.json"
     }
   }
