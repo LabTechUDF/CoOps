@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-20T13:53:05.427773",
+      "extracted_at": "2026-11-21T13:16:27.560594",
       "file_path": "data/silver/collaboration_edges.json",
       "record_count": 20
     }
@@ -28,17 +28,8 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Lucasdoreac",
-    "target": "pedruck",
-    "weight": 1,
-    "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
     "source": "Gabriel-br07",
-    "target": "pedruck",
+    "target": "danrleypereira",
     "weight": 1,
     "repos": [
       "python-services"
@@ -55,7 +46,16 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "GuiMcs00",
+    "source": "Lucasdoreac",
+    "target": "danrleypereira",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "Gabriel-br07",
     "target": "pedruck",
     "weight": 1,
     "repos": [
@@ -73,8 +73,26 @@
     "collaboration_type": "same_repository"
   },
   {
+    "source": "Gabriel-br07",
+    "target": "GuiMcs00",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
     "source": "Lucasdoreac",
-    "target": "danrleypereira",
+    "target": "pedruck",
+    "weight": 1,
+    "repos": [
+      "python-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "GuiMcs00",
+    "target": "pedruck",
     "weight": 1,
     "repos": [
       "python-services"
@@ -91,20 +109,11 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Gabriel-br07",
+    "source": "Bappoz",
     "target": "danrleypereira",
     "weight": 1,
     "repos": [
-      "python-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "Gabriel-br07",
-    "target": "GuiMcs00",
-    "weight": 1,
-    "repos": [
-      "python-services"
+      "interfaces-usuario"
     ],
     "collaboration_type": "same_repository"
   },
@@ -118,11 +127,38 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "Bappoz",
+    "source": "MartinsArtur",
     "target": "danrleypereira",
     "weight": 1,
     "repos": [
-      "interfaces-usuario"
+      "java-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "danrleypereira",
+    "target": "leltonborges",
+    "weight": 1,
+    "repos": [
+      "java-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "danrleypereira",
+    "target": "tauisilva",
+    "weight": 1,
+    "repos": [
+      "java-services"
+    ],
+    "collaboration_type": "same_repository"
+  },
+  {
+    "source": "MartinsArtur",
+    "target": "leltonborges",
+    "weight": 1,
+    "repos": [
+      "java-services"
     ],
     "collaboration_type": "same_repository"
   },
@@ -137,43 +173,7 @@
   },
   {
     "source": "MartinsArtur",
-    "target": "leltonborges",
-    "weight": 1,
-    "repos": [
-      "java-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "danrleypereira",
-    "target": "leltonborges",
-    "weight": 1,
-    "repos": [
-      "java-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "danrleypereira",
-    "target": "tauisilva",
-    "weight": 1,
-    "repos": [
-      "java-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "MartinsArtur",
-    "target": "danrleypereira",
-    "weight": 1,
-    "repos": [
-      "java-services"
-    ],
-    "collaboration_type": "same_repository"
-  },
-  {
-    "source": "eduardasf",
-    "target": "tauisilva",
+    "target": "eduardasf",
     "weight": 1,
     "repos": [
       "eventos-angular"
@@ -181,8 +181,8 @@
     "collaboration_type": "same_repository"
   },
   {
-    "source": "MartinsArtur",
-    "target": "eduardasf",
+    "source": "eduardasf",
+    "target": "tauisilva",
     "weight": 1,
     "repos": [
       "eventos-angular"
